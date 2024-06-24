@@ -1,0 +1,126 @@
+{
+    "logic": "multivar_fol",
+    "rule": "5",
+    "depth": "-",
+    "samples": [
+    {
+        "id": 1,
+        "context": "In a zoo, if an animal is hungry, then there is someone who feeds it. The lion is hungry.",
+        "question": "Does it follow that there is someone in the zoo who feeds the lion?",
+        "answer": "yes"
+    },
+    {
+        "id": 2,
+        "context": "In a theater, if a movie is sold out, then there is a staff member who assists customers. The movie 'Starfall' is sold out.",
+        "question": "Can we conclude that there is a staff member in the theater who assists customers for the movie 'Starfall'?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "context": "In a bakery, if a pastry is ordered, then there exists a baker who prepares it. A chocolate cake is ordered.",
+        "question": "Can we conclude that there exists a baker in the bakery who prepares the chocolate cake?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "context": "In a gym, if a membership is purchased, then there is a trainer who creates a personalized workout plan. Maria purchased a gym membership.",
+        "question": "Can we deduce that there is a trainer in the gym who creates a personalized workout plan for Maria?",
+        "answer": "yes"
+    },
+    {
+        "id": 5,
+        "context": "In a music class, if a student shows musical talent, then there is a music teacher who provides additional lessons. Ben displays exceptional musical talent.",
+        "question": "Can we conclude that there exists a music teacher in the music class who provides additional lessons to Ben?",
+        "answer": "yes"
+    },
+    {
+        "id": 6,
+        "context": "In a hospital where all patients are assigned a nurse, if someone requires immediate medical attention, then there is a professional who responds promptly. Sarah urgently needs medical help.",
+        "question": "Can we infer that there is a professional in the hospital who will respond promptly to Sarah's medical emergency?",
+        "answer": "yes"
+    },
+    {
+        "id": 7,
+        "context": "In a bakery where all bakers make fresh bread, if a loaf is left in the oven too long, then there is a staffer who removes it. Emily accidentally forgot the bread in the oven.",
+        "question": "Does it follow that there is a staffer in the bakery who removed the overcooked bread Emily forgot?",
+        "answer": "yes"
+    },
+    {
+        "id": 8,
+        "context": "In a music store where every purchased instrument is tuned, if a guitar sound is off, then there is an expert who adjusts it. James bought a new guitar with a slight tuning issue.",
+        "question": "Can we deduce that there is an expert in the music store who adjusted James' guitar?",
+        "answer": "yes"
+    },
+    {
+        "id": 9,
+        "context": "In a garden where all flowers are watered, if a plant appears dry, then there is a gardener who hydrates it. Maria noticed one of her plants looking parched.",
+        "question": "Can we conclude that there is a gardener in the garden who hydrated the dry plant Maria noticed?",
+        "answer": "yes"
+    },
+    {
+        "id": 10,
+        "context": "In a library where all returned books are shelved, if a volume is misplaced, then there is a librarian who relocates it. Alex found a mystery novel in the wrong section.",
+        "question": "Can we infer that there is a librarian in the library who relocated the misplaced mystery novel Alex found?",
+        "answer": "yes"
+    },
+    {
+        "id": 11,
+        "context": "In a pet shelter, if someone adopts a cat, then there is a volunteer who helps with the adoption process. Emily adopted a kitten.",
+        "question": "Does it follow that there is a volunteer at the pet shelter who helped Emily with the kitten adoption?",
+        "answer": "yes"
+    },
+    {
+        "id": 12,
+        "context": "In every art gallery, if a visitor shows interest in a painting, then there is an art expert who provides information about the artist. At the Metropolitan Museum of Art, John admired a famous portrait.",
+        "question": "Can we conclude that there is an art expert at the Metropolitan Museum of Art who can offer insights about the artist of the portrait John admired?",
+        "answer": "yes"
+    },
+    {
+        "id": 13,
+        "context": "In a cooking class, if someone bakes a cake, then there is a chef who offers feedback on the baking technique. Sarah baked a delicious chocolate cake.",
+        "question": "Can we deduce that there is a chef in the cooking class who provided feedback on Sarah's chocolate cake?",
+        "answer": "yes"
+    },
+    {
+        "id": 14,
+        "context": "In any gym, if a member achieves a new personal record in weightlifting, then there is a trainer who helps with technique improvement. At StrongFit Gym, Mike lifted a new personal best.",
+        "question": "Can we conclude that there is a trainer at StrongFit Gym who assisted Mike in improving his weightlifting technique?",
+        "answer": "yes"
+    },
+    {
+        "id": 15,
+        "context": "In a music academy, if a student performs exceptionally well in a recital, then there is a music teacher who gives constructive feedback. Alex gave a stunning piano performance.",
+        "question": "Can we infer that there is a music teacher at the music academy who provided feedback on Alex's piano performance?",
+        "answer": "yes"
+    },
+    {
+        "id": 16,
+        "context": "In a town where every pet that gets lost is found by someone, if a cat goes missing, then there is a neighbor who locates it. Whiskers the cat went missing.",
+        "question": "Does it follow that there is a neighbor who locates Whiskers the cat?",
+        "answer": "yes"
+    },
+    {
+        "id": 17,
+        "context": "At a bakery where for every fresh batch of cookies made, there is a customer who buys them, if delicious cupcakes are baked, then there is a patron who enjoys them. Sarah baked delicious cupcakes.",
+        "question": "Can we conclude that there is a patron who enjoys the delicious cupcakes made by Sarah?",
+        "answer": "yes"
+    },
+    {
+        "id": 18,
+        "context": "In a park where every soccer ball kicked ends up in someone's possession, if a goal is scored, then there is a child who retrieves the ball. David scored a goal in the park.",
+        "question": "Can we deduce that there is a child who retrieves the ball for David after he scored a goal?",
+        "answer": "yes"
+    },
+    {
+        "id": 19,
+        "context": "In a neighborhood known for its communal garden, if every vegetable grown is harvested by someone, then there exists a gardener who tends to the crops. Emily grew ripe tomatoes in the community garden.",
+        "question": "Can we infer that there is a gardener in the community garden who tends to the ripe tomatoes grown by Emily?",
+        "answer": "yes"
+    },
+    {
+        "id": 20,
+        "context": "Within a film club where any classic movie suggested is watched by a cinephile, if a vintage film is chosen, there is a movie enthusiast who views it. Alex recommended 'Casablanca' to the group.",
+        "question": "Can we conclude that there exists a movie enthusiast in the film club who watched 'Casablanca' suggested by Alex?",
+        "answer": "yes"
+    }
+]}

@@ -1,0 +1,126 @@
+{
+    "logic": "multivar_fol",
+    "rule": "7",
+    "depth": "-",
+    "samples": [
+    {
+        "id": 1,
+        "context": "At a university, if a student enrolls in a course, it implies that the student is assigned to a professor and the course material is accessible. John, a student, enrolled in the Mathematics course.",
+        "question": "Does this mean that John is assigned to a professor and that the Mathematics course material is accessible?",
+        "answer": "yes"
+    },
+    {
+        "id": 2,
+        "context": "In a bakery, when a chef bakes a cake, it indicates that ingredients are mixed together and the oven is preheated. Sarah, a chef, baked a chocolate cake.",
+        "question": "Can we deduce that the ingredients are mixed together and the oven is preheated when Sarah baked a chocolate cake?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "context": "In a garden, if a gardener plants a seed, it means that the soil is fertile and the seed is watered daily. Lisa, a gardener, planted a sunflower seed.",
+        "question": "Does this imply that the soil is fertile and the sunflower seed is watered daily when Lisa planted the seed?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "context": "On a cruise ship, when a passenger boards, it signifies that the luggage is stored and the cabin is assigned. Alex, a passenger, boarded the ship.",
+        "question": "Can we infer that the luggage is stored and the cabin is assigned when Alex boarded the cruise ship?",
+        "answer": "yes"
+    },
+    {
+        "id": 5,
+        "context": "In a gym, if a trainer guides a client, it indicates that a workout plan is tailored and the client's progress is monitored. Emily, a trainer, guided Sarah during her workout.",
+        "question": "Does this entail that a workout plan is tailored for Sarah and her progress is monitored when Emily guided her?",
+        "answer": "yes"
+    },
+    {
+        "id": 6,
+        "context": "In a bakery, if someone buys a cake, it means they are celebrating a special occasion and the cake is freshly baked. John purchased a birthday cake.",
+        "question": "Does this imply that John is celebrating a special occasion and that the cake is freshly baked?",
+        "answer": "yes"
+    },
+    {
+        "id": 7,
+        "context": "In a gym, when a person signs up for personal training, it signifies they are committed to fitness goals and the trainer is experienced. Sarah enrolled in personal training sessions with Coach Smith.",
+        "question": "Can we infer that Sarah is committed to fitness goals and that Coach Smith is experienced?",
+        "answer": "yes"
+    },
+    {
+        "id": 8,
+        "context": "In a garden, if someone plants a rose bush, it indicates they have a passion for gardening and the plant is well-suited for the climate. Emily planted a red rose bush in her backyard.",
+        "question": "Does this mean that Emily has a passion for gardening and that the red rose bush is well-suited for the climate?",
+        "answer": "yes"
+    },
+    {
+        "id": 9,
+        "context": "In a classroom, if a student answers a question correctly, it shows their understanding of the material and the teacher's explanation was effective. Alex gave the correct answer to a math problem.",
+        "question": "Can we deduce that Alex understands the material and that the teacher's explanation was effective?",
+        "answer": "yes"
+    },
+    {
+        "id": 10,
+        "context": "At a book club, when a member recommends a classic novel, it suggests their appreciation for literature and the book club values diverse reading choices. Jessica suggested reading 'To Kill a Mockingbird.'",
+        "question": "Does this indicate that Jessica appreciates literature and that the book club values diverse reading choices?",
+        "answer": "yes"
+    },
+    {
+        "id": 11,
+        "context": "In a community garden, if someone waters the plants, it indicates that the garden is thriving and the plants are receiving care. Emma, a gardener, watered the tulips.",
+        "question": "Does this imply that Emma is taking good care of the garden and the tulips are flourishing?",
+        "answer": "yes"
+    },
+    {
+        "id": 12,
+        "context": "In a gym, if a member attends a fitness class, it means the member is active and the class is well-liked. John, a gym member, participated in the yoga session.",
+        "question": "Can we infer that John is active in the gym and that he enjoys the yoga class?",
+        "answer": "yes"
+    },
+    {
+        "id": 13,
+        "context": "At a bakery, if someone orders a custom cake, it signals the celebration and the cake is personalized. Sarah, a customer, requested a birthday cake.",
+        "question": "Does this suggest that Sarah is celebrating a birthday and she ordered a custom cake?",
+        "answer": "yes"
+    },
+    {
+        "id": 14,
+        "context": "In a classroom, if a student submits their project on time, it shows responsibility and commitment to academics. Alex, a student, handed in his science project.",
+        "question": "Can we deduce that Alex is committed to academics and that he submitted his project on time?",
+        "answer": "yes"
+    },
+    {
+        "id": 15,
+        "context": "At a spa, if a client books a massage session, it means relaxation and rejuvenation, and the therapist has been requested. Lily, a client, scheduled a hot stone massage.",
+        "question": "Does this mean that Lily is seeking relaxation and rejuvenation by booking a hot stone massage, and the therapist has been requested for the session?",
+        "answer": "yes"
+    },
+    {
+        "id": 16,
+        "context": "In a factory, if a worker operates a machine, it implies that the worker is trained and the machine is functioning properly. John, a worker operated the lathe.",
+        "question": "Does this mean that John is trained and the lathe is functioning properly?",
+        "answer": "yes"
+    },
+    {
+        "id": 17,
+        "context": "In a farm, whenever someone plants a seed, it indicates that the person has gardening skills and the seed is of good quality. Emily planted sunflower seeds.",
+        "question": "Can we conclude that Emily has gardening skills and that the sunflower seeds are of good quality?",
+        "answer": "yes"
+    },
+    {
+        "id": 18,
+        "context": "In a restaurant, if a chef prepares a dish, it suggests that the chef is skilled and the dish is well-presented. Chef Sam cooked a special recipe.",
+        "question": "Does this entail that Chef Sam is skilled and the special recipe is well-presented?",
+        "answer": "yes"
+    },
+    {
+        "id": 19,
+        "context": "In a bookstore, when a customer purchases a book, it shows that the customer enjoys reading and the book is a bestseller. Lisa bought 'The Alchemist'.",
+        "question": "Can we say that Lisa enjoys reading and 'The Alchemist' is a bestseller?",
+        "answer": "yes"
+    },
+    {
+        "id": 20,
+        "context": "In a gym, if a member attends a yoga class, it signifies that the member values fitness and the class is popular. Mike joined the morning yoga session.",
+        "question": "Does this imply that Mike values fitness and the morning yoga session is popular?",
+        "answer": "yes"
+    }
+]}

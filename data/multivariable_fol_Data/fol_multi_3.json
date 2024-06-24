@@ -1,0 +1,126 @@
+{
+    "logic": "multivar_fol",
+    "rule": "3",
+    "depth": "-",
+    "samples": [
+    {
+        "id": 1,
+        "context": "For every student who takes a test, there exists at least one question they can answer correctly. If a student answers a question correctly and explains it, then the explanation is clear. Alex is a student who took a math test and answered a question about trigonometry.",
+        "question": "Based on the above context, can we conclude that Alex's explanation of the trigonometry question is clear?",
+        "answer": "yes"
+    },
+    {
+        "id": 2,
+        "context": "For every chef who cooks a dish, there is at least one ingredient that enhances the flavor. Whenever an ingredient enhances the flavor of a dish and is freshly sourced, it is considered premium. Sarah is a chef who cooked a seafood stew and added a special spice blend.",
+        "question": "Given this context, can we conclude that the special spice blend enhanced the flavor of Sarah's seafood stew and is considered premium?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "context": "For every driver who fuels up a car, there's at least one route they can take. If a driver takes a route and avoids traffic successfully, then the journey is smooth. Mark is a driver who fueled up his electric car and chose a scenic coastal route.",
+        "question": "Based on the above context, can we conclude that Mark's journey on the scenic coastal route was smooth?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "context": "For every author who writes a book, there exists at least one chapter that resonates with readers. If an author writes a chapter that resonates and includes a plot twist, readers find it captivating. Emma is an author who wrote a mystery novel with a surprising plot twist in the last chapter.",
+        "question": "Considering the context, can we conclude that readers find Emma's mystery novel captivating due to the surprising plot twist in the last chapter?",
+        "answer": "yes"
+    },
+    {
+        "id": 5,
+        "context": "For every artist who creates a painting, there is at least one color that stands out. If an artist uses a color that stands out and mixes it uniquely, the painting is considered striking. David is an artist who painted a landscape with a vibrant red sunset.",
+        "question": "In light of the context, can we conclude that David's painting of the landscape with a vibrant red sunset is considered striking?",
+        "answer": "yes"
+    },
+    {
+        "id": 6,
+        "context": "For every student who studies history, there is a specific event they find intriguing. If a student finds an event intriguing and discusses it with a professor, the professor provides insights. Alex is a student who studies history and discussed the Battle of Gettysburg with Professor Smith.",
+        "question": "Based on the above context, can we conclude that Professor Smith provided insights on the Battle of Gettysburg?",
+        "answer": "yes"
+    },
+    {
+        "id": 7,
+        "context": "For every chef who experiments with new recipes, there is at least one dish that becomes a favorite. If a dish becomes a favorite and is shared with customers, the customers enjoy it. Sarah is a chef who experimented with a new dessert, and she shared her famous chocolate soufflé with the restaurant patrons.",
+        "question": "Given this context, can we conclude that the customers enjoyed Sarah's chocolate soufflé?",
+        "answer": "yes"
+    },
+    {
+        "id": 8,
+        "context": "For every detective who solves a case, there is at least one suspect they interrogate. If a detective interrogates a suspect and gathers evidence, the evidence leads to a conviction. Detective Miller is investigating a murder case and has interrogated a suspect named John.",
+        "question": "Based on the above context, can we conclude that the evidence gathered from John will lead to a conviction?",
+        "answer": "yes"
+    },
+    {
+        "id": 9,
+        "context": "For every athlete who trains diligently, there is a specific competition they aim to win. If an athlete competes in the targeted competition and performs well, they earn recognition. Maria is an athlete who trained rigorously for the National Swimming Championships and participated in the 200m freestyle event.",
+        "question": "Given this context, can we conclude that Maria earned recognition in the 200m freestyle event at the National Swimming Championships?",
+        "answer": "yes"
+    },
+    {
+        "id": 10,
+        "context": "For every inventor who prototypes an idea, there is at least one investor they pitch to. If an inventor successfully pitches an idea to an investor, the idea gets funded. Jacob is an inventor who created a prototype for a solar-powered device and pitched it to a venture capitalist named Mr. Adams.",
+        "question": "Based on the above context, can we conclude that Jacob's solar-powered device idea got funded by Mr. Adams?",
+        "answer": "yes"
+    },
+    {
+        "id": 11,
+        "context": "For every student who studies, there exists at least one subject they excel in. If a student excels in a subject and participates in competitions, their performance is commendable. Emma is a student who excels in mathematics and recently participated in a math competition.",
+        "question": "Based on the above context, can we conclude that Emma's performance in the math competition was commendable?",
+        "answer": "yes"
+    },
+    {
+        "id": 12,
+        "context": "For every chef who cooks, there's at least one signature dish they create. If a chef creates a signature dish and presents it in a cooking show, the dish receives rave reviews. Alex is a chef known for his signature dish 'Spicy Seafood Pasta' featured in a popular cooking show.",
+        "question": "Given this context, can we conclude that 'Spicy Seafood Pasta' received rave reviews?",
+        "answer": "yes"
+    },
+    {
+        "id": 13,
+        "context": "For every author who writes, there is at least one best-selling book they publish. If an author publishes a best-selling book and attends book signings, the events are well-received. Sarah is an author whose latest book 'The Enchanted Garden' became a best-seller and she has upcoming book signings.",
+        "question": "Based on the above context, can we conclude that Sarah's book signings will be well-received?",
+        "answer": "yes"
+    },
+    {
+        "id": 14,
+        "context": "For every athlete who trains, there is at least one record they break. If an athlete breaks a record and competes in international championships, their performance is outstanding. Mark is an athlete who recently broke the long jump record and is preparing for an international championship.",
+        "question": "Can we conclude that Mark's performance in the upcoming international championship will be outstanding based on the context?",
+        "answer": "yes"
+    },
+    {
+        "id": 15,
+        "context": "For every artist who paints, there's at least one masterpiece they create. If an artist creates a masterpiece and exhibits it in a gallery, the artwork receives critical acclaim. Olivia is an artist known for her masterpiece painting 'Sunset Serenade' displayed in a renowned art gallery.",
+        "question": "Given this context, can we conclude that 'Sunset Serenade' received critical acclaim?",
+        "answer": "yes"
+    },
+    {
+        "id": 16,
+        "context": "For every student who submits an essay, there's at least one teacher who provides feedback. If a teacher provides feedback on an essay and the student revises it, then the revised essay is improved.",
+        "question": "Given the above context, can we conclude that the revised essay is improved?",
+        "answer": "yes"
+    },
+    {
+        "id": 17,
+        "context": "For every chef who creates a new recipe, there's at least one food critic who tastes it. If a food critic tastes a new recipe and praises it, then the recipe is considered delicious.",
+        "question": "Based on the above context, can we conclude that the recipe is delicious?",
+        "answer": "yes"
+    },
+    {
+        "id": 18,
+        "context": "For every programmer who develops a software application, there exists at least one user who tests it. If a user tests a software application and provides positive feedback, then the application is deemed user-friendly.",
+        "question": "In light of the context, can we conclude that the software application is user-friendly?",
+        "answer": "yes"
+    },
+    {
+        "id": 19,
+        "context": "For every traveler who visits a new city, there's at least one local who guides them. If a local guides a traveler around the city and the traveler expresses gratitude, then the tour is considered successful.",
+        "question": "Given this context, can we conclude that the tour was successful?",
+        "answer": "yes"
+    },
+    {
+        "id": 20,
+        "context": "For every artist who exhibits a painting, there exists at least one art collector who admires it. If an art collector admires a painting and purchases it, then the painting is deemed valuable.",
+        "question": "According to the context, can we conclude that the painting is valuable?",
+        "answer": "yes"
+    }
+]}

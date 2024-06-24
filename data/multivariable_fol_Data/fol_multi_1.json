@@ -1,0 +1,126 @@
+{
+    "logic": "multivar_fol",
+    "rule": "1",
+    "depth": "-",
+    "samples": [
+    {
+        "id": 1,
+        "context": "At any party, if someone brings snacks and there are guests, then snacks are shared. However, during Emily's party, even though she brought snacks, they were not shared.",
+        "question": "Can we conclude that the guests did not attend Emily's party?",
+        "answer": "yes"
+    },
+    {
+        "id": 2,
+        "context": "In every classroom, if a student submits their assignment and the teacher is available, the assignment is graded. Yet, in Sarah's class, although she submitted her assignment, it was not graded.",
+        "question": "Can we conclude that the teacher was not available to grade Sarah's assignment?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "context": "In each household, when someone cooks dinner and the family is home, dinner is served. However, in the Smith family, even though dinner was cooked, it was not served.",
+        "question": "Can we conclude that the family members were not at home to have dinner in the Smith family?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "context": "During any exam, if a student studies and the exam is fair, the student performs well. However, in Tom's case, despite studying, he did not perform well in the exam.",
+        "question": "Can we conclude that the exam was not fair for Tom?",
+        "answer": "yes"
+    },
+    {
+        "id": 5,
+        "context": "In each project, when a team member contributes and the project manager approves, the task is completed. Yet, in the recent project, even after contributing, the task was not completed for Alex.",
+        "question": "Can we conclude that the project manager did not approve Alex's contribution?",
+        "answer": "yes"
+    },
+    {
+        "id": 6,
+        "context": "At a library, if any student brings a book and a pen, they can take notes. However, student Alice, who brought her book, could not take notes.",
+        "question": "Can we conclude that Alice did not have a pen?",
+        "answer": "yes"
+    },
+    {
+        "id": 7,
+        "context": "In a restaurant, if a customer orders dessert and the kitchen is open, they receive their dessert. But Sarah, who ordered dessert, did not receive hers.",
+        "question": "Can we conclude that the kitchen was closed?",
+        "answer": "yes"
+    },
+    {
+        "id": 8,
+        "context": "During a class, if a student raises a hand and the teacher is available, they get to ask a question. However, Michael, who raised his hand, did not get to ask his question.",
+        "question": "Can we conclude that the teacher was not available?",
+        "answer": "yes"
+    },
+    {
+        "id": 9,
+        "context": "In a garden, if any plant receives enough sunlight and water, it grows. But in Mark's garden, even though the plants got sunlight, they did not grow.",
+        "question": "Can we conclude that the plants did not receive enough water?",
+        "answer": "yes"
+    },
+    {
+        "id": 10,
+        "context": "At a store, if a customer selects items and the cashier is at the register, the customer can check out. However, Dave, who selected items, could not check out.",
+        "question": "Can we conclude that the cashier was not present at the register?",
+        "answer": "yes"
+    },
+    {
+        "id": 11,
+        "context": "In any household, if someone buys groceries and there are hungry pets, then the pets are fed. However, Sarah, who bought groceries, did not feed her cat, Whiskers.",
+        "question": "Can we conclude that Whiskers was not fed?",
+        "answer": "yes"
+    },
+    {
+        "id": 12,
+        "context": "In every classroom, if a student submits their homework and the teacher is present, the homework is graded. But in Mr. Johnson's class, Emily, who submitted her homework, did not have hers graded by the teacher.",
+        "question": "Can we conclude that Emily's homework was not graded?",
+        "answer": "yes"
+    },
+    {
+        "id": 13,
+        "context": "At any clinic, if a patient arrives on time and the doctor is available, the patient receives medical care. However, during one visit, Mark, who arrived on time, did not receive medical care from Dr. Smith.",
+        "question": "Can we conclude that Mark did not receive medical care?",
+        "answer": "yes"
+    },
+    {
+        "id": 14,
+        "context": "In all libraries, if a book is returned on time and there are no fines, the book is checked in. However, at the city library, Tom, who returned his book on time, did not have it checked in without any fines.",
+        "question": "Can we conclude that Tom's book was not checked in?",
+        "answer": "yes"
+    },
+    {
+        "id": 15,
+        "context": "In every restaurant, if a customer orders food and the kitchen is open, the food is served. Yet, at Bella's Diner, Alex, who ordered food, did not have his order served while the kitchen was open.",
+        "question": "Can we conclude that Alex's food was not served?",
+        "answer": "yes"
+    },
+    {
+        "id": 16,
+        "context": "In every classroom, if a student asks questions and the teacher answers them, the student learns. However, during one class, Sarah, who asked questions, did not seem to learn.",
+        "question": "Can we conclude that Sarah did not receive answers from the teacher?",
+        "answer": "yes"
+    },
+    {
+        "id": 17,
+        "context": "At any party, if someone brings snacks and the music is playing, people enjoy the party. Yet, at Mary's party, even though snacks were brought, people did not enjoy the party.",
+        "question": "Can we conclude that the music was not playing at Mary's party?",
+        "answer": "yes"
+    },
+    {
+        "id": 18,
+        "context": "For any athlete, if they train hard and eat well, they perform well in competitions. But during the race, John, who trained hard, did not perform well.",
+        "question": "Can we conclude that John did not eat well before the race?",
+        "answer": "yes"
+    },
+    {
+        "id": 19,
+        "context": "In all experiments, if a variable is controlled and the equipment is calibrated, the results are accurate. However, in this study, despite controlling the variable, the results were inaccurate.",
+        "question": "Can we conclude that the equipment was not calibrated properly for this study?",
+        "answer": "yes"
+    },
+    {
+        "id": 20,
+        "context": "In any library, if books are categorized and the shelves are organized, finding books is easy. But in James' library, even with categorized books, finding books was difficult.",
+        "question": "Can we conclude that the shelves were not organized well in James' library?",
+        "answer": "yes"
+    }
+]}

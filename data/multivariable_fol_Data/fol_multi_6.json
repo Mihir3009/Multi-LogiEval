@@ -1,0 +1,126 @@
+{
+    "logic": "multivar_fol",
+    "rule": "6",
+    "depth": "-",
+    "samples": [
+    {
+        "id": 1,
+        "context": "In a school, every student is either studying in the library or playing outside. Notably, on Friday, Lily was not seen studying in the library.",
+        "question": "Can we infer that Lily was playing outside on Friday?",
+        "answer": "yes"
+    },
+    {
+        "id": 2,
+        "context": "At a restaurant, every customer is either dining in or ordering takeout. It is known that on Saturday, Tom did not dine in at the restaurant.",
+        "question": "Does this suggest that Tom ordered takeout on Saturday?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "context": "In a bookstore, every book is either fiction or non-fiction. Interestingly, on Sunday, Jane was not reading a fiction book.",
+        "question": "Can we infer that Jane was reading a non-fiction book on Sunday?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "context": "At a park, every visitor is either walking on the trails or having a picnic. It was observed that on Monday, Alex was not walking on the trails.",
+        "question": "Does this imply that Alex was having a picnic on Monday?",
+        "answer": "yes"
+    },
+    {
+        "id": 5,
+        "context": "In a hospital, every patient is either in the emergency room or in the surgical ward. Notably, Mark was not in the emergency room on Tuesday.",
+        "question": "Can we assume that Mark was in the surgical ward on Tuesday?",
+        "answer": "yes"
+    },
+    {
+        "id": 6,
+        "context": "In a school, every student is either studying in the library or playing in the playground. It is known that on Friday, Alex was not playing in the playground.",
+        "question": "Does this imply that Alex was studying in the library on Friday?",
+        "answer": "yes"
+    },
+    {
+        "id": 7,
+        "context": "In a bakery, each pastry is either a croissant or a doughnut. Notably, Sarah didn't have a croissant on Monday.",
+        "question": "Can we conclude that Sarah had a doughnut on Monday?",
+        "answer": "yes"
+    },
+    {
+        "id": 8,
+        "context": "At a bookstore, every book is either a novel or a biography. It is observed that Emily is not reading a novel.",
+        "question": "Can we deduce that Emily is reading a biography?",
+        "answer": "yes"
+    },
+    {
+        "id": 9,
+        "context": "In a park, each tree is either an oak or a pine. Markedly, in the north section, there is no oak tree.",
+        "question": "Does this imply there are pine trees in the north section?",
+        "answer": "yes"
+    },
+    {
+        "id": 10,
+        "context": "In a cafe, every drink is either a coffee or a tea. Remarkably, Lucy didn't order a coffee at breakfast.",
+        "question": "Can we assume that Lucy ordered tea at breakfast?",
+        "answer": "yes"
+    },
+    {
+        "id": 11,
+        "context": "In a school, every student is either studying in the library or playing in the playground. Notably, Emily was not seen in the library on Friday.",
+        "question": "Does this imply that Emily was playing in the playground on Friday?",
+        "answer": "yes"
+    },
+    {
+        "id": 12,
+        "context": "In a bakery, every baker is either kneading dough or frosting cakes. On a specific occasion, Mary did not frost cakes.",
+        "question": "Can we infer that Mary was kneading dough on that occasion?",
+        "answer": "yes"
+    },
+    {
+        "id": 13,
+        "context": "In a theater, every performer is either acting on stage or assisting backstage. It is known that Alex is not assisting backstage on this particular show.",
+        "question": "Can we conclude that Alex is acting on stage for this show?",
+        "answer": "yes"
+    },
+    {
+        "id": 14,
+        "context": "In a farm, every animal is either grazing in the pasture or resting in the barn. One day, the horses were not resting in the barn.",
+        "question": "Does this mean the horses were grazing in the pasture on that day?",
+        "answer": "yes"
+    },
+    {
+        "id": 15,
+        "context": "At a party, every guest is either dancing in the ballroom or chatting in the lounge area. Remarkably, Sarah was not seen in the ballroom during the event.",
+        "question": "Can we assume that Sarah was chatting in the lounge area during the event?",
+        "answer": "yes"
+    },
+    {
+        "id": 16,
+        "context": "In a school, every student is either playing a sport or studying in the library. It is known that on Friday, Sarah was not playing any sport.",
+        "question": "Can we infer that Sarah was studying in the library on Friday?",
+        "answer": "yes"
+    },
+    {
+        "id": 17,
+        "context": "On a farm, every animal is either in the barn or grazing in the field. Notably, on a sunny day, the horse was not in the barn.",
+        "question": "Does this imply that the horse was grazing in the field on the sunny day?",
+        "answer": "yes"
+    },
+    {
+        "id": 18,
+        "context": "In a bookstore, every book is either on the shelf or on the display table. Interestingly, on a rainy day, the mystery novel was not on the display table.",
+        "question": "Can we deduce that the mystery novel was on the shelf on the rainy day?",
+        "answer": "yes"
+    },
+    {
+        "id": 19,
+        "context": "In a concert hall, each musician is either playing an instrument or singing. It is observed that on a special event night, Alex was not playing an instrument.",
+        "question": "Does this lead us to conclude that Alex was singing on the special event night?",
+        "answer": "yes"
+    },
+    {
+        "id": 20,
+        "context": "In a restaurant, every dish is either spicy or mild. Notably, on a customer's request, the pasta dish was not served spicy.",
+        "question": "Can we deduce that the pasta dish was served mild based on the customer's request?",
+        "answer": "yes"
+    }
+]}

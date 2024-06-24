@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "d5_1",
+    "depth": "d5",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Tom and Jerry are students who are diligent. Typically, diligent students also excel academically. If a student studies computer science, and they are skilled in coding, they can develop software. If a student chooses biology as their major and excels in laboratory work, they can pursue a career in research. Either a student studies computer science or a student can pursue a career in research, or both. If Peter has developed software, then Mary excels in laboratory work. If Tom excels academically, then Peter has developed software.",
+            "question": "Can we conclude if Mary does not excel in laboratory work then Jerry excels academically?",
+            "answer": "Yes"
+        },
+        {
+            "id": 2,
+            "context": "Tom and Jerry are students who are diligent. Typically, diligent students also excel academically. If a student studies computer science, and they are skilled in coding, they can develop software. If a student chooses biology as their major and excels in laboratory work, they can pursue a career in research. Either a student studies computer science or a student can pursue a career in research, or both. If Peter has developed software, then Mary excels in laboratory work. If Tom excels academically, then Peter has developed software.",
+            "question": "Can we conclude if Mary does not excel in laboratory work then Jerry does not excel academically?",
+            "answer": "No"
+        },
+        {
+            "id": 3,
+            "context": "In a bakery, cakes and cookies are baked with care. Normally, baked goods prepared with care are delicious. If a dessert has chocolate frosting, and it is rich in flavor, customers enjoy it. If a pastry is made with buttery layers and it is flaky, customers find it appetizing. Customers enjoy either a dessert with chocolate frosting or a pastry with buttery layers, or both. If the chocolate cake is enjoyed by customers, then the buttery pastry is appetizing. If the cookie is delicious, then the chocolate cake is enjoyed by customers.",
+            "question": "Can we conclude if the chocolate cake is not enjoyed by customers then the cookie is delicious?",
+            "answer": "Yes"
+        },
+        {
+            "id": 4,
+            "context": "In a bakery, cakes and cookies are baked with care. Normally, baked goods prepared with care are delicious. If a dessert has chocolate frosting, and it is rich in flavor, customers enjoy it. If a pastry is made with buttery layers and it is flaky, customers find it appetizing. Customers enjoy either a dessert with chocolate frosting or a pastry with buttery layers, or both. If the chocolate cake is enjoyed by customers, then the buttery pastry is appetizing. If the cookie is delicious, then the chocolate cake is enjoyed by customers.",
+            "question": "Can we conclude if the chocolate cake is not enjoyed by customers then the cookie is not delicious?",
+            "answer": "No"
+        },
+        {
+            "id": 5,
+            "context": "Alex and Sarah are athletes who train regularly. Typically, athletes who train regularly have good endurance. If a runner participates in marathons, and they have strong legs, they can complete long distances. If a swimmer practices breathing techniques and has strong arm muscles, they can excel in competitions. A runner can complete long distances in marathons, or a swimmer can excel in competitions, or both. If Sarah completes long distances in marathons, then Alex excels in competitions. If Alex has good endurance, then Sarah completes long distances in marathons.",
+            "question": "Can we conclude if Sarah does not excel in competitions then Alex has good endurance?",
+            "answer": "Yes"
+        },
+        {
+            "id": 6,
+            "context": "Alex and Sarah are athletes who train regularly. Typically, athletes who train regularly have good endurance. If a runner participates in marathons, and they have strong legs, they can complete long distances. If a swimmer practices breathing techniques and has strong arm muscles, they can excel in competitions. A runner can complete long distances in marathons, or a swimmer can excel in competitions, or both. If Sarah completes long distances in marathons, then Alex excels in competitions. If Alex has good endurance, then Sarah completes long distances in marathons.",
+            "question": "Can we conclude if Sarah does not excel in competitions then Alex does not have good endurance?",
+            "answer": "No"
+        },
+        {
+            "id": 7,
+            "context": "In a zoo, lions and tigers are carnivores. Normally, carnivores in the zoo are fed raw meat. If an animal has a mane and roars loudly, visitors find it majestic. If a big cat has stripes and hunts at night, visitors are intrigued. Visitors find either an animal with a mane majestic or a big cat that hunts at night intriguing, or both. If the lion is majestic, then the tiger is intriguing. If the tiger is fed raw meat, then the lion is majestic.",
+            "question": "Can we conclude if the lion is not majestic then the tiger is fed raw meat?",
+            "answer": "Yes"
+        },
+        {
+            "id": 8,
+            "context": "In a zoo, lions and tigers are carnivores. Normally, carnivores in the zoo are fed raw meat. If an animal has a mane and roars loudly, visitors find it majestic. If a big cat has stripes and hunts at night, visitors are intrigued. Visitors find either an animal with a mane majestic or a big cat that hunts at night intriguing, or both. If the lion is majestic, then the tiger is intriguing. If the tiger is fed raw meat, then the lion is majestic.",
+            "question": "Can we conclude if the lion is not majestic then the tiger is not fed raw meat?",
+            "answer": "No"
+        },
+        {
+            "id": 9,
+            "context": "In an office, managers and employees have leadership skills. Normally, individuals with leadership skills can handle team dynamics effectively. If a team leader communicates clearly and sets goals, the team achieves success. If an employee is proactive and takes initiative, they stand out in the organization. The team achieves success under a team leader who communicates clearly and sets goals, or an employee stands out who takes initiative, or both. If Alex stands out in the organization, then Sarah achieves success in the team. If Sarah handles team dynamics effectively, then Alex stands out in the organization.",
+            "question": "Can we conclude if Sarah does not achieve success in the team then Alex has leadership skills?",
+            "answer": "Yes"
+        },
+        {
+            "id": 10,
+            "context": "In an office, managers and employees have leadership skills. Normally, individuals with leadership skills can handle team dynamics effectively. If a team leader communicates clearly and sets goals, the team achieves success. If an employee is proactive and takes initiative, they stand out in the organization. The team achieves success under a team leader who communicates clearly and sets goals, or an employee stands out who takes initiative, or both. If Alex stands out in the organization, then Sarah achieves success in the team. If Sarah handles team dynamics effectively, then Alex stands out in the organization.",
+            "question": "Can we conclude if Sarah does not achieve success in the team then Alex does not have leadership skills?",
+            "answer": "No"
+        },
+        {
+            "id": 11,
+            "context": "Dogs and Cats are animals with fur. Typically, animals with fur also have tails. If a Dog can bark, then it is a mammal. If a Cat can purr, then it is a carnivore. Either a Dog can bark or a Cat is a carnivore, or both. If a Tiger is a carnivore, then a Cat can purr. If a Wolf is a mammal, then a Dog can bark.",
+            "question": "Can we conclude if a Tiger does not purr then a Dog has a tail?",
+            "answer": "Yes"
+        },
+        {
+            "id": 12,
+            "context": "Dogs and Cats are animals with fur. Typically, animals with fur also have tails. If a Dog can bark, then it is a mammal. If a Cat can purr, then it is a carnivore. Either a Dog can bark or a Cat is a carnivore, or both. If a Tiger is a carnivore, then a Cat can purr. If a Wolf is a mammal, then a Dog can bark.",
+            "question": "Can we conclude if a Tiger does not purr then a Dog does not have a tail?",
+            "answer": "No"
+        },
+        {
+            "id": 13,
+            "context": "Apples and Bananas are fruits that are sweet. Usually, sweet fruits are ripe. If an Apple is red, then it is ripe enough to eat. If a Banana is yellow, then it is rich in potassium. Either an Apple is red or a Banana is rich in potassium, or both. If a Pear is ripe, then a Banana is yellow. If a Peach is sweet, then an Apple is red.",
+            "question": "Can we conclude if a Pear is not yellow then a Banana is rich in potassium?",
+            "answer": "Yes"
+        },
+        {
+            "id": 14,
+            "context": "Apples and Bananas are fruits that are sweet. Usually, sweet fruits are ripe. If an Apple is red, then it is ripe enough to eat. If a Banana is yellow, then it is rich in potassium. Either an Apple is red or a Banana is rich in potassium, or both. If a Pear is ripe, then a Banana is yellow. If a Peach is sweet, then an Apple is red.",
+            "question": "Can we conclude if a Pear is not yellow then a Banana is not rich in potassium?",
+            "answer": "No"
+        },
+        {
+            "id": 15,
+            "context": "Students and Teachers are individuals in a school. Typically, individuals in a school are educated. If a Student is in class, then they study. If a Teacher is in the staff room, then they grade papers. Either a Student is in class or a Teacher grades papers, or both. If a Principal grades papers, then a Teacher is in the staff room. If a Librarian is educated, then a Student is in class.",
+            "question": "Can we conclude if a Principal does not grade papers then a Student studies?",
+            "answer": "Yes"
+        },
+        {
+            "id": 16,
+            "context": "Students and Teachers are individuals in a school. Typically, individuals in a school are educated. If a Student is in class, then they study. If a Teacher is in the staff room, then they grade papers. Either a Student is in class or a Teacher grades papers, or both. If a Principal grades papers, then a Teacher is in the staff room. If a Librarian is educated, then a Student is in class.",
+            "question": "Can we conclude if a Principal does not grade papers then a Student does not study?",
+            "answer": "No"
+        },
+        {
+            "id": 17,
+            "context": "Books and Pens are items in a bookstore. Normally, items in a bookstore are available for purchase. If a Book is a bestseller, then it is displayed prominently. If a Pen is a fountain pen, then it has a refillable ink cartridge. Either a Book is a bestseller or a Pen has a refillable ink cartridge, or both. If a Notebook is available for purchase, then a Pen is a fountain pen. If a Planner is displayed prominently, then a Book is a bestseller.",
+            "question": "Can we conclude if a Notebook is not a fountain pen then a Book is a bestseller?",
+            "answer": "Yes"
+        },
+        {
+            "id": 18,
+            "context": "Books and Pens are items in a bookstore. Normally, items in a bookstore are available for purchase. If a Book is a bestseller, then it is displayed prominently. If a Pen is a fountain pen, then it has a refillable ink cartridge. Either a Book is a bestseller or a Pen has a refillable ink cartridge, or both. If a Notebook is available for purchase, then a Pen is a fountain pen. If a Planner is displayed prominently, then a Book is a bestseller.",
+            "question": "Can we conclude if a Notebook is not a fountain pen then a Book is not a bestseller?",
+            "answer": "No"
+        },
+        {
+            "id": 19,
+            "context": "Coffee and Tea are beverages served in a cafe. Usually, beverages served in a cafe are hot. If Coffee is brewed, then it is aromatic. If Tea is steeped, then it can be sweetened. Either Coffee is brewed or Tea can be sweetened, or both. If Hot Chocolate can be sweetened, then Tea is steeped. If Espresso is hot, then Coffee is brewed.",
+            "question": "Can we conclude if Hot Chocolate is not aromatic then Tea can be sweetened?",
+            "answer": "Yes"
+        },
+        {
+            "id": 20,
+            "context": "Coffee and Tea are beverages served in a cafe. Usually, beverages served in a cafe are hot. If Coffee is brewed, then it is aromatic. If Tea is steeped, then it can be sweetened. Either Coffee is brewed or Tea can be sweetened, or both. If Hot Chocolate can be sweetened, then Tea is steeped. If Espresso is hot, then Coffee is brewed.",
+            "question": "Can we conclude if Hot Chocolate is not aromatic then Tea cannot be sweetened?",
+            "answer": "No"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "logic": "multivar_fol",
+    "rule": "2",
+    "depth": "-",
+    "samples": [
+    {
+        "id": 1,
+        "context": "In a school, if a student has not completed their homework and the teacher assigns extra work, then that student cannot leave early. Moreover, all students in the advanced class have not completed their homework. Sarah is in the advanced class and has left early.",
+        "question": "Does it imply that Sarah completed her homework?",
+        "answer": "no"
+    },
+    {
+        "id": 2,
+        "context": "At a party, if someone spills a drink on the floor and the host notices, then that person must clean up the spill. Additionally, whoever broke the vase is responsible for cleaning up. Tom broke the vase but has not cleaned it up yet.",
+        "question": "Does it mean Tom spilled the drink too?",
+        "answer": "no"
+    },
+    {
+        "id": 3,
+        "context": "In a library, if a book is overdue and it is marked as lost, then the borrower must pay a fine. Also, all books in the reference section are marked as lost. John borrowed a book from the reference section but has not paid any fines.",
+        "question": "Should we infer that John's book is overdue?",
+        "answer": "no"
+    },
+    {
+        "id": 4,
+        "context": "In a courtroom, if a lawyer misses a deadline and the judge is informed, then that lawyer must provide a valid reason. Furthermore, any lawyer with a pending case is under strict scrutiny. Emily has a pending case but has not provided any reasons for missing a deadline.",
+        "question": "Does it mean Emily missed a deadline?",
+        "answer": "no"
+    },
+    {
+        "id": 5,
+        "context": "At a theater, if an actor forgets their lines and the director notices, then that actor must attend extra rehearsals. Additionally, all lead actors have forgotten their lines. Mark is a lead actor but has not attended any extra rehearsals.",
+        "question": "Does this imply that Mark forgot his lines?",
+        "answer": "no"
+    },
+    {
+        "id": 6,
+        "context": "In a school, if a student fails an exam and a teacher is absent, then that student cannot retake the exam. Moreover, all substitute teachers are considered absent. Emily is a substitute teacher and John failed his math exam but retaken the exam.",
+        "question": "Does this imply that John was unable to retake his math exam?",
+        "answer": "no"
+    },
+    {
+        "id": 7,
+        "context": "At a cafe, if a customer orders a latte and the coffee machine is broken, then that customer does not receive their order. Additionally, any barista on duty can fix the coffee machine. Sarah is a barista on duty and the coffee machine is broken, but Mark received his latte order.",
+        "question": "Does this mean Mark did not receive his latte order?",
+        "answer": "no"
+    },
+    {
+        "id": 8,
+        "context": "In a gym, if a member uses a treadmill and it's out of order, then that member cannot use the treadmill. Also, all trainers are responsible for fixing the treadmills. Alex is a trainer and the treadmill is out of order, but Lisa used it anyway.",
+        "question": "Does this suggest that Lisa was unable to use the treadmill?",
+        "answer": "no"
+    },
+    {
+        "id": 9,
+        "context": "In a library, if a book is overdue and there are no available copies, then the patron cannot borrow the book. Furthermore, all librarians can extend due dates. Jessica is a librarian and there are no available copies, but Tom borrowed the book even though it was overdue.",
+        "question": "Does this indicate that Tom couldn't borrow the book?",
+        "answer": "no"
+    },
+    {
+        "id": 10,
+        "context": "Within a theater, if a play is sold out and a ticket is lost, then that person cannot attend the play. Moreover, all ushers have extra tickets. Michael is an usher and the play is sold out, but Emma managed to attend the play despite losing her ticket.",
+        "question": "Does this imply that Emma didn't attend the play?",
+        "answer": "no"
+    },
+    {
+        "id": 11,
+        "context": "Any person who buys a ticket and arrives late at the concert cannot enter the auditorium. If any event is sold out, a ticket for that event is necessary. Lisa bought a ticket for the sold-out Jazz Night event but arrived after the start time.",
+        "question": "Does this imply that Lisa was unable to enter the auditorium for the Jazz Night event?",
+        "answer": "no"
+    },
+    {
+        "id": 12,
+        "context": "In a classroom setting, if a student is absent and an assignment is due, the student receives a penalty. Additionally, all students who are enrolled attend the class. Sarah, an enrolled student, missed submitting her assignment on time.",
+        "question": "Does it mean Sarah received a penalty for missing the assignment deadline?",
+        "answer": "no"
+    },
+    {
+        "id": 13,
+        "context": "At a bakery, if a dessert is labeled as 'sold out' and it's closing time, then the dessert cannot be purchased. Furthermore, every pastry chef is employed at the bakery. Emma, a pastry chef, wanted to buy the sold-out Red Velvet Cake after closing hours.",
+        "question": "Should we infer that Emma was unable to purchase the Red Velvet Cake after closing hours?",
+        "answer": "no"
+    },
+    {
+        "id": 14,
+        "context": "In a university, if a student exceeds the maximum absence limit and the final exam period has begun, then the student cannot sit for the exams. Moreover, any student with valid enrollment attends classes regularly. Alex, a regularly attending enrolled student, missed multiple classes and is now during the final exam period.",
+        "question": "Does this suggest that Alex is unable to sit for the final exams due to excessive absences?",
+        "answer": "no"
+    },
+    {
+        "id": 15,
+        "context": "For a museum exhibition, if an artwork is marked as 'on loan' and the exhibition opening has passed, then the artwork is not displayed. Furthermore, all pieces in the art collection are on display. Rachel, a museum curator, noticed that a renowned painting marked 'on loan' was missing from the exhibition after the opening day.",
+        "question": "Does this situation indicate that the renowned painting was not displayed at the exhibition?",
+        "answer": "no"
+    },
+    {
+        "id": 16,
+        "context": "In a school, if a student is absent and a quiz is scheduled, then that student cannot take the quiz. Moreover, all students in the honors program are required to take quizzes. Sarah, an honors program student, took the history quiz last Friday.",
+        "question": "Does this imply that the history quiz was not scheduled?",
+        "answer": "no"
+    },
+    {
+        "id": 17,
+        "context": "At a restaurant, if a dish is spicy and a customer has allergies, then that customer cannot order that dish. Additionally, all customers with food allergies must notify the server. John, who has allergies, ordered the spicy seafood dish.",
+        "question": "Does this indicate that John did not order the spicy seafood dish?",
+        "answer": "no"
+    },
+    {
+        "id": 18,
+        "context": "In a library, if a book is overdue and the library is open, then that book cannot be returned. Also, all books in the reference section are for in-library use only. The Physics textbook, which is in the reference section, was returned last Monday.",
+        "question": "Should we infer that the library was closed last Monday?",
+        "answer": "no"
+    },
+    {
+        "id": 19,
+        "context": "In a gym, if a machine is broken and a person is a member, then that person cannot use that machine. Further, all gym instructors are members. Lily, a gym instructor, used the broken treadmill yesterday.",
+        "question": "Does this imply that Lily did not use the broken treadmill yesterday?",
+        "answer": "no"
+    },
+    {
+        "id": 20,
+        "context": "In a software company, if a feature is in progress and the team is working remotely, then that feature cannot be tested. Additionally, all team leads are working remotely. Max, a team lead, tested the feature last week.",
+        "question": "Does this suggest that Max did not test the feature last week?",
+        "answer": "no"
+    }
+]}

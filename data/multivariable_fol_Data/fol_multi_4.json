@@ -1,0 +1,126 @@
+{
+    "logic": "multivar_fol",
+    "rule": "4",
+    "depth": "-",
+    "samples": [
+    {
+        "id": 1,
+        "context": "In a household, for each family member, meal, and kitchen, if a family member cooks a meal in the kitchen, then either the family member follows a recipe or the family improvises the dish. However, Sarah cooked dinner tonight without following the recipe.",
+        "question": "Can we infer that the family improvised the dish for dinner?",
+        "answer": "yes"
+    },
+    {
+        "id": 2,
+        "context": "In a store, for each customer, product, and discount, if a customer purchases a product with a discount, then either the customer presents a coupon or the store provides a loyalty discount. Alex bought a laptop with a discount but did not have a coupon.",
+        "question": "Can we deduce that the store provided a loyalty discount to Alex?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "context": "In a zoo, for each zookeeper, animal, and enclosure, if a zookeeper feeds an animal in an enclosure, then either the zookeeper has specific feeding instructions or the zoo provides a standard diet plan. Emily fed the penguins today without following specific feeding instructions.",
+        "question": "Can we assume that the zoo provides a standard diet plan for the penguins?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "context": "In a university, for each professor, course, and lecture hall, if a professor teaches a course in a lecture hall, then either the professor uses the assigned textbook or the university offers online lecture materials. Dr. Brown lectured on physics in Hall A without using the assigned textbook.",
+        "question": "Can we conclude that the university provides online lecture materials for Dr. Brown's physics course?",
+        "answer": "yes"
+    },
+    {
+        "id": 5,
+        "context": "In a restaurant, for each chef, dish, and ingredient, if a chef prepares a dish with specific ingredients, then either the chef follows a traditional recipe or the restaurant allows creative freedom. Chef Julia cooked a pasta dish without referencing any recipe.",
+        "question": "Can we determine that the restaurant encourages creative freedom for Chef Julia's dishes?",
+        "answer": "yes"
+    },
+    {
+        "id": 6,
+        "context": "In a store, for every customer, product, and checkout lane, if a customer purchases a product at a checkout lane, then either the customer pays with cash or the cashier offers credit card payment. However, Sarah bought a new laptop at checkout lane 3, but she did not pay with cash.",
+        "question": "Can we infer that the cashier offered credit card payment to Sarah?",
+        "answer": "yes"
+    },
+    {
+        "id": 7,
+        "context": "In a zoo, for each animal, habitat, and feeding time, if an animal is fed in its habitat during feeding time, then either the habitat provides a natural diet for the animal or the zoo supplements with additional nutrition. Alex fed the lions in their enclosure, but the zoo does not provide a natural diet for lions.",
+        "question": "Can we deduce that the zoo supplements the lions' diet with additional nutrition?",
+        "answer": "yes"
+    },
+    {
+        "id": 8,
+        "context": "In a university, for every student, course, and exam, if a student takes an exam for a course, then either the student studied all course material or the instructor allows open-book exams. Emily took the calculus exam, but she did not study all the course material.",
+        "question": "Can we conclude that the instructor allowed an open-book exam for Emily?",
+        "answer": "yes"
+    },
+    {
+        "id": 9,
+        "context": "In a sports club, for each athlete, sport, and competition, if an athlete participates in a competition for a sport, then either the athlete wears appropriate gear or the club provides equipment. James competed in the tennis match, but he did not have the proper tennis gear.",
+        "question": "Can we say that the sports club provided tennis equipment for James?",
+        "answer": "yes"
+    },
+    {
+        "id": 10,
+        "context": "In a restaurant, for every diner, dish, and reservation, if a diner orders a dish from the menu during their reservation, then either the diner receives the correct order or the restaurant offers a substitution. Lily ordered the seafood pasta during her reservation, but she received the wrong dish.",
+        "question": "Can we determine that the restaurant offered Lily a substitution for her order?",
+        "answer": "yes"
+    },
+    {
+        "id": 11,
+        "context": "In a zoo, for every animal, enclosure, and visitor, if an animal is displayed in an enclosure, either the visitor observes a feeding session or the zoo provides a virtual tour. However, Leo the lion is in the main exhibit today, but no visitor observed a feeding session.",
+        "question": "Can we infer that the zoo offered a virtual tour to visitors today?",
+        "answer": "yes"
+    },
+    {
+        "id": 12,
+        "context": "In a restaurant, for each dish, chef, and customer, if a chef prepares a dish for a customer, then either the customer receives a complimentary dessert or the restaurant offers a discount. Tonight, Chef Alex cooked a special pasta dish for Sarah, who did not receive a complimentary dessert.",
+        "question": "Can we determine that the restaurant provided a discount to Sarah?",
+        "answer": "yes"
+    },
+    {
+        "id": 13,
+        "context": "In a gym, for every trainer, equipment, and member, if a trainer guides a member using equipment, then either the member follows a personalized workout plan or the gym has group training sessions. Sarah's personal trainer, Mike, assisted her with the new weight machines today, but she did not follow a personalized plan.",
+        "question": "Can we conclude that the gym conducts group training sessions for members like Sarah?",
+        "answer": "yes"
+    },
+    {
+        "id": 14,
+        "context": "In a theater, for each play, director, and actor, if a director casts an actor for a play, then either the actor undergoes audition rounds or the director selects based on past performances. For the upcoming production of 'Romeo and Juliet,' Director Emily chose James to play Romeo, who was not part of any auditions.",
+        "question": "Can we deduce that Director Emily selected James based on his past performances?",
+        "answer": "yes"
+    },
+    {
+        "id": 15,
+        "context": "In a technology company, for every project, manager, and team member, if a manager assigns a team member to a project, then either the team member receives specialized training or the company provides project documentation. Sarah's manager assigned her to lead the new app project, but she did not receive any specialized training.",
+        "question": "Can we say that the company supplied detailed project documentation to Sarah?",
+        "answer": "yes"
+    },
+    {
+        "id": 16,
+        "context": "In a zoo, for each animal, habitat, and visitor, if an animal is on display in a habitat, then either the visitor observes the feeding session or the zookeeper provides a detailed information session. However, Sarah observed the lion in the savanna without attending the feeding session.",
+        "question": "Can we infer that the zookeeper provided a detailed information session for Sarah?",
+        "answer": "yes"
+    },
+    {
+        "id": 17,
+        "context": "In a bakery, for each baker, cake, and customer, if a baker decorates a cake for a customer, then either the customer pays in advance or the bakery allows for payment upon delivery. Alex decorated a custom birthday cake, and the customer did not pay in advance.",
+        "question": "Can we determine that the bakery allows for payment upon delivery for this specific cake?",
+        "answer": "yes"
+    },
+    {
+        "id": 18,
+        "context": "In a gym, for each trainer, exercise routine, and client, if a trainer demonstrates an exercise routine to a client, then either the client follows the routine correctly or the trainer provides additional guidance. James demonstrated a new workout routine to Emily, who struggled with some of the exercises.",
+        "question": "Can we conclude that the trainer provided additional guidance to Emily?",
+        "answer": "yes"
+    },
+    {
+        "id": 19,
+        "context": "In an art gallery, for each artist, painting, and buyer, if an artist showcases a painting for sale, then either the buyer negotiates the price or the gallery sets a fixed selling cost. Laura displayed her latest artwork, and the buyer did not negotiate the price.",
+        "question": "Can we say that the gallery set a fixed selling cost for Laura's painting?",
+        "answer": "yes"
+    },
+    {
+        "id": 20,
+        "context": "In a tech company, for each developer, project, and client, if a developer presents a project prototype to a client, then either the client approves the design or the company revises the prototype based on feedback. Chris showcased a new app prototype to a client, but the client did not approve the design.",
+        "question": "Can we deduce that the company will revise the prototype based on client feedback?",
+        "answer": "yes"
+    }
+]}

@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "BD_C_DS_MP_MP",
+    "depth": "d5",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If the factory follows environmental regulations, pollution levels will be low. If they increase production, more waste is generated. Either the factory follows regulations, or waste levels did not rise. If pollution is low, air quality will be good. If air quality is good, there will be fewer illnesses.",
+            "question": "If the factory increased production, did illnesses decrease in the town?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "If the team practices hard, they will be prepared for the big game. If the star player is injured, he cannot play in the game. Either the team practiced hard, or the star player is not injured. When the team is well-prepared, the team wins the important game. If the team wins the important game, they will celebrate with a team dinner afterwards.",
+            "question": "If the star player is injured, will the team celebrate with a team dinner after the big game?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "If the farmer waters his crops daily, they will grow strong and healthy. If there is a drought, then the crops will dry up. Either the farmer waters the crops routinely, or the crops did not dry up. If the crops grow strong, there will be a bountiful harvest. If there is a large harvest, the farmer will make good profits.",
+            "question": "If there was a drought this season, will the farmer make good profits?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "If someone studies hard for an exam, they will feel confident going into the test. If there is severe weather in the forecast, schools may cancel class that day. Either Alex studied diligently for his biology exam, or class was not canceled due to the weather. If a student feels confident about the material, they will likely do well on the exam. If a student performs well on an exam, they will be satisfied with their hard work.",
+            "question": "If there was severe weather in the forecast, did Alex feel satisfied with his performance on the history exam?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "If the team practices every day, they will be prepared for the big game. If it is sunny outside, children will play at the park. Either the team practiced daily, or kids did not go to the park today. If a team feels prepared, then they will have confidence. When people feel confident, they hold their head up high.",
+            "question": "If it was sunny out, did the team hold their heads up high?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "If someone studies hard for an exam, they will get good grades. If there is a snowstorm, then school is canceled. Either Priya studied hard, or school was not called off. If a student gets good grades, their parents are proud. When parents are proud, they take their kids out for ice cream.",
+            "question": "If there was a big snowstorm, did Priya's parents take her out for ice cream?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "If the team practices hard, they will be prepared for the game. If it is very hot outside, the game is postponed. Either the team practiced hard, or the game was not postponed. If a team is prepared, they will play well. When a team plays well, they will win.",
+            "question": "If it was very hot outside, did the team win?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "If the farmer waters his crops, they will grow healthy and strong. If it is monsoon season, there will be heavy rains. Either the farmer waters his crops daily, or there are no heavy monsoon rains this season. When crops grow strong, the harvest will be bountiful. If the harvest is bountiful, the farmer will make a good profit selling his crops.",
+            "question": "If it is monsoon season, will the farmer make a good profit selling his crops?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "If the oven temperature is set to 350 degrees, the cake will bake properly. If the cake batter contains eggs, it will be fluffy when baked. Either Sam set the oven temperature correctly, or the cake batter did not contain eggs. If a cake bakes properly, it will taste delicious. If a cake tastes delicious, guests at the party will be happy.",
+            "question": "If the cake batter contained eggs, will the guests at the party be happy?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "If the crops get enough sunlight, they will grow strong. If it is windy, trees might fall over. Either the plants got good sunlight, or no trees fell. If the crops grow strong, the harvest will be plentiful. When there is a big harvest, the farmer makes a good profit.",
+            "question": "If it was very windy this season, did the farmer make a good profit from the harvest?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "If the field gets enough water, the crops will grow well. If pests invade the field, some crops will be destroyed. Either the farmer watered the field adequately, or pests did not damage crops, or the field got enough water but pests still damaged crops. If crops grow well, the harvest will be bountiful. If the harvest is bountiful, the farmer will make good profit.",
+            "question": "If pests invaded the field, did the farmer make good profit?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "If someone waters the garden regularly, the flowers will bloom brightly. If it rains a lot, then the soil becomes saturated. Either the garden is watered routinely, or the soil did not saturated. If the flowers bloom, they will release fragrance. If there is fragrance, it will attract butterflies.",
+            "question": "If there was heavy rain, did the garden attract butterflies?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "If you wash your hands regularly, you likely won't get sick. If you take the train to work, you'll be exposed to germs. Either someone washed their hands routinely, or they did not take the train. If you don't get sick, you won't have to miss work. If you don't miss work, your boss will be happy with your attendance.",
+            "question": "If Sam took the train to work this week, was his boss happy with his attendance?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "If someone feeds their dog on time, the dog will be energetic. If they take the dog to the park, then they will play fetch together. Either the dog was fed on time, or they did not play fetch in the park. If the dog is energetic, it will run fast. If the dog runs fast, it will quickly fetch the ball.",
+            "question": "If James took his dog to the park, did the dog quickly fetch the ball?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "If the sun is shining, the solar panels will generate electricity. If it is windy outside, the wind turbines will spin. Either it was sunny today, or the wind turbines did not spin today. If solar panels generate electricity, the energy grid stays stable. If the grid is stable, blackouts can be prevented.",
+            "question": "If it was windy today, were blackouts prevented?",
+            "answer": "yes"
+        }
+    ]
+}

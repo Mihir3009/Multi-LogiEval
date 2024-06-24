@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "HS_MT_DS_MP_MP",
+    "depth": "d5",
+    "samples": [
+        {
+            "id": 1,
+            "context": "A chef wanted to improve their cooking skills. They realized that if they learned new techniques and recipes, they would expand their repertoire. And if they expanded their repertoire, they could prepare a wider variety of dishes. Therefore, if someone learned new techniques and recipes, they could prepare more dishes. However, some chefs were not able to prepare a variety of dishes. Therefore, they did not learn new techniques and recipes. Either they learned new techniques and recipes, or they researched global cuisines, or both. If someone researched global cuisines, then they were exposed to new flavors. And if they were exposed to new flavors, then they could create innovative flavor combinations.",
+            "question": "If Tom cannot prepare a variety of dishes, then can he create innovative flavor combinations?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Someone decided they wanted to become more knowledgeable about world history. They realized that if they read history books regularly, they would learn about major historical events and figures. And if they learned about major historical events and figures, they could understand how the past shaped the present. Therefore, if someone read history books regularly, they could grasp how the past shaped the present. Either someone reads history books regularly, or they listen to history podcasts, or they do both. If someone listens to history podcasts, they gain different perspectives on historical events. And if they gain different perspectives, their overall understanding of history is more nuanced.",
+            "question": "If Lauren cannot grasp how the past shaped the present, is her understanding of history nuanced?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "A musician wanted to compose an album. They realized that if they practiced new melodies daily, they would expand their repertoire. If they had more material, they could produce enough songs for an album. So if they practiced new melodies daily, they could compose an album. Either the musician practiced new melodies, or they jammed with friends, or they did both. If someone jammed with friends, they gained inspiration from collaboration. And if they felt inspired, their creativity flourished.",
+            "question": "If Sarah did not release an album this year, did her creativity flourish?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Someone wanted to become an artist. They learned that if they practiced drawing techniques consistently, they would improve their artistic skills. With improved artistic skills, they could sell their artworks. Either someone practices drawing techniques consistently, or someone studies art history and famous artists, or they do both. If someone studies art history and famous artists, then they gain inspiration for their own art. If they gain inspiration, then they can develop their own creative style.",
+            "question": "If Emma cannot sell her artworks yet, then has she developed her own creative style?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Someone wanted to become fluent in Spanish. They realized that if they took language lessons, their vocabulary and grammar would improve. And with improved language skills, they could become fluent. Therefore, if someone took language lessons, they could become fluent in Spanish. Either they took language lessons, or they watched Spanish TV shows, or they did both. If someone watches Spanish shows, they get exposure to native speakers. And with exposure to native speakers, they pick up proper pronunciation.",
+            "question": "If Lisa is not fluent in Spanish, does she have good pronunciation?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Someone wanted to become a better public speaker. They learned that if they practiced presenting in front of others frequently, they would become more comfortable speaking to an audience. And if they became more comfortable speaking to an audience, they could engage people better during speeches. Therefore, if someone practiced presenting frequently, they could engage audiences better. Either they practiced presenting frequently, or they learned voice projection techniques, or both. If someone learned voice projection techniques, then they could be heard clearly. And if they could be heard clearly, then they could captivate people's attention.",
+            "question": "If Emma cannot engage people better during speeches, then can she captivate people's attention?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Someone wanted to become a better basketball player. They realized that if they practiced dribbling every day, their ball handling skills would improve. And if their ball handling improved, they could execute advanced dribble moves. Therefore, if they practiced dribbling daily, they could execute advanced moves. Either they practiced dribbling daily, or they worked on their vertical leap, or both. If they worked on their vertical leap, their ability to dunk would increase. This is important because if their dunking ability increased, they could score and defend more effectively during games.",
+            "question": "If Michael is unable to execute advanced dribble moves, does he score and defend more effectively during games?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Someone wanted to become fluent in French. They realized that if they practiced speaking regularly, their vocabulary would improve. With more vocabulary, they found reading became easier over time. Therefore, if they practiced speaking, reading French became easier. Either they practiced speaking, or they watched French films, or they did both. If someone watches French films, it means they enjoy hearing the language. And if they enjoy hearing French, they listen to French music and podcasts too.",
+            "question": "If Amy does not find reading French easier, does she listen to French music and podcasts?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Someone wanted to learn how to cook better meals at home. They learned that if they followed recipes carefully, the food would turn out well. Following recipes meant measuring ingredients precisely and using the proper cooking techniques. Therefore, if someone followed recipes carefully, they could cook good meals at home. Either they followed recipes carefully, or they experimented with ingredients spontaneously, or they tried both approaches. If someone experiments with ingredients spontaneously, it means they embrace creativity in the kitchen. And if they embrace creativity in the kitchen, it implies they enjoy the artistry of food preparation.",
+            "question": "If Joey cannot cook good meals at home, does he enjoy the artistry of food preparation?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Someone decided they wanted to take up gardening as a hobby. They learned that if they watered the plants adequately, the plants would bloom brightly. And if the plants bloomed brightly, it would attract more bees and butterflies to the garden. Therefore, if someone watered their plants adequately, it would attract more bees and butterflies to their garden. Either someone waters their plants adequately, or they use organic fertilizers, or they do both. If someone uses organic fertilizers, the soil quality improves. And if the soil quality improves, the plants grow healthier.",
+            "question": "If John's garden does not attract more bees and butterflies, is his soil high quality?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Someone wanted to learn to play the guitar. They realized that if they practiced the basic chords every day, they would develop the muscle memory in their fingers. And if they developed this muscle memory, they would be able to play simple songs. Therefore, if someone practiced the basic chords daily, they could learn to play simple songs. Either someone was practicing the basic chords daily, or they were focused on learning music theory, or both. If someone learned music theory, then they gained knowledge about song structure. Gaining this knowledge about song structure enabled them to analyze and understand how songs are composed.",
+            "question": "If Amy cannot play any songs yet, does she have knowledge about song structure?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Someone wanted to become fluent in Spanish. They realized that if they practiced speaking Spanish daily, their vocabulary and grammar would improve. And if their Spanish skills improved, they could converse with native speakers. Therefore, if they practiced speaking Spanish daily, they could converse with native speakers. Either they practiced speaking Spanish daily, or they watched Spanish TV shows, or both. If they watched Spanish TV shows, their listening comprehension would get better. This is important because if their listening comprehension improved, they could understand rapid conversational Spanish.",
+            "question": "If Mark cannot converse with native speakers, can he understand rapid conversational Spanish?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Someone wanted to become a faster runner. They realized that if they did strength training exercises, they would build more muscular endurance. And if they built more muscular endurance, they could run farther without getting tired. Therefore, if someone did strength training, they could run farther. Either they did strength training, or they improved running form, or both. If someone improved their running form, then they experienced less fatigue. And if they experienced less fatigue, then they could run faster speeds.",
+            "question": "If James cannot run farther, then can he run faster speeds?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "Someone wanted to be able to run a 5k race without stopping. They learned that if they did strength training consistently, it would build up their leg muscles. And if they built up leg strength, they could run longer distances without getting tired. Therefore, if someone did strength training consistently, they could run a 5k without stopping to rest. Either someone does strength training consistently, or they do cardio exercise regularly, or they do both. If someone does cardio exercise regularly, then their lung capacity increases. And if their lung capacity increases, then they have better endurance for long distance running.",
+            "question": "If James cannot yet run a 5k without stopping, does he have increased lung capacity?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "Someone wanted to become a faster sprinter. They realized that if they did sprint workouts several times a week, their speed would improve. And if their speed improved, they could run races faster. Therefore, if they trained hard weekly, they could improve their race times. Either they trained hard at sprinting, or they stretched regularly after runs, or both. If they stretched after runs, it means they took recovery seriously. And if they took recovery seriously, then they focused on muscle flexibility to prevent injury.",
+            "question": "If Lauren does not run races faster, does she focus on flexibility to prevent injury?",
+            "answer": "yes"
+        }
+    ]
+}
