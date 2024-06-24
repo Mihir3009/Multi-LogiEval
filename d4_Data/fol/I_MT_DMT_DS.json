@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "I_MT_DMT_DS",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Gardeners know that if one plants tomato seeds properly, then if there is adequate sunlight and watering, the tomatoes will grow large and plentiful.",
+            "question": "Farmer Joe watered and gave sunlight adequately. Farmer Joe's tomatoes did not grow large and plentiful. Did Farmer Joe plant the tomato seeds properly?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "Among athletes, coaches preach that if a player trains hard, then if they remain focused during competition, they will perform to the best of their ability.",
+            "question": "Lebron remained focused during the game. Lebron did not perform to the best of his ability. Did Lebron train hard?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "In carpentry, it is understood that if the wood is of high quality, then if the joints are cut precisely, the finished product will be sturdy and long-lasting.",
+            "question": "The carpenter cut the joints very precisely. The bookshelf he built was shaky and fell apart quickly. Was the wood he used of high quality?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "For novelists, it is often said that if a writer develops compelling characters, then if they craft an intriguing plot, their book will connect with readers.",
+            "question": "Lauren crafted an intriguing plot. Lauren's book did not connect with readers. Did Lauren develop compelling characters?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "When it comes to parenting, experts suggest that if a parent provides a nurturing and supportive environment, then if they set reasonable boundaries, the child will thrive and be well-adjusted.",
+            "question": "Maria set reasonable boundaries for her child. Her child did not thrive and was not well-adjusted. Did Maria provide a nurturing and supportive environment?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "In the world of business, it is often said that if a company develops an innovative product, then if they market it effectively, the product will be commercially successful.",
+            "question": "Acme Inc. marketed their new gadget effectively. Acme's gadget was not commercially successful. Did Acme Inc. develop an innovative product?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "For novelists, it's accepted that if a writer develops interesting characters, then if they craft compelling dialogue, readers will become absorbed in the story.",
+            "question": "Daniel crafted compelling dialogue. Readers did not become absorbed in Daniel's story. Did Daniel develop interesting characters?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "Gardeners know that if the soil is properly prepared, then if the plants are watered sufficiently, the garden will be lush and fruitful.",
+            "question": "John watered his plants sufficiently. John's garden was not lush and fruitful. Was the soil properly prepared?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "In academic circles, it is commonly understood that if a student attends lectures regularly, then if they spend sufficient time revising, they will perform well on exams.",
+            "question": "Priya spent sufficient time revising. Priya did not perform well on her exams. Did Priya attend lectures regularly?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "Among gardeners, it's commonly said that if someone plants disease-resistant varieties, then if they water and feed properly, they will have a bountiful harvest.",
+            "question": "Linda watered and fed her garden properly. Linda did not have a bountiful harvest. Did Linda plant disease-resistant varieties?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "Among students, there is a belief that if someone studies hard, then if they get enough sleep before an exam, they will perform well and ace the test.",
+            "question": "Emma got enough sleep before her biology exam. Emma did not ace the biology exam. Did Emma study hard?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "Mechanics often say that if preventive maintenance is done on a car, then if quality parts are used in repairs, the car will have a long service life.",
+            "question": "High quality parts were used in Liz's car repairs. Liz's car did not have a long service life. Was preventive maintenance done on the car?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "In the academic world, it is understood that if a student attends lectures regularly, then if they study diligently, they will excel in a course.",
+            "question": "Priya studied diligently. Priya did not excel in the course. Did Priya attend lectures regularly?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "For students, teachers often say that if someone studies consistently throughout the semester, then if they are well-prepared before the exam, they will get good grades.",
+            "question": "Emma was well-prepared before the exam. Emma did not get good grades. Did Emma study consistently throughout the semester?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "For athletes, coaches often say that if someone trains with dedication, then if they get adequate rest, they will perform at their peak on game day.",
+            "question": "Simone got plenty of rest before the big match. She did not play her best during the game. Did Simone train with dedication?",
+            "answer": "no"
+        }
+    ]
+}

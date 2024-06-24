@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "d3_2",
+    "depth": "d3",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Dogs and cats are mammals with fur. Usually, mammals with fur have tails. If a horse has a mane, then that horse is likely to be strong. Either a dog has a tail or a horse does not have a mane, or both.",
+            "question": "Can we conclude if a horse does not have strength, then a cat has a tail?",
+            "answer": "Yes"
+        },
+        {
+            "id": 2,
+            "context": "Dogs and cats are mammals with fur. Usually, mammals with fur have tails. If a horse has a mane, then that horse is likely to be strong. Either a dog has a tail or a horse does not have a mane, or both.",
+            "question": "Can we conclude if a horse does not have strength, then a cat does not have a tail?",
+            "answer": "No"
+        },
+        {
+            "id": 3,
+            "context": "Tomatoes and cucumbers are vegetables with seeds. Typically, vegetables with seeds are fruits. If an apple has a stem, then it is ready to eat. Either a tomato is a fruit or an apple does not have a stem, or both.",
+            "question": "Can we conclude if an apple is not ready to eat, then a cucumber is a fruit?",
+            "answer": "Yes"
+        },
+        {
+            "id": 4,
+            "context": "Tomatoes and cucumbers are vegetables with seeds. Typically, vegetables with seeds are fruits. If an apple has a stem, then it is ready to eat. Either a tomato is a fruit or an apple does not have a stem, or both.",
+            "question": "Can we conclude if an apple is not ready to eat, then a cucumber is not a fruit?",
+            "answer": "No"
+        },
+        {
+            "id": 5,
+            "context": "English and French are languages with alphabets. Generally, languages with alphabets have written scripts. If a person speaks English, then they might know Spanish. Either English has a written script or a person does not speak Spanish, or both.",
+            "question": "Can we conclude if a person does not know Spanish, then French has a written script?",
+            "answer": "Yes"
+        },
+        {
+            "id": 6,
+            "context": "English and French are languages with alphabets. Generally, languages with alphabets have written scripts. If a person speaks English, then they might know Spanish. Either English has a written script or a person does not speak Spanish, or both.",
+            "question": "Can we conclude if a person does not know Spanish, then French does not have a written script?",
+            "answer": "No"
+        },
+        {
+            "id": 7,
+            "context": "Summer and winter are seasons with distinctive weather. Normally, seasons with distinctive weather have specific activities. If a city experiences a heatwave, then the residents need to stay hydrated. Either summer has specific activities or a city does not experience a heatwave, or both.",
+            "question": "Can we conclude if a city's residents do not need to stay hydrated, then winter has specific activities?",
+            "answer": "Yes"
+        },
+        {
+            "id": 8,
+            "context": "Summer and winter are seasons with distinctive weather. Normally, seasons with distinctive weather have specific activities. If a city experiences a heatwave, then the residents need to stay hydrated. Either summer has specific activities or a city does not experience a heatwave, or both.",
+            "question": "Can we conclude if a city's residents do not need to stay hydrated, then winter does not have specific activities?",
+            "answer": "No"
+        },
+        {
+            "id": 9,
+            "context": "Math and Science are subjects with concepts. Typically, subjects with concepts require problem-solving skills. If a student excels in math, then they might enjoy computer programming. Either math requires problem-solving skills or a student does not enjoy computer programming, or both.",
+            "question": "Can we conclude if a student does not enjoy computer programming, then Science requires problem-solving skills?",
+            "answer": "Yes"
+        },
+        {
+            "id": 10,
+            "context": "Math and Science are subjects with concepts. Typically, subjects with concepts require problem-solving skills. If a student excels in math, then they might enjoy computer programming. Either math requires problem-solving skills or a student does not enjoy computer programming, or both.",
+            "question": "Can we conclude if a student does not enjoy computer programming, then Science does not require problem-solving skills?",
+            "answer": "No"
+        },
+        {
+            "id": 11,
+            "context": "Dogs and cats have fur. Typically, animals with fur are warm-blooded. If a bird has wings, then it can fly. If dogs are warm-blooded, then humans are mammals. Either birds have wings or humans are not mammals, or both.",
+            "question": "If a bird cannot fly, can we conclude that cats are warm-blooded?",
+            "answer": "Yes"
+        },
+        {
+            "id": 12,
+            "context": "Dogs and cats have fur. Typically, animals with fur are warm-blooded. If a bird has wings, then it can fly. If dogs are warm-blooded, then humans are mammals. Either birds have wings or humans are not mammals, or both.",
+            "question": "If a bird cannot fly, can we conclude that cats are not warm-blooded?",
+            "answer": "No"
+        },
+        {
+            "id": 13,
+            "context": "Students and teachers like learning. Usually, individuals who like learning are curious. If a book is interesting, then it is engaging. If students are curious, then education is valuable. Either books are interesting or education is not valuable, or both.",
+            "question": "If a book is not engaging, can we conclude that teachers are curious?",
+            "answer": "Yes"
+        },
+        {
+            "id": 14,
+            "context": "Students and teachers like learning. Usually, individuals who like learning are curious. If a book is interesting, then it is engaging. If students are curious, then education is valuable. Either books are interesting or education is not valuable, or both.",
+            "question": "If a book is not engaging, can we conclude that teachers are not curious?",
+            "answer": "No"
+        },
+        {
+            "id": 15,
+            "context": "Trees and flowers are plants. Normally, plants with leaves undergo photosynthesis. If a plant receives sunlight, then it grows. If trees undergo photosynthesis, then forests are essential. Either plants have leaves or forests are not essential, or both.",
+            "question": "If a plant does not grow, can we conclude that flowers undergo photosynthesis?",
+            "answer": "Yes"
+        },
+        {
+            "id": 16,
+            "context": "Trees and flowers are plants. Normally, plants with leaves undergo photosynthesis. If a plant receives sunlight, then it grows. If trees undergo photosynthesis, then forests are essential. Either plants have leaves or forests are not essential, or both.",
+            "question": "If a plant does not grow, can we conclude that flowers do not undergo photosynthesis?",
+            "answer": "No"
+        },
+        {
+            "id": 17,
+            "context": "Athletes and coaches are part of a team. Typically, team members show teamwork. If a player is selfless, then the team succeeds. If athletes show teamwork, then coaches provide guidance. Either players are selfless or coaches do not provide guidance, or both.",
+            "question": "If a team does not succeed, can we conclude that athletes show teamwork?",
+            "answer": "Yes"
+        },
+        {
+            "id": 18,
+            "context": "Athletes and coaches are part of a team. Typically, team members show teamwork. If a player is selfless, then the team succeeds. If athletes show teamwork, then coaches provide guidance. Either players are selfless or coaches do not provide guidance, or both.",
+            "question": "If a team does not succeed, can we conclude that athletes do not show teamwork?",
+            "answer": "No"
+        },
+        {
+            "id": 19,
+            "context": "Phones and laptops are electronic devices. Usually, devices with internet access can browse websites. If a device has a camera, then it can take photos. If phones can browse websites, then laptops have multiple functions. Either devices can browse websites or laptops do not have multiple functions, or both.",
+            "question": "If a device cannot take photos, can we conclude that phones have internet access?",
+            "answer": "Yes"
+        },
+        {
+            "id": 20,
+            "context": "Phones and laptops are electronic devices. Usually, devices with internet access can browse websites. If a device has a camera, then it can take photos. If phones can browse websites, then laptops have multiple functions. Either devices can browse websites or laptops do not have multiple functions, or both.",
+            "question": "If a device cannot take photos, can we conclude that phones do not have internet access?",
+            "answer": "No"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "BD_DS",
+    "depth": "d2",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Jeff knew that if he mowed the lawn, it would make the yard look nice. Meanwhile, his wife was going grocery shopping today. If she went shopping, she planned to buy ingredients to make Jeff's favorite dinner. Either Jeff mowed the lawn, or his wife didn't buy ingredients for his favorite dinner, or Jeff mowed and she didn't buy the ingredients.",
+            "question": "If the lawn didn't look nice, then did Jeff's wife go grocery shopping?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "Jessica decided to take her dog on a long walk this afternoon. She knew if they went for a walk, they would both get some exercise. Jessica was also planning to bake cookies today. She realized if she baked cookies, the house would smell amazing. Either Jessica walked her dog, or the house did not smell like cookies, or both.",
+            "question": "If Jessica and her dog did not get exercise, then did Jessica bake cookies?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "Ashley knew that if she cleaned the bathroom it would smell fresh. Meanwhile, Mark was considering mowing the lawn. He knew that if he mowed, the yard would look neat and tidy. Either Ashley cleaned the bathroom, or the yard did not look neat, or Ashley cleaned the bathroom and the yard was not neat.",
+            "question": "If the bathroom did not smell fresh, then did Mark mow the lawn?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "Kelly knew if she walked her dog every day, he would lose some weight. Meanwhile, Robert just started a new job that required him to wake up very early. He knew that if he started this new job, he'd have to start waking up early. Either Kelly walked her dog daily, or Robert did not have to wake up early, or Kelly walked her dog and Robert did not need to wake early.",
+            "question": "If Kelly's dog did not lose weight, then did Robert start a new job?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "Mark likes to start his mornings with coffee. He finds if he drinks coffee, he feels energized and alert. Mark also had an important work meeting today. He knew if the meeting went well, they would accomplish a lot. Either Mark had coffee, or the meeting was not very productive, or both.",
+            "question": "If Mark did not feel energized in the morning, then did he attend a work meeting?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "Ashley made herself some coffee to drink in the morning before work. She knew that if she has coffee, she will stay alert all morning. She also took some medicine before bed to help her sleep that night. Ashley knew that if she takes the sleeping pills, she will sleep soundly. Either Ashley had coffee in the morning, or she did not sleep soundly that night, or both are true.",
+            "question": "If Ashley was not alert all morning, did she take medicine to help her sleep the night before?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "Mark knew that if he studied hard, he would earn an A on his chemistry test. Meanwhile, the local weatherman predicted heavy snow overnight. The superintendent knew that if over 6 inches of snow fell, schools would need to close the next day. Either Mark studied for his test, or schools weren't closed, or Mark studied and schools stayed open.",
+            "question": "If Mark did not earn an A on his chemistry test, then did it snow over 6 inches overnight?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "Sam knew that if he did all his homework, he would get good grades on his report card. Meanwhile, the weather forecaster reported that a big snowstorm was coming. The principal knew that if it snowed heavily, school would be canceled the next day. Either Sam did all his homework, or school wasn't canceled, or Sam did all his homework and school wasn't canceled.",
+            "question": "If Sam did not get good grades, then did it snow heavily last night?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "Emily knew that if she cleans her room, it will be nice and tidy. Her brother Jacob offered to make dinner for the family. If Jacob makes dinner, the family will have a nice meal together. Either Emily cleaned her room, or the family did not have a pleasant dinner, or Emily's room is clean and the dinner did not go well.",
+            "question": "If Emily's room is not tidy, then did Jacob make dinner?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "Katie noticed that the power was out when she woke up this morning. She knew that if the electricity goes out, the food in the fridge will spoil. There had been a major storm the day before. The electric company was aware that if there is a big storm, falling tree branches often knock down power lines. Either there was no electricity last night, or falling branches did not cause an outage, or both.",
+            "question": "If the food did not spoil, then was there a big storm yesterday?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "Sara just joined a new gym. She knows if she joins, she'll start working out regularly. Her coworker Matt might get promoted soon because his boss is retiring. Sara knows that if Matt's boss retires, he'll likely get promoted to that role. Either Sara joined the gym, or Matt didn't get promoted, or both are true.",
+            "question": "If Sara is not working out regularly, then did Matt's boss retire?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "Jen realized that if she organizes the pantry, it will look neat and tidy. Her husband Greg said he would change the oil in the car. If Greg changes the oil, the car maintenance will be up-to-date. Either Jen organized the pantry, or the car maintenance is not current, or Jen organized and Greg didn't change the oil.",
+            "question": "If the pantry does not look tidy, then did Greg change the car oil?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "Ryan knew that if he cleans the garage, it will become organized. His wife Karen was thinking of painting the spare bedroom. If Karen paints the bedroom, it will have a nice fresh coat of paint. Either Ryan cleaned the garage, or the spare room does not have new paint, or Ryan cleaned the garage and Karen did not paint.",
+            "question": "If the garage is not organized, then did Karen paint the spare bedroom?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "After school, Hannah wanted to watch TV but knew she had to finish her homework first. If she finished her homework, she'd get to watch TV. Meanwhile, her brother Tyler was supposed to do his chores to earn his allowance. If Tyler did his chores, he would get his allowance. Either Hannah finished her homework, or Tyler didn't get his allowance, or Hannah finished her homework and Tyler didn't get his allowance.",
+            "question": "If Hannah didn't get to watch TV, then did Tyler do his chores?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "Mark knew that if he works out intensely, he'll be very sore the next day. His roommate Jessica had stayed up late the previous night. Mark knew that if Jessica stays up late, she'll be tired the following day. Either Mark worked out yesterday, or Jessica isn't tired today, or both.",
+            "question": "If Mark was not sore today, then did Jessica stay up late last night?",
+            "answer": "no"
+        }
+    ]
+}

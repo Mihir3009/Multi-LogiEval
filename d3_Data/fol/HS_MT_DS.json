@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "HS_MT_DS",
+    "depth": "d3",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Every team will want to win the championship this season. They knew that if they trained hard, their skills would improve. And with improved skills, they could start winning more games. However either they were not training hard enough, or injuries had impacted the team, or both were true.",
+            "question": "The team keeps losing games. Have injuries impacted them?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Newbie players want to become a better at chess. They understood that if they studied chess strategies, their game would improve. And if their game improved, they could compete in tournaments. However, either they studied chess diligently, or they practiced regularly with other players, or maybe both.",
+            "question": "John is not ready for chess tournaments. Does he practice regularly with other players?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "Someone wanted to become better at playing guitar. They learned that if they practiced guitar scales and chords daily, their technique would improve. If their technique improved, they could learn songs faster. Either they practiced guitar regularly, or they listened attentively to music, or they did both to progress their guitar skills.",
+            "question": "Sarah is not able to learn songs faster. Then does she listen attentively to music?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Someone wanted to become an author. They realized that if they read a lot, they would expand their vocabulary. And if they expanded their vocabulary, they could write more descriptively. Either they read voraciously, or they took a creative writing class, or they did both.",
+            "question": "James struggles to write descriptively. Then does he take a creative writing class?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "College students want to become a better basketball players. They know that if they practiced dribbling every day, their ball handling skills would improve. If their ball handling improved, they could play more confidently in games. Either they practiced dribbling daily, or they worked out at the gym regularly, or they did both to improve their basketball skills.",
+            "question": "John does not play more confidently in games. Then does he work out at the gym regularly?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "People want to learn how to bake. It is known that if they followed recipes precisely, their baked goods would turn out well. And if their bakes turned out well, they would gain confidence in their skills. Either they followed recipes, or they watched baking tutorials, or they did both to improve their baking.",
+            "question": "Mary has not gained confidence in her baking skills, then does she watch baking tutorials?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Home owners love growing plants and want a beautiful garden. They realized that if they learned about botany, they would better understand plant needs. And if they understood plant needs, they could grow thriving plants. However, either they learned about botany, or they sought advice from experienced gardeners, or maybe both.",
+            "question": "Mary's plants did not thrive. Did she seek advice from experienced gardeners?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Chefs want to become better at cooking. They realized that if they followed recipes precisely, their dishes would turn out well. If their dishes turned out well, they would gain confidence in the kitchen. Either they followed recipes precisely, or they watched cooking shows for inspiration, or they did both to improve their culinary skills.",
+            "question": "James does not gain confidence in the kitchen. Then does he watch cooking shows for inspiration?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Students want to get good grades on their math test. They knew that if they studied hard, they would understand the concepts. And if they understood the concepts, they would score well on the test. Either they studied hard, or they were too distracted by their phone, or both.",
+            "question": "Mary failed her math test. Was she too distracted by her phone?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Beginners want to become better at playing guitar. They learned that if they practiced chord changes diligently, their finger placement and transitions would improve. This dexterity would allow them to play songs smoothly. Either they practiced chords, or they took guitar lessons, or they did both to become a skilled guitarist.",
+            "question": "Tom cannot play the guitar smoothly. Then does he take guitar lessons?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "People want to become better at public speaking. They know that if they practice their presentations thoroughly, they would feel more prepared. And if they felt prepared, they could speak confidently in front of an audience. Either they practiced thoroughly, or they joined a public speaking club, or they did both to improve their public speaking skills.",
+            "question": "James cannot speak confidently in public. Then does he join a public speaking club?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Writers want to be better at writing. They learned that if they read more books, their vocabulary would improve. And if their vocabulary improved, they could write more eloquently. Either they read more books, or they practice creative writing exercises, or they do both to improve their writing skills.",
+            "question": "Alice is not able to write eloquently. Then does she practice creative writing exercises?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Companies want to increase sales of their product. They knew that if they invested in marketing such as ads and promotions, they would gain more customers. With more customers, sales numbers would go up. Either they focused budget on marketing, or production costs increased, or both factors impacted sales.",
+            "question": "Sales did not increase last quarter. Then had production costs increased?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "Students want to get good grades in calculus class. They understood that if they studied hard for the exams, they would master the concepts. And if they mastered the concepts, they would score well on the exams. Either they study diligently, or they take advantage of available tutoring resources on campus, or maybe both.",
+            "question": "Mary did not score well on her calculus exams. Then did she take advantage of tutoring resources?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "People want to renovate their kitchen for the new year. They realized that if they created a detailed budget and timeline, the project would stay on track. If the project stayed on track, they knew the renovation would be completed on schedule. Either they had diligently created the detailed budget and timeline, or they were distracted by other priorities, or some combination was true.",
+            "question": "The kitchen renovation was not completed on time. Then was the homeowner distracted by other priorities?",
+            "answer": "yes"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "logic": "mm",
+    "rule": "REII_MP",
+    "depth": "d2",
+    "samples": [
+    {
+        "id": 1,
+        "context": "John bought a new phone. New phones usually come with a warranty. However, some new phones do not come with a warranty. If a phone has a warranty, then it has customer support.",
+        "question": "Can we conclude John's new phone has customer support?",
+        "answer": "no"
+    },
+    {
+        "id": 2,
+        "context": "Jane adopted a dog from the shelter. Shelter dogs are normally vaccinated. But some shelter dogs have not received vaccinations. If a dog is vaccinated, then it has a clean bill of health.",
+        "question": "Can we conclude Jane's shelter dog has a clean bill of health?",
+        "answer": "no"
+    },
+    {
+        "id": 3,
+        "context": "Bob rented a car for his trip. Rental cars are typically serviced regularly. However, some rental cars have missed scheduled servicings. If a rental car is serviced regularly, then it should run reliably.",
+        "question": "Can we conclude Bob's rental car will run reliably?",
+        "answer": "no"
+    },
+    {
+        "id": 4,
+        "context": "Emma bought tomatoes from the grocery store. Store bought tomatoes are usually ripe. But some store tomatoes are not yet ripe. If a tomato is ripe, then it will taste sweet.",
+        "question": "Can we conclude the tomatoes Emma bought will taste sweet?",
+        "answer": "no"
+    },
+    {
+        "id": 5,
+        "context": "Liam downloaded an app on his phone. Downloaded apps tend to be free of malware. However, some downloaded apps contain malware. If an app has no malware, then it is safe to use.",
+        "question": "Can we conclude the app Liam downloaded is safe to use?",
+        "answer": "no"
+    },
+    {
+        "id": 6,
+        "context": "Jennifer booked a room at the Hilton hotel. Most rooms at the Hilton have ocean views. However, some rooms at the Hilton do not have ocean views. If a room has an ocean view, it also has a balcony.",
+        "question": "Can we conclude Jennifer's room has a balcony?",
+        "answer": "no"
+    },
+    {
+        "id": 7,
+        "context": "John bought a Ford truck. Most Ford trucks have leather seats. However, some Ford trucks do not have leather seats. If a Ford truck has leather seats, it also has a sunroof.",
+        "question": "Can we conclude John's truck has a sunroof?",
+        "answer": "no"
+    },
+    {
+        "id": 8,
+        "context": "Emma adopted a German Shepherd from the animal shelter. Most German Shepherds from the shelter are house trained. However, some German Shepherds from the shelter are not house trained. If a German Shepherd is house trained, it also knows basic commands.",
+        "question": "Can we conclude Emma's dog knows basic commands?",
+        "answer": "no"
+    },
+    {
+        "id": 9,
+        "context": "James ordered pasta from an Italian restaurant. Most pasta dishes from this restaurant come with garlic bread. However, some pasta dishes do not come with garlic bread. If a pasta dish comes with garlic bread, it also comes with salad.",
+        "question": "Can we conclude James's pasta came with salad?",
+        "answer": "no"
+    },
+    {
+        "id": 10,
+        "context": "Sara bought a dress from a boutique store. Most dresses from this boutique are dry clean only. However, some dresses from this boutique are not dry clean only. If a dress is dry clean only, it also requires gentle care.",
+        "question": "Can we conclude Sara's dress requires gentle care?",
+        "answer": "no"
+    },
+    {
+        "id": 11,
+        "context": "John is a student at the university and is enrolled in an economics class. Most students enrolled in economics also take a statistics class. However, some economics students do not take statistics. All students who take statistics must purchase a textbook.",
+        "question": "Can we conclude John purchased a textbook?",
+        "answer": "no"
+    },
+    {
+        "id": 12,
+        "context": "The Toyota Camry is a sedan with a V6 engine. Most V6 sedans have all-wheel drive capabilities. However, some V6 sedans only have front-wheel drive. All sedans with all-wheel drive come with traction control.",
+        "question": "Can we conclude the Toyota Camry comes with traction control?",
+        "answer": "no"
+    },
+    {
+        "id": 13,
+        "context": "Alex is playing in a chess tournament. Most chess players in tournaments hold international master titles. However, some tournament players do not have an international master title. All players with an international master title wear special jackets at tournaments.",
+        "question": "Can we conclude Alex is wearing a special jacket?",
+        "answer": "no"
+    },
+    {
+        "id": 14,
+        "context": "Maria opened a bank account with a Visa debit card. Most bank debit cards enable account holders to use ATMs for free. However, some debit cards charge ATM fees. All ATM cards with no fees allow deposits at ATMs.",
+        "question": "Can we conclude Maria can deposit money at ATMs with no fee?",
+        "answer": "no"
+    },
+    {
+        "id": 15,
+        "context": "Jeff ordered pasta from an Italian restaurant. Most pasta dishes at Italian restaurants come with garlic bread. However, some pasta dishes do not automatically include garlic bread. All dishes served with garlic bread include Parmesan cheese.",
+        "question": "Can we conclude Jeff's pasta came with Parmesan cheese?",
+        "answer": "no"
+    },
+    {
+        "id": 16,
+        "context": "Jennifer booked a room at the Hilton hotel. Most rooms at the Hilton have free Wi-Fi. However, some rooms at the Hilton do not have free Wi-Fi. If a room has free Wi-Fi, then it also has air conditioning.",
+        "question": "Can we conclude Jennifer's room has air conditioning?",
+        "answer": "no"
+    },
+    {
+        "id": 17,
+        "context": "John bought a Samsung TV. Most Samsung TVs are 4K resolution. But some Samsung TVs are only 1080p resolution. If a Samsung TV is 4K resolution, then it has HDR support.",
+        "question": "Can we conclude John's TV has HDR support?",
+        "answer": "no"
+    },
+    {
+        "id": 18,
+        "context": "Jane rented a Toyota Camry. Most Toyota Camrys have alloy wheels. However, some Toyota Camrys have hubcaps instead of alloy wheels. If a Toyota Camry has alloy wheels, then it also has power windows.",
+        "question": "Can we conclude Jane's Camry has power windows?",
+        "answer": "no"
+    },
+    {
+        "id": 19,
+        "context": "Bob subscribed to a cell phone plan. Most plans from this carrier include unlimited data. However, some plans from this carrier have data caps. If a plan has unlimited data, then it also provides free streaming.",
+        "question": "Can we conclude Bob's plan provides free streaming?",
+        "answer": "no"
+    },
+    {
+        "id": 20,
+        "context": "Emma bought a house. Most houses in this neighborhood have two car garages. However, some houses in this neighborhood only have one car garages. If a house has a two car garage, then it also has central air conditioning.",
+        "question": "Can we conclude Emma's house has central air conditioning?",
+        "answer": "no"
+    }
+]}

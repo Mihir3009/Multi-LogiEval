@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "DMT_CO_MT",
+    "depth": "d3",
+    "samples": [
+        {
+            "id": 1,
+            "context": "John orders food online whenever he is busy with work. If John is busy with work, he opts for delivery. Getting food delivered saves time when John has a heavy workload.",
+            "question": "Either John did not order food online or he did not get delivery. Was John busy with work?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "Whenever Kate feels stressed, she meditates. Kate also exercises when feeling anxious. Relaxation techniques and physical activity help manage stress.",
+            "question": "Either Kate did not meditate or she did not exercise. Was Kate feeling stressed?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "If Jay notices the check engine light, he takes the car to the mechanic. Seeing the check engine light prompts Jay to check the owner's manual. Addressing warning lights right away prevents bigger issues down the road.",
+            "question": "Jay either did not go to the mechanic or he did not check the manual. Did Jay see the check engine light illuminated?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "When Lisa goes camping, she packs extra blankets. If Lisa goes camping, she also brings warm clothes. Being prepared for cold nights is important when camping outdoors.",
+            "question": "Either Lisa did not pack extra blankets or she did not bring warm clothes. Did Lisa go camping?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "Whenever Mark's computer runs slowly, he restarts it. Additionally, if Mark's computer is sluggish, he checks for any software updates. Keeping the computer updated improves performance over time.",
+            "question": "Mark either did not restart his computer or he did not check for updates. Is Mark's computer running slowly?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "If Sam notices his car making unusual noises, he takes it to the mechanic. Also, if Sam hears strange car sounds, he inspects the engine. Addressing car problems promptly prevents further damage.",
+            "question": "Either Sam did not take his car to the mechanic, or he did not inspect the engine himself. Did Sam hear odd noises coming from his car?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "When it's sunny outside, Lauren puts on sunscreen. Additionally, if it's a sunny day, Lauren wears a hat. Using sun protection prevents sunburn on bright days.",
+            "question": "Either Lauren did not apply sunscreen, or she did not wear a hat. Is it a sunny day outside?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "Whenever it is sunny outside, Liam goes swimming. If the weather is sunny, Liam plays tennis. Sunny weather provides chances for Liam to enjoy outdoor activities.",
+            "question": "Either Liam did not go swimming or he did not play tennis. Was it sunny outside?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "If the fire alarm goes off, Dan exits the building immediately. Additionally, if Dan hears the fire alarm, he alerts people nearby. Quickly evacuating and warning others is crucial for safety in case of a fire.",
+            "question": "Dan either did not exit the building, or he did not alert others. Did the fire alarm go off?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "Whenever Mark notices a sale at the electronics store, he checks the prices. If there is a sale, Mark compares different models. Doing research during sales events helps get the best deals on new gadgets.",
+            "question": "Either Mark did not check the prices, or he did not compare models. Was there a sale at the electronics store?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "If the stove is left on, the kitchen gets very warm. Also, if the stove is on, there is a burning smell in the house. This indicates the stove should be turned off when not in use.",
+            "question": "Either the kitchen is not warm or there is no burning smell. Was the stove left on?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "If Sam notices the bag is heavy, he uses proper lifting techniques. Also, a heavy load prompts Sam to ask for help. Preventing injury is crucial when moving heavy objects.",
+            "question": "Either Sam did not use proper lifting techniques, or he did not ask for help. Was the bag Sam tried to lift heavy?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "When Lisa goes hiking, she packs extra water. Lisa also brings a map if she goes hiking. Being prepared with supplies enables Lisa to hike safely.",
+            "question": "Either Lisa did not pack extra water or she did not bring a map. Did Lisa go hiking?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "Whenever Mark has an exam coming up, he studies diligently. Also, if Mark has a test soon, he gets plenty of rest. Being well-prepared and well-rested helps Mark perform better academically.",
+            "question": "Either Mark did not study hard, or he did not get enough rest. Does Mark have an exam coming up soon?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "Whenever Mark gets a flat tire, he changes it himself. Also, if Mark gets a flat, he calls roadside assistance. Being self-reliant and seeking help when needed are useful skills when dealing with car troubles.",
+            "question": "Either Mark did not change the tire himself, or he did not call for assistance. Did Mark get a flat tire?",
+            "answer": "no"
+        }
+    ]
+}

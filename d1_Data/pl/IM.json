@@ -1,0 +1,67 @@
+{
+    "logic": "pl",
+    "rule": "IM",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "The doctor knew that if the patient took the medicine, then if they got enough rest they would recover quickly.",
+            "question": "The patient took the medicine and got enough rest. Is it true that they recovered quickly?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "The scientist knew that if he conducted thorough research, then if he carefully analyzed the data he would make an important discovery.",
+            "question": "The scientist conducted thorough research and carefully analyzed the data. Is it true that he made an important discovery?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "The detective knew that if he found clues, then if he pieced together the evidence he would solve the mystery.",
+            "question": "The detective found clues and pieced together the evidence. Is it true that he solved the mystery?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "The bridesmaid knew that if she got her dress fitted, then if she practiced walking in heels she wouldn't trip at the wedding.",
+            "question": "The bridesmaid got her dress fitted and practiced walking in heels. Is it true that she didn't trip at the wedding?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "The chef understood that if he used fresh ingredients, then if he followed the recipe the dish would turn out delicious.",
+            "question": "The chef used fresh ingredients and followed the recipe. Is it true that the dish turned out delicious?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "The captain realized that if the ship was seaworthy, then if the crew was experienced they would have a safe voyage.",
+            "question": "The ship was seaworthy and the crew was experienced. Is it true that they had a safe voyage?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Sara knew that if she cleaned her room, then if she did her chores her mom would let her go to the movies.",
+            "question": "Sara cleaned her room and did her chores. Is it true that her mom let her go to the movies?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "The manager understood that if she motivated her team, then if she provided clear goals they would improve their performance.",
+            "question": "The manager motivated her team, and she provided clear goals. Is it true that they improved their performance?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "The mechanic said that if the car had enough gas, then if the engine was tuned up it would run smoothly.",
+            "question": "The car had enough gas and the engine was tuned up. Is it true that it ran smoothly?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "The detective realized that if he found the murder weapon, then if he identified fingerprints on it he would catch the killer.",
+            "question": "The detective found the murder weapon, and he identified fingerprints on it. Is it true that he caught the killer?",
+            "answer": "yes"
+        }
+    ]
+}

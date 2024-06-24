@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "CD_C_DS_MP",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "I've been working hard to finish an important project by the deadline. If I finish my project on time, I will meet the deadline. Also, if there is bad weather, my flight for my next business trip will get canceled. It seems either I'll finish the project on time or there will be bad weather, or maybe both. If I meet the deadline, my boss will definitely be happy with my work.",
+            "question": "If my flight did not get canceled, then was my boss happy with my work?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "This month has been busy between work and social obligations. If the big project at work is completed on time, I will receive a nice bonus. Also, if it is my friend's birthday, I will buy them a gift. It looks like either the project will be done, or it's my friend's birthday, or maybe both. If I do get that bonus at work, then I will have some extra spending money this month.",
+            "question": "If I did not buy a gift for my friend, then did I have extra spending money this month?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "I really want to see my favorite band play downtown tonight. If my friend can give me a ride, then I can go to the concert. Also, if I have enough money for bus fare, I can take public transit to get there instead. It seems either my friend will drive or I'll take the bus, maybe both. But the important thing is, if I'm able to go to the concert, then I won't have to miss the show.",
+            "question": "If I did not take public transit, then did I not miss the show?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "This week I have a major exam that will determine if I pass my hardest class. If I ace the exam, I'll pass the class. Also, if there is a big storm, school will be closed. It seems either I'll ace it, or school will be closed, or perhaps both. If I pass this tough class, it means I'm one step closer to graduating.",
+            "question": "If school was not closed, then did I move closer to graduating?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "I'm hoping for a great outcome at today's game. If my team wins, we'll make it to the championships. Also, if my car won't start, I'll miss the game altogether. It seems either we'll win, or my car will break down, or maybe both. If we make it to the championships, I'll be ecstatic no matter what.",
+            "question": "If I did not miss the game, then was I ecstatic over the results?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "I'm working on an important repair project this week. If the vendor has the part I need in stock, I'll place the order today. Also, if the part is backordered, my project will be delayed. It seems either they'll have it in stock or it'll be backordered, perhaps both. If I do place the order today, then I'll be able to complete the repair on time.",
+            "question": "If my project was not delayed, then did I complete the repair on time?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "This weekend is looking to be a fun one for me. If I get an A on my big midterm exam, I'll celebrate with a night out on the town. Also, if my friend's art exhibit opens on Friday like planned, I'll attend the gallery opening. It seems either I'll ace the exam or go to the art show, maybe both. But if I end up celebrating my grades, I'm sure to have an exciting weekend.",
+            "question": "If I did not attend the art gallery opening, then did I have an exciting weekend?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "I've been dreaming of an island getaway. If my boss approves my vacation request, I'll book a flight to Hawaii. Also, if I manage to save up enough money, I'll start planning fun activities for my trip. It seems either I'll get approved time off work or I'll save up the cash, maybe both. But if I book that flight, I'll definitely be going on a tropical vacation this year.",
+            "question": "If I did not start planning island activities, then did I go on a tropical vacation?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "My weekend plans could go one of two ways it seems. If it rains, the soccer game will certainly be canceled. But if my brother visits from out of town, we'll spend time catching up indoors. So either it will rain, or my brother will visit, or maybe both will happen. However, if the game does get canceled due to weather, I'm going to make the best of it and have a relaxing weekend in.",
+            "question": "If my brother and I did not spend time catching up indoors, then did I have a relaxing weekend?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "I was looking forward to a relaxing weekend until I heard my friend was in town. If she's here, we'll meet for dinner to catch up. Also, if I have a lot of errands to run, I'll spend the day shopping instead. It seems either we'll have dinner or I'll go shopping, maybe both. But if we meet for dinner, we'll have a really fun evening out.",
+            "question": "If I did not spend the day shopping, then did we have a fun evening out?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "I always try to get my homework done efficiently. If the assignment is easy, I can finish my homework quickly. Also, if I have other plans tonight, I'll go out with friends after school. It seems either the assignment will be easy or I'll have plans tonight, maybe both. If I finish my homework fast, then I'll be able to get a good night's sleep before school tomorrow.",
+            "question": "If I did not go out with friends after school, then did I get a good night's sleep?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "In our neighborhood, the plants and lawns need regular watering. If it rains today, the lawns will get watered naturally. Also, if the sprinklers are turned on, the gardens will get watered too. It looks like either it will rain, or the sprinklers will run, or maybe both will happen. But if the lawns get watered from the rain, then for sure the plants will thrive this season.",
+            "question": "If the gardens did not get watered, then did the plants thrive?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Waiting to hear back from colleges has me on edge. If I get into my top choice school, I can finally decide on a major. However, if my roommate gets sick, I'll have to take care of her. It seems either I'll get accepted or she'll get sick, or maybe both. But if I can decide on a major, I'll get to enroll in really fun classes next year.",
+            "question": "If I did not have to take care of my sick roommate, then did I enroll in fun classes?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "My friends and I planned a hike today. If the hike is short, we'll make it to the summit. Also, if the weather looks bad, we'll have to postpone the hike. It seems either the hike will be short or the weather will be bad, maybe both. But if we do make it to the summit, we'll be rewarded with majestic mountain views.",
+            "question": "If we did not postpone the hike, then did we enjoy majestic mountain views?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "I wanted to do some baking today. If the recipe is easy to follow, I'll bake some cookies. Also, if the oven is broken, I will borrow my neighbor's oven. It seems either the recipe will be simple or the oven broken, perhaps both. If I do bake some cookies, then I'll have a fresh batch to enjoy.",
+            "question": "If I did not borrow my neigbor's oven, then did I enjoy a fresh batch of cookies?",
+            "answer": "yes"
+        }
+    ]
+}

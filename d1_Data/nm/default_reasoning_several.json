@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "default_reasoning_several",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "In a world where certain flowers can bloom in sunlight, usually those blooming in sunlight also attract bees. Moreover, these flowers tend to be fragrant. Daisy does not attract bees, while Rose is not fragrant.",
+            "question": "Can we conclude that Rose attracts bees and Daisy is fragrant?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Among students who excel in mathematics, they usually are great problem solvers. Additionally, they often enjoy playing chess. John does not enjoy playing chess, while Alice is not a great problem solver.",
+            "question": "Can we conclude that Alice enjoys playing chess and John is a great problem solver?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "In a forest, trees that grow tall usually bear fruit. These trees also provide substantial shade. The Pine does not bear fruit, whereas the Maple provides little shade.",
+            "question": "Can we conclude that Maple bears fruit and Pine provides substantial shade?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Cars with powerful engines typically have high top speeds. They also tend to consume more fuel. The Sedan does not have a high top speed, while the Compact consumes less fuel.",
+            "question": "Can we conclude that the Compact has a high top speed and the Sedan consumes more fuel?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Animals that live in the Arctic generally have thick fur. They also tend to be good swimmers. The Polar Bear is not a good swimmer, while the Seal does not have thick fur.",
+            "question": "Can we conclude that the Seal is a good swimmer and the Polar Bear has thick fur?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "In the tech industry, companies that innovate often file many patents. Furthermore, they usually invest heavily in research and development. TechCorp has not filed many patents, while InnovateInc has not invested heavily in research.",
+            "question": "Can we conclude that InnovateInc files many patents and TechCorp invests heavily in research?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Birds that migrate long distances typically have great stamina. They also usually have keen eyesight. The Sparrow does not have great stamina, while the Owl does not have keen eyesight.",
+            "question": "Can we conclude that the Owl has great stamina and the Sparrow has keen eyesight?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Plants that thrive in arid climates generally conserve water efficiently. These plants also tend to flower infrequently. Cactus does not conserve water efficiently, while the Orchid flowers frequently.",
+            "question": "Can we conclude that the Orchid conserves water efficiently and Cactus flowers infrequently?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "In a medieval setting, knights who are valiant in battle typically are loyal to their king. They also often win tournaments. Sir Galahad is not loyal to his king, while Sir Lancelot does not win tournaments.",
+            "question": "Can we conclude that Sir Lancelot is loyal to his king and Sir Galahad wins tournaments?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "In marine ecosystems, fish that swim deep in the ocean usually have bioluminescence. These fish also often have large eyes. The Anglerfish does not have bioluminescence, while the Squid has small eyes.",
+            "question": "Can we conclude that the Squid has bioluminescence and the Anglerfish has large eyes?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "In urban planning, cities that have efficient public transport usually have low traffic congestion. These cities also tend to have high air quality. Metropolis does not have low traffic congestion, while Gotham has poor air quality.",
+            "question": "Can we conclude that Gotham has low traffic congestion and Metropolis has high air quality?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Countries with strong economies usually have low unemployment rates. They also tend to have robust healthcare systems. Nation A has high unemployment, while Nation B has a weak healthcare system.",
+            "question": "Can we conclude that Nation B has a low unemployment rate and Nation A has a robust healthcare system?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "In culinary terms, chefs who master French cuisine usually can prepare exquisite sauces. They also tend to have expertise in pastry making. Chef Watson cannot prepare exquisite sauces, while Chef Holmes lacks pastry skills.",
+            "question": "Can we conclude that Chef Holmes can prepare exquisite sauces and Chef Watson has pastry skills?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "In the animal kingdom, predators that are fast runners usually catch their prey easily. They also tend to have sharp claws. The Cheetah does not catch prey easily, while the Lion has blunt claws.",
+            "question": "Can we conclude that the Lion catches prey easily and the Cheetah has sharp claws?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "In the world of finance, companies that offer high dividends usually have stable profits. These companies also tend to have a long history. NewCo does not have stable profits, while OldBank has a short history.",
+            "question": "Can we conclude that OldBank offers high dividends and NewCo has a long history?",
+            "answer": "yes"
+        },
+        {
+            "id": 16,
+            "context": "In sports, athletes who excel in endurance sports usually have great cardiovascular health. These athletes also often perform well in team sports. The marathon runner does not have great cardiovascular health, while the soccer player does not perform well in team sports.",
+            "question": "Can we conclude that the soccer player has great cardiovascular health and the marathon runner performs well in team sports?",
+            "answer": "yes"
+        },
+        {
+            "id": 17,
+            "context": "In literature, authors who write compelling fiction usually have a deep understanding of human psychology. They also tend to receive literary awards. Writer A does not understand human psychology, while Writer B has not received any awards.",
+            "question": "Can we conclude that Writer B understands human psychology and Writer A has received literary awards?",
+            "answer": "yes"
+        },
+        {
+            "id": 18,
+            "context": "In software development, programmers who are skilled in algorithm design usually can solve complex problems. They also often contribute to open source projects. Dev1 cannot solve complex problems, while Dev2 does not contribute to open source.",
+            "question": "Can we conclude that Dev2 can solve complex problems and Dev1 contributes to open source?",
+            "answer": "yes"
+        },
+        {
+            "id": 19,
+            "context": "In classical music, composers who are proficient in piano usually can compose symphonies. They also often teach at conservatories. Composer A cannot compose symphonies, while Composer B does not teach at conservatories.",
+            "question": "Can we conclude that Composer B can compose symphonies and Composer A teaches at conservatories?",
+            "answer": "yes"
+        },
+        {
+            "id": 20,
+            "context": "In retail, stores that have a wide variety of products usually have high customer satisfaction. These stores also tend to have frequent sales. Store X does not have high customer satisfaction, while Store Y does not have frequent sales.",
+            "question": "Can we conclude that Store Y has high customer satisfaction and Store X has frequent sales?",
+            "answer": "yes"
+        }
+    ]
+}

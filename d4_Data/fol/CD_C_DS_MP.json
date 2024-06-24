@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "CD_C_DS_MP",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "In the office, meetings can often run long. If there is a long meeting in the morning, someone will miss their coffee break. Also, if the printer is jammed, reports won't print on time. It seems either there will be a long meeting, or the printer will be jammed, or both will happen. But one thing is for sure, if someone misses their coffee break, they will be crabby and unproductive all morning.",
+            "question": "Janet's reports printed on time, was she crabby and unproductive all morning?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "In the city, the buses run on a schedule. If the bus driver wakes up on time, he will start his route at 6 AM. Also, if there is no traffic jam, the passengers will get to work early. Either the driver will wake up on time, or there will be light traffic, or maybe both will happen. But one thing is for sure - if the driver starts his route at 6 AM, then the driver will get a bonus.",
+            "question": "John did not get to work early, did the bus driver get a bonus?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "At the office, meetings take up a big part of the day. If there is a weekly status update, then someone presents their latest progress. Also, if it's time for the monthly review, then someone else leads that discussion. There will certainly be either a status update or monthly review, if not both. Now, if someone presents their latest progress, they can showcase their recent accomplishments.",
+            "question": "Amanda did not lead the monthly review, did she showcase her recent accomplishments?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "At the park on weekends, if it is sunny, then children will play on the playground. Also, if there is a traveling carnival in town, families will go ride the rides together. Either it is sunny today, or the carnival is in town, or both are happening. But if kids get to play on the playground, they will have fun and get exercise.",
+            "question": "The families did not go ride carnival rides, did the kids have fun and get exercise?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "At home, chores always need to be done. If the laundry is folded promptly, the drawers will be organized. Also, if the dishes are washed every night, the kitchen will stay tidy. Whether the laundry gets folded or the dishes get washed, at least one of those things should happen. Undoubtedly if the drawers stay organized, it will be easy to get dressed in the morning.",
+            "question": "The kitchen was not kept tidy, was it easy to get dressed in the morning?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "In the neighborhood, there's always something exciting happening. If the convenience store has a sale on snacks, someone will buy a lot of chips and candy. Also, if it's Saturday, there will likely be a big sports event on TV that evening. It seems either there's a snack sale, or it's saturday, or maybe both. But one thing's for sure - if there's a big sports event, then they'll be having friends over to watch it together.",
+            "question": "Joey did not buy a lot of snacks, then did he have friends over during the game?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "If the package arrives on time, people will be able to start a new project. Also, if the office supply store has the special order in stock, they can pick up the materials they needs. Either the package will arrive on time or the special order will be ready, maybe both. However, if someone starts his new project, they will learn some new skills.",
+            "question": "Max was unable to pick up the materials he needed, did he learn some new skills?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "If there is no traffic, people can drive home quickly after work. Also, if they finish their tasks early, they may be able to leave the office on time. Either there will be no traffic or they will finish early, perhaps both. However, if people can drive home quickly, they will be able to relax once they get there.",
+            "question": "Lucy was not able to leave the office on time, was she able to relax once she got home?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "In the big city, there are many forms of transit. If the subway is running on schedule, then someone will take it to work. Also, if the bus has room, then someone else can catch a ride downtown. Whether it's the subway or the bus, someone's commute will be smooth sailing. Accordingly, if someone takes the subway, they'll get to work on time.",
+            "question": "James did not take the bus downtown, did he get to work on time?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "In the school, the students were waiting eagerly for the weekend. If there was no homework assigned, then everyone could relax over the break. Also, if the weather was nice on Saturday, then they planned to go on a picnic. It seemed either there would be no homework, or the weather would be good, or maybe both would happen. Surely, if they got to relax with no homework, then they would have an enjoyable weekend.",
+            "question": "John did not go on a picnic, did he have an enjoyable weekend?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "In the office, work tasks get assigned to employees. If an employee completes their project, they will earn a bonus. Also, if an employee helps their coworker, the teamwork will improve. Either projects will get completed, or coworkers will get helped, or maybe both. But for certain, if an employee earns a bonus, that means they party.",
+            "question": "Janet did not help her coworker, did she party?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "To have a productive work day, it helps to start on the right foot. If people wake up early, they take time to exercise before work. Also, if traffic is light, they get to the office on time. Either people wake up early or traffic is light, maybe both. But certainly, if people exercises in the morning, their energy level stays high throughout the workday.",
+            "question": "Susan did not get to the office on time, did she have high energy at work?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "When planning a vacation, the weather is an important factor to consider. If it looks sunny and warm at the beach, then someone will decide to spend their vacation time lounging on the sand. Also, if there are discounts on ski lift tickets in the mountains, then a ski trip would be appealing. It seems either the weather will be nice at the beach, or there will be deals on ski passes, or possibly both. But if someone does opt for a beach vacation, they'll definitely be able to work on their tan.",
+            "question": "If Sam did not get a discounted ski pass, then was he able to work on his tan?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "If the bus is on schedule, then people will make it to work on time. Also, if traffic is light, then they can drop their kids off at school and get to the office early. It seems either the bus will be on time or traffic will be light, maybe both. However, if people get to work early, they can drink coffee before their first meeting.",
+            "question": "If Amy did not make it to work on time, did Bob drink coffee before his first meeting?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "In a bustling city, the weekday commute is always an adventure. If the train is running smoothly, then someone will make it to work on time. Also, if there is bumper-to-bumper traffic, then driving to work will take forever. Either the train will be on schedule, or the roads will be jammed, or perhaps both will happen. But one thing's for certain - if someone manages to arrive at work on time, their boss will be happy.",
+            "question": "If Amanda did not get stuck in traffic, then was her boss happy?",
+            "answer": "yes"
+        }
+    ]
+}

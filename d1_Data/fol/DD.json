@@ -1,0 +1,67 @@
+{
+    "logic": "fol",
+    "rule": "DD",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If a person learns to play the guitar, then they can entertain themselves. Moreover, if they take singing lessons, then they can improve their vocal skills. However, they find themselves in a situation where they either do not entertain themselves or do not improve their vocal skills.",
+            "question": "Does it entail that for Alex, who is learning music, either they do not learn to play the guitar or they do not take singing lessons?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "In a company, if an employee attends leadership seminars, then they can enhance their managerial skills. Similarly, if they participate in team-building activities, then they can foster better teamwork. Nonetheless, there are instances where they neither enhance their managerial skills nor foster better teamwork.",
+            "question": "Does it entail that for John, an employee in the company, either he does not attend leadership seminars or he does not participate in team-building activities?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "When someone invests in stocks, they anticipate financial growth. Conversely, if they allocate funds towards real estate, they expect property appreciation. Nonetheless, they find themselves in a situation where they neither experience financial growth nor property appreciation.",
+            "question": "Does it entail that for Sarah, an investor, either she does not invest in stocks or she does not allocate funds towards real estate?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "If a person adopts a vegan diet, they reduce their carbon footprint. Additionally, if they use eco-friendly transportation, they contribute to environmental conservation. However, there are circumstances where they neither reduce their carbon footprint nor contribute to environmental conservation.",
+            "question": "Does it entail that for Michael, who is environmentally conscious, either he does not adopt a vegan diet or he does not use eco-friendly transportation?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "When someone practices meditation, they achieve mental clarity. On the other hand, if they engage in physical exercise, they maintain their physical health. Nevertheless, they face situations where they neither achieve mental clarity nor maintain their physical health.",
+            "question": "Does it entail that for Sophia, who values well-being, either she does not practice meditation or she does not engage in physical exercise?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "If a student prioritizes academics, they excel in their studies. Furthermore, if they engage in extracurricular activities, they develop a well-rounded personality. However, there are instances where they neither excel in their studies nor develop a well-rounded personality.",
+            "question": "Does it entail that for Daniel, a student, either he does not prioritize academics or he does not engage in extracurricular activities?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "When someone practices good hygiene, they reduce the risk of infections. Similarly, if they maintain a balanced diet, they promote overall health. Nonetheless, there are circumstances where they neither reduce the risk of infections nor promote overall health.",
+            "question": "Does it entail that for Rachel, who values health, either she does not practice good hygiene or she does not maintain a balanced diet?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "In a community, if residents engage in recycling, they contribute to environmental sustainability. Conversely, if they participate in community clean-up drives, they enhance neighborhood aesthetics. Nevertheless, there are situations where they neither contribute to environmental sustainability nor enhance neighborhood aesthetics.",
+            "question": "Does it entail that for Mark, a resident in the community, either he does not engage in recycling or he does not participate in community clean-up drives?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "If a person invests time in self-improvement, they increase their personal growth. Moreover, if they dedicate effort to building relationships, they nurture meaningful connections. However, there are instances where they neither increase their personal growth nor nurture meaningful connections.",
+            "question": "Does it entail that for Olivia, who values personal development, either she does not invest time in self-improvement or she does not dedicate effort to building relationships?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "When someone saves money regularly, they build financial security. Conversely, if they spend within their means, they avoid debt. Nonetheless, there are circumstances where they neither build financial security nor avoid debt.",
+            "question": "Does it entail that for Ethan, who aims for financial stability, either he does not save money regularly or he does not spend within his means?",
+            "answer": "yes"
+        }
+    ]
+}

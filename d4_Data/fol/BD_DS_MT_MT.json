@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "BD_DS_MT_MT",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "It was a cold winter day. It is known that if it snowed recently, then there would be snow on the ground. People build snowman when there's snow. If someone builds a snowman, then they play outside. They were certain that either it snowed recently, or they did not play outside. Everyone knows that if it is christmas season, then snowman is built. If it is December, then it is christmas season.",
+            "question": "There was no snow on the ground today, then is it December this month?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "People make breakfast in the morning. They know that if the stove is on, the kitchen gets hot. They wanted to make pancakes, too. If someone makes pancakes, they use the stove. Either the stove was on, or they did not use the stove. Everyone knows that if someone is hungry, they make pancakes. If Sam did not eat dinner last night, he was hungry this morning.",
+            "question": "The kitchen did not get hot, did Sam eat dinner last night?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "People are excited for vacation. They know that if the weather was good, then they could enjoy the outdoors. They also hoped to relax. If someone relaxes on vacation, then they feel recharged after. Either the weather was good, or they did not feel recharged. Travel agents say that if the destination is warm year-round, then the people relax on their vacation. If someone went to a tropical location, then the destination is warm year-round.",
+            "question": "Joan notices the weather was not good, then did she go somewhere tropical?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "It's always hard deciding what to cook for dinner. If someone had all the right ingredients, then dinner would turn out well. They might want to make a pasta dish. If someone makes pasta, then they need tomatoes. Either they had the right ingredients, or they did not need tomatoes. Good cooks know that if someone is from Italy, then they will make pasta. If someone speaks italian fluently, then they are from Italy.",
+            "question": "The dinner did not turn out well for Mike, then is Mike from Italy?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "There was going to be a party tonight. The students knew that if it was Friday night, then they were going to the party. If they finish all their homework, then they can watch the game. Either it is Friday night, or they are not watching the game. Students know that if they study everyday, they finish all their homework. It is true that if someone plans their schedule well, then they can study everyday.",
+            "question": "James is not going to the party, did he plan his schedule well?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "It was Friday evening and someone was making weekend plans. They knew that if it was the weekend coming up, then they would relax. They also needed to get work done. If someone finishes their tasks, then they have a clear mind. Either the weekend was coming, or they did not have a clear mind. If someone is organized, then they finish their tasks. If they made a to-do list, then they are organized.",
+            "question": "Alex does not relax this weekend, did he make a to-do list?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "It was a sunny day at the beach. Someone knew that if they applied sunscreen, then they would not get burnt. They also wanted to go for a swim. If someone goes swimming, then they get exercise. Either they applied sunscreen, or they did not get any exercise. If the pool water is warm, people go swimming. If the weather was sunny, the pool water will be warm.",
+            "question": "Alex got sunburnt, then was the weather sunny?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "Someone was making dinner plans. They knew that if it was close to dinnertime, then they should start cooking. They also needed to go grocery shopping. If they go shopping, then they can make dinner. Either it is close to dinnertime, or they won't make dinner. If the fridge is empty, then they must go shopping. If there are no ingredients in the pantry, then the fridge is empty.",
+            "question": "If Sam does start cooking, is the pantry empty?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "A student was preparing for final exams. They knew that if they study hard, then they will do well on the test. The student also had a big project due soon. If they work on the project, then they gain valuable skills. Either students study hard, or they do not gain valuable skills. If the teachers are more practical in class, then the students work on the project. If the teacher made the lectures interesting with examples, then they are more practical.",
+            "question": "If the student did not do well on the exam, did the teacher make the lectures interesting?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "There was a big game coming up. Someone knew that if they practiced hard, then they would play well. They also wanted to be picked for the starting lineup. If someone is picked to start, then they must be talented. Either they practiced hard, or they are not talented. Coaches know that if someone has natural ability, then they get picked to start. If someone was a top player in youth leagues, then they have natural talent.",
+            "question": "If James did not play well, then was he a top player in youth leagues?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "It was a work day and someone's alarm clock went off. They knew that if it was a weekday, then they get up early for work. They also needed to take their dog for a walk. If someone walks their dog, then the dog is happy. Either it was a weekday, or the dog was not happy. If someone is responsible, then they walk their dog. If they did their chores, then they are responsible.",
+            "question": "If John did not get up early, did he do his chores yesterday?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "It was a sunny day at the beach. Someone knew that if they went swimming, then they would get wet. They also considered building a sandcastle. If someone builds a sandcastle, then they are playing in the sand. They were certain that either they went swimming, or they did not play in the sand. Everyone knows that if there are kids at the beach, they build a sandcastle. If it was a holiday weekend, then the there wil be kids at the beach.",
+            "question": "If Alex did not get wet, then was it a holiday weekend at the beach?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "It was the first day of school. If someone made friends, then they would enjoy school. They hope to join a club too. If someone joins a club, then they will be busy. Either they made friends, or they are not busy. Guidance counselors say that if someone is outgoing, then they would join a club. If someone introduced themselves to classmates, then they are outgoing.",
+            "question": "If Mark did not enjoy the first day of school, then did he introduce himself to classmates?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "It was the first day of school. Someone knew that if the alarm went off, then it was time to get ready. They also contemplated whether to take the bus. If they missed the bus, then they'd be late for school. Either the alarm went off, or they weren't late for school. If they got up late, then they miss the bus. If they went to bed late, then they get up late.",
+            "question": "John know it is not the time to get ready, did he go to bed late?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "The other day, someone went to the gym. They knew that if they worked out hard, they would be sore the next day. They also wanted to take a hot shower after the gym. If someone takes a hot shower, their muscles will relax. Either they worked out hard, or their muscles did not relax. Everyone knows that if the weather is cold, they take a hot shower. If it rains, then the weather is cold.",
+            "question": "If John's muscles are not sore today, did it rain?",
+            "answer": "no"
+        }
+    ]
+}

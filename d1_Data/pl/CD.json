@@ -1,0 +1,67 @@
+{
+    "logic": "pl",
+    "rule": "CD",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "At the office, employees who collaborate well with others tend to get positive performance reviews from their manager. Employees who take initiative on projects tend to impress the executives. However, with busy schedules, employees can either collaborate or take initiative, but not always both. The employees can choose to collaborate or take initiative.",
+            "question": "Does this mean the employees will either get positive performance reviews or impress the executives?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "In a forest, the hunter knows that if he uses camouflage, he can get close to the deer undetected. He also knows that if he moves quietly, he can avoid startling the deer. However, moving quietly in camouflage gear is challenging. The hunter can either use camouflage or move quietly.",
+            "question": "Does this mean the hunter will either get close to the deer undetected or avoid startling the deer?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "In a small town, the local bakery is well known for its delicious cakes. The baker knows that if she uses fine ingredients, the cakes will taste great. She also knows that if she carefully follows the recipe, the cakes will look beautiful. However, she struggles to do both as fine ingredients are expensive and following recipes precisely is time-consuming. She can either use fine ingredients or carefully follow the recipe.",
+            "question": "Does this mean that the baker's cakes will either taste great or look beautiful?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "In a restaurant, the manager makes a rule that any waiter who works extra hours will receive a bonus. Also, any waiter who gets excellent customer reviews will get a pay raise. However, the waiters have limited time and must choose to either work extra hours or aim for excellent reviews. The waiters can work overtime or get good reviews.",
+            "question": "Does this mean that the waiters at the restaurant either get a bonus or a pay raise?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "At a university, professors know that students who study hard tend to get good grades. They also know that students who are naturally gifted often excel in their classes. However, each student must decide how to allocate their time between studying and other activities. The students can either study hard or rely on natural talents.",
+            "question": "Can we conclude that the university students will either get good grades or excel in their classes?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "In a garden, the gardener knows that tomato plants given fertilizer will yield bigger tomatoes. Also, pepper plants that are watered daily will be healthier plants. But the gardener has limited time to maintain the vegetables. The gardener can either fertilize the tomatoes or water the peppers.",
+            "question": "Does this mean that the gardener's vegetables will either be bigger tomatoes or healthier pepper plants?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "James is deciding how to commute to work. If he rides his bike, he will get good exercise. If he takes public transit, he will reduce his carbon footprint. However, James only has time to either bike or take public transit today. He can't do both. James can either bike or take public transit to work today.",
+            "question": "Does this mean James will either get good exercise or reduce his carbon footprint from commuting today?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "In a workplace, employees who volunteer for extra projects get noticed by upper management. Also, employees who socialize with executives at company events gain access to career opportunities. Yet employees only have so much time outside their normal work. They can either volunteer or network with executives.",
+            "question": "Does this mean the employees will either get noticed by management or gain access to career opportunities?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Mark is deciding what to cook for dinner. If he makes pasta, he will have a quick and easy meal. If he grills steaks, he will have a hearty and delicious dinner. However, Mark only has time to either make pasta or grill steaks tonight. He can't cook both meals. Mark can either make pasta or grill steaks for dinner tonight.",
+            "question": "Can we conclude that Mark will end up having either a quick and easy dinner or a hearty and delicious one?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "The soccer team is preparing for an important match. If they do endurance training, they will improve their stamina. If they practice ball skills, they will improve their technique. However, the team only has time to either do endurance training or skill practice today. They can't do both. The team can either do endurance training or skill practice.",
+            "question": "Can we conclude that the soccer team will either improve their stamina or improve their technique?",
+            "answer": "yes"
+        }
+    ]
+}

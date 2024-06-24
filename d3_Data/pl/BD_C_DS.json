@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "BD_C_DS",
+    "depth": "d3",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Mark knows that if he studies computer science, he can get a job as a software developer. His sister Lucy may start taking guitar lessons. She knows that if she takes lessons, she will learn to play the guitar. Either Mark studied computer science, or Lucy did not learn to play guitar, or Mark studied computer science and Lucy did not learn guitar.",
+            "question": "If Lucy took guitar lessons, then did Mark get a job as a software developer?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Jim knows that if he waters his lawn, the grass will stay green. He also knows that if it is hot and sunny outside, he will go swimming to cool off. Either Jim watered the lawn, or he did not go swimming, or he watered the lawn and did not go swimming.",
+            "question": "If it was hot and sunny outside, then did Jim's lawn stay green?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "Mark knew that if he worked out in the morning, he would be tired for the rest of the day. Meanwhile, he had a feeling that his friend Jessica might have hosted a party last night. Mark knew that if Jessica hosted a party, she would clean the house beforehand. Either Mark worked out, or Jessica didn't clean her house, or Mark worked out and Jessica didn't clean her house.",
+            "question": "If Jessica hosted a party, was Mark tired?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Jim knew if he finished all his chores, his dad would let him go out to play. Also, it could be Susan's birthday today. She knew that if it was her birthday, she would have a birthday party. Either Jim finished his chores, or Susan didn't have a party, or Jim finished his chores and Susan didn't have a party.",
+            "question": "If it was Susan's birthday, then did Jim's dad let him go out to play?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Lucy knew if she finished her project early, she'd have free time after school. Her brother Ryan was deciding whether to take out the trash. He knew that if he did, he could have dessert after dinner. Either Lucy finished early, or Ryan didn't get dessert, or Lucy finished but Ryan wasn't allowed dessert.",
+            "question": "If Ryan took out the trash, then did Lucy have free time after school?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Lucy had been working hard to finish the proposal for an important project. She knew once she completed it, she could submit it to her boss for approval. Meanwhile, her co-worker Juan went out to his car after work scared that it wouldn't start. Juan understood that if his car won't start, he will have to call a mechanic to come fix it. Either Lucy finished the project proposal, or Juan didn't call a mechanic, or Lucy completed the proposal and Juan didn't call a mechanic.",
+            "question": "If Juan's car wouldn't start, then did Lucy submit her proposal to her boss?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Sam knew if he walked his dog, it would get good exercise. Amanda was deciding whether to bake cookies. If Amanda made cookies, she would use chocolate chips in the recipe. Either Sam walked his dog, or Amanda did not use chocolate chips, or Sam walked his dog and Amanda did not use chocolate chips.",
+            "question": "If Amanda made cookies, then did Sam's dog get exercise?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Mark knew that if he finishes his errands, he'll have free time to relax. He remembered that his friend Stella got a new job and was supposed to start soon. Mark knew that if it's Stella's first day today, she'll be nervous but excited. Either Mark finished his errands, or Stella wasn't nervous and excited, or Mark finished errands and Stella wasn't nervous and excited.",
+            "question": "If it was Stella's first day at her new job, then did Mark have free time to relax?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Sarah knew if she cleaned the kitchen, her parents would take her out to dinner. Her brother Michael was supposed to mow the lawn. She knew that if he did, he'd make $20. Either Sarah cleaned the kitchen, or Michael didn't get paid, or Sarah cleaned but Michael didn't earn money.",
+            "question": "If Michael mowed the lawn, then did Sarah's parents take her out to dinner?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Carol wanted to make sure her credit card payment arrived on time, so she thought of mailing it 3 days before the due date. She knew if she mailed the payment, it would get there on time. At the same time, her brother Dan was driving to work. Dan understood that if he speeds, he will get caught by the cops. Either Carol mailed her payment, or Dan did not get caught by the cops for speeding, or Carol mailed the payment and the cops didn't catch Dan.",
+            "question": "If Dan was speeding, then did Carol's payment arrive on time?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Sara had homework to complete. She knew if she did all her homework, she would finish the assignment. Dan was out running errands and thought about going grocery shopping. If Dan went grocery shopping, he would buy vegetables. Either Sara did her homework, or Dan did not buy vegetables, or Sara did the homework and Dan did not buy vegetables.",
+            "question": "If Dan went grocery shopping, then did Sara finish her assignment?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Olivia decided to bake brownies. She knew if she baked them, they would be delicious. Noah was thinking of washing the car. He realized if he washed the car, it would be nice and shiny. Either Olivia baked brownies, or the car is not shiny, or Olivia baked brownies and the car is not shiny.",
+            "question": "If Noah washed the car, then are the brownies delicious?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Kim realized that if she organizes her office, she can work more efficiently. Her coworker Alex may have a dentist appointment this morning. Kim knew that if Alex has a dental appointment, he'll be nervous about it. Either Kim organized her office, or Alex wasn't nervous, or Kim organized her office and Alex wasn't nervous.",
+            "question": "If Alex had a dentist appointment this morning, then did Kim work efficiently?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "Sam had a big test coming up. He knew that if he studied hard, he would get a good grade. His friend Jessica wanted to eat a healthy breakfast that morning. She knew that if she ate healthy, she'd have energy all day. Either Sam studied hard, or Jessica didn't have energy, or Sam studied and Jessica lacked energy.",
+            "question": "If Jessica ate a healthy breakfast, then did Sam get a good grade on the test?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "Emily realized that if she cleans out her closet, she can donate old clothes. During all the cleaning, her sister Lucy may lose her favorite stuffed animal. Emily knew that if Lucy loses a toy, she'll look everywhere for it. Either Emily cleaned her closet, or Lucy did not look for the toy, or Emily cleaned the closet and Lucy did not look.",
+            "question": "If Lucy lost her favorite stuffed animal, then did Emily donate old clothes?",
+            "answer": "yes"
+        }
+    ]
+}

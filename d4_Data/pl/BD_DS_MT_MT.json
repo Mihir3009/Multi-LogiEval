@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "BD_DS_MT_MT",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "The roads were slick this morning after it snowed overnight. If the roads are icy, driving conditions are dangerous. It also snowed last night. If it snowed last night, the salt trucks have not gone out yet. Either the roads are icy, or the salt trucks went out already, or the roads are icy but the salt trucks already went out. We know that if it is the middle of winter, then it snowed last night. It's true that if a big snowstorm hit last week, then it is the middle of winter now.",
+            "question": "If driving conditions are not dangerous, then did a big snowstorm hit last week?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "It was evening time and Jim was in his room. He knew that if the light switch is on, then the room is bright. Jim wanted to read a book, and if Jim is reading, he needs enough light. Either the light is on, or Jim doesn't have enough light, or the light is on but Jim still doesn't have enough light. Also, if it is evening, then Jim is reading a book. If the sun has set, then it is evening.",
+            "question": "If the room is not bright, then has the sun set?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "The team was training intensely this week. They knew that if they are training hard, they will be prepared for the upcoming game. The coach also scheduled extra practices recently. If the coach scheduled extra practices, the players are putting in more hours. Either the team is training hard, or the players are not putting in more hours, or the team is training hard but the players are not putting in more hours. We know that if it is a very important match this weekend, then the coach scheduled extra practices. It's true that if the team lost their last game, then this weekend's match is very important.",
+            "question": "If the team will not be prepared for the game, then did the team lose their last game?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "Lucy had a big exam coming up. She knew that if she studied hard, then she would get good grades. Lucy also had an exam soon. If Lucy has an exam, then she needs to be prepared. Either Lucy studied hard, or she is not prepared, or she studied hard and is not prepared. She also knows that if the exam is difficult, then she needs to study hard. If the exam covers a lot of material, then it is a difficult exam.",
+            "question": "If Lucy did not get good grades, then did the exam cover a lot of material?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "It was the first day back at school after summer vacation. Lucy knew that if it is the first day of school, she feels nervous. Lucy also had a big test today. If Lucy has a big test, it means she did not study enough over the summer. Either it is the first day of school, or Lucy did not study enough. She knows that if she went to bed early last night, then she has a big test today. If Lucy set her alarm clock last night, then she went to bed early.",
+            "question": "If Lucy is not nervous, then did she set her alarm clock last night?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "It was Saturday and Mark was relaxing at home. He knew that if it is the weekend, then he relaxes at home after a busy week. Mark may also relax if he finished all his errands for the week. If Mark finished his errands, then he has time to relax. Either it is the weekend, or Mark does not have time to relax, or it's the weekend but he does not have time to relax yet. Mark is organized and planned his schedule earlier in the week by making a to-do list. If Mark made a to-do list, he finished his errands.",
+            "question": "If Mark did not relax at home, did he make a to-do list earlier in the week?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "Mom was getting ready for Ken's birthday celebration tomorrow. She knew that if the package has arrived, then she can wrap his gift. Tomorrow is also Ken's birthday. If tomorrow is Ken's birthday, then Mom needs to prepare a gift for his birthday party. Either the package arrived, or Mom does not need to prepare a gift, or the package arrived but Mom does not need to prepare the gift yet. She remembers that if Ken is her son, then tomorrow must be his birthday since Ken is turning 5 years old tomorrow.",
+            "question": "If Mom does not wrap the gift, is Ken her son?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "It was a sunny day and Lily wanted to play outside. She knew that if it is sunny, she will play outside. Lily also needed to finish her homework first. If Lily finishes her homework, then she has free time to play. Either it is sunny, or Lily doesn't have free time, or it is sunny but she still has no free time. Lily knows it is spring break this week. If it is spring break, then she finished her homework. If school is closed this week, then it is spring break.",
+            "question": "If Lily did not play outside, then is school closed this week?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "It was Saturday afternoon. Jane knew if it is the weekend, then the cafe she likes is busy. Jane also wanted to go shopping today. If Jane goes shopping, the mall will be crowded. Either it is the weekend, or the mall is not crowded, or it is the weekend and the mall is not crowded. She also knows if she has free time, then she goes shopping. If Jane finished her work early, then she has free time.",
+            "question": "If the cafe is not busy, then did Jane finish her work early?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "The team was working hard to meet the upcoming deadline. They knew that if the deadline is approaching, they have to work overtime. The project is also very complex. Complex projects require more time to complete. Either the deadline is nearing, or the team does not need more time, or the deadline is soon but they don't need more time. The team also knows that if the client requested many custom features, then the project is complex. It's true that if it is a high-profile project, then the client made many custom requests.",
+            "question": "If the team is not working overtime, then is it a high profile project?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "A package had just been shipped to a customer. The company knew that if the package has shipped, then the order will arrive soon. The package might also be heavy. If the box is heavy, that indicates there are multiple items inside. Either the package has shipped, or there are not multiple items, or it shipped but does not have multiple items. The company knows that if it was a big purchase, then the box is heavy. If the customer bought luxury goods, then they made a big purchase.",
+            "question": "If the order is not arriving soon, then did the customer buy luxury goods?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "It was December and Kim had some time off work. She knew that if it is the holiday season, then the stores are crowded. Kim was also planning to go shopping. If Kim goes shopping, she is buying gifts for people. Either it is the holidays, or Kim is not buying gifts, or it is the holidays and Kim is not buying gifts. She also knows that if she took time off work, then she goes shopping. If Kim is on vacation, then she took time off work.",
+            "question": "If the stores are not crowded, is Kim on vacation?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "Amy was looking to spruce up her bathroom. She knew that if the store has a sale on towels, then she would buy new towels. Amy was also planning to go shopping today. If Amy goes shopping, then she is looking to buy something she needs. Either the store has a towel sale, or Amy does not need anything, or there is a towel sale and Amy has enough towels. She also knows that if she is renovating her bathroom, then she goes shopping for bathroom items. It's true that if Amy hired a contractor, then she is renovating her bathroom.",
+            "question": "If Amy did not buy new towels, then did she hire a contractor?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "It's my birthday today. I know that if it's my birthday, my friends throw me a party. I may also invite my friends over to celebrate. If I invite my friends over, then I have a fun celebration. Either it's my birthday, or I don't have a fun celebration, or it's my birthday and I don't have a fun celebration. I also know that if my friends remember my birthday, then they throw me a party. If I recently reminded my friends about my birthday, then they remember it.",
+            "question": "If my friends don't throw me a party, did I recently remind them about my birthday?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "Maria had to go to work today. She knew that if the roads are icy, then driving conditions are dangerous. Maria goes to work every day, and if she goes, she drives her car. Either the roads are icy, or Maria didn't drive her car today, or the roads are icy and Maria still drove her car. Maria also knows that if it is winter, then she goes to work. If it snowed last night, then it is winter.",
+            "question": "If driving conditions are not dangerous, then did it snow last night?",
+            "answer": "no"
+        }
+    ]
+}

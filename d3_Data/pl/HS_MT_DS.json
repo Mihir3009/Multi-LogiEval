@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "HS_MT_DS",
+    "depth": "d3",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Sarah always dreamed of becoming fluent in French and traveling to France. She learned that if she studied French every day, she would become fluent over time. Sarah knew fluency would allow her to comfortably travel to France someday. Whether it was studying, listening to French music, or both, Sarah immersed herself in the French language.",
+            "question": "If Sarah does not travel to France, then does she listen to French music?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "James has always wanted to travel the world and experience new cultures. He decided that if he took a foreign language class, he could start practicing speaking the language. With regular practice, James hoped to become fluent and comfortably conversant. Whether James is studying a new language or traveling internationally, he is expanding his cultural horizons.",
+            "question": "If James does not become fluent, then does he travel abroad?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "Emily wanted to maximize her productivity at work. She learned that if she got a good night's sleep consistently, she would feel well-rested and energized in the mornings. Feeling well-rested allowed Emily to stay focused during her workday. Whether it was prioritizing sleep, avoiding evening caffeine, or both, Emily took steps to optimize her sleep habits.",
+            "question": "If Emily does not stay focused at work, then does she avoid caffeine in the evenings?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Jessica had a passion for musical theater but struggled with stage fright. She decided that if she took singing lessons, she would gain more confidence in her voice. And if she became more confident, she could finally audition for roles in musical theater productions in town. In her spare time, Jessica either took singing lessons, or wrote original songs, or did both to develop her musical talents.",
+            "question": "If Jessica does not audition for musical theater, then does she write songs?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Dan wants to advance his career, so he makes an effort to network with professionals in his industry. He realizes that if he builds relationships, he'll start hearing about new job opportunities before they are publicly posted. And if he hears about them, he will get a step ahead of everyone. Whether Dan is networking to build connections, or working to improve his interview skills, he is taking steps forward in his career.",
+            "question": "If Dan does not get a step ahead of everyone, does he work on his interview skills?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Ashley wanted to advance her career. She decided if she networks often, she'll meet industry professionals. Ashley knows meeting professionals means hearing about new job opportunities. Whether Ashley networks often, attends career fairs, or does both, she will make valuable connections.",
+            "question": "If Ashley does not hear about job opportunities, does she attend career fairs?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Olivia set a goal to complete her first marathon this year. She knew that if she started training, she could slowly increase her endurance. The more her endurance improved, the more confident Olivia felt that she could go the distance and finish the marathon. Whether Olivia is diligently training or doing yoga each morning, she is strengthening her physical fitness to achieve her goal.",
+            "question": "If Olivia does not finish the marathon, then does she do yoga every morning?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Chris decided to learn to code by practicing every day. He found that daily coding helped him build programming skills. Chris knew if he built up these skills, he could create complex web apps. Whether Chris codes daily, solves coding challenges to practice, or does both, his skills will grow.",
+            "question": "If Chris does not create web apps, does he solve coding challenges?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Laura has dreamed of attending a prestigious music school. She learned that if she practices piano daily, her skills will steadily improve. Laura knows that gaining proficiency in piano could help her get accepted into the music program. While Laura spends hours each day on the piano, she also enjoys taking voice lessons during her free time. It's clear that Laura either devotes time to honing her piano skills, or focuses on developing her vocal talents, if not both.",
+            "question": "If Laura does not get accepted into music school, does she take voice lessons?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Chris has a big exam coming up in his toughest class. He learns that if studies diligently, he'll have a strong grasp of the material. Chris knows that understanding the concepts could help him ace the test. In preparation, Chris spends late nights hitting the books. He also makes sure to get adequate sleep the night before the exam. Whether Chris studies hard or gets enough rest, or both, he wants to be ready to succeed.",
+            "question": "If Chris does not earn an A on the test, does he get enough sleep the night before?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Emma wanted to make a difference for animals in need. She learned that if she volunteers at the local animal shelter, she can help care for the animals there. Emma knows that if the animals receive good care, they're more likely to get adopted into loving homes. In her free time, either Emma is volunteering with the animals, or donating much-needed supplies to the shelter, or doing both to help the cause.",
+            "question": "If the animals do not get adopted, does Emma donate supplies to the shelter?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Chris wanted to become a web developer. He realized that if he learned web development, he would build valuable coding skills. And if he built these skills, Chris could start creating web apps from scratch. In his free time, Chris either learned web development, or played video games as a hobby, or did a bit of both when taking breaks from coding.",
+            "question": "If Chris does not create web apps, then does he play video games?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Emma loves dogs and wants to adopt one of her own someday. She realized if she started volunteering at the local animal shelter, she could help dogs in need by supporting rescue efforts. The more Emma helped rescue dogs, the more attached she became to the idea of adopting one herself. Whether Emma volunteers with rescue dogs or donates to animal charities, she is dedicated to helping animals in need.",
+            "question": "If Emma does not adopt a dog, then does she donate to animal charities?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "Ryan has always loved music and dreamed of joining a band someday. He decided if he started taking guitar lessons, he could improve his guitar skills. Ryan knew that better skills would give him the confidence to audition for local bands. No matter what, Ryan is either taking guitar lessons to advance his skills, listening to music daily for inspiration, or doing both to immerse himself in the world of music.",
+            "question": "If Ryan does not audition for a band, then does he listen to music daily?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "Noah dreams of buying his own home someday. He learns that consistently saving each month will grow his savings funds. Noah knows he needs a healthy savings to afford a down payment. He also thinks of budgeting wisely to not overspend on unnecessary things. Whether saving or budgeting, Noah makes smart money choices.",
+            "question": "If Noah cannot afford a down payment, does he budget wisely?",
+            "answer": "yes"
+        }
+    ]
+}

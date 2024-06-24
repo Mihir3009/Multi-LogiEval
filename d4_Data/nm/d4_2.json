@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "d4_2",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Assume M and N are students with good attendance records. Typically, students with good attendance also perform well academically. If a student P scores high on tests, then student P submits assignments on time. If student Q is in the debate club, then student Q is a good public speaker. Either student P does not submit assignments on time or student R does not score high on tests. If student M performs well academically, then student R scores high on tests.",
+            "question": "Can we conclude if student Q is a good public speaker, then student N performs well academically?",
+            "answer": "Yes"
+        },
+        {
+            "id": 2,
+            "context": "Assume M and N are students with good attendance records. Typically, students with good attendance also perform well academically. If a student P scores high on tests, then student P submits assignments on time. If student Q is in the debate club, then student Q is a good public speaker. Either student P does not submit assignments on time or student R does not score high on tests. If student M performs well academically, then student R scores high on tests.",
+            "question": "Can we conclude if student Q is a good public speaker, then student N does not perform well academically?",
+            "answer": "No"
+        },
+        {
+            "id": 3,
+            "context": "Assume X and Y are ingredients known to enhance flavor in dishes. Normally, ingredients that enhance flavor also add aroma. If ingredient Z is spicy, then ingredient Z adds heat to the dish. If ingredient W is a preservative, then ingredient W prolongs the shelf life of food. Either ingredient Z does not add heat or ingredient V is not aromatic. If ingredient X adds aroma, then ingredient V is also aromatic.",
+            "question": "Can we conclude if ingredient Z adds heat to the dish, then ingredient Y adds aroma?",
+            "answer": "Yes"
+        },
+        {
+            "id": 4,
+            "context": "Assume X and Y are ingredients known to enhance flavor in dishes. Normally, ingredients that enhance flavor also add aroma. If ingredient Z is spicy, then ingredient Z adds heat to the dish. If ingredient W is a preservative, then ingredient W prolongs the shelf life of food. Either ingredient Z does not add heat or ingredient V is not aromatic. If ingredient X adds aroma, then ingredient V is also aromatic.",
+            "question": "Can we conclude if ingredient Z adds heat to the dish, then ingredient Y does not add aroma?",
+            "answer": "No"
+        },
+        {
+            "id": 5,
+            "context": "Consider company P and company Q known for their eco-friendly practices. Typically, eco-friendly companies also implement recycling programs. If company R reduces waste, then company R saves on costs. If company S has a green certification, then company S uses sustainable practices. Either company R does not save on costs or company T does not reduce waste. If company P implements recycling programs, then company T reduces waste.",
+            "question": "Can we conclude if company S uses sustainable practices, then company Q implements recycling programs?",
+            "answer": "Yes"
+        },
+        {
+            "id": 6,
+            "context": "Consider company P and company Q known for their eco-friendly practices. Typically, eco-friendly companies also implement recycling programs. If company R reduces waste, then company R saves on costs. If company S has a green certification, then company S uses sustainable practices. Either company R does not save on costs or company T does not reduce waste. If company P implements recycling programs, then company T reduces waste.",
+            "question": "Can we conclude if company S uses sustainable practices, then company Q does not implement recycling programs?",
+            "answer": "No"
+        },
+        {
+            "id": 7,
+            "context": "Suppose city A and city B are known for their efficient public transportation systems. Normally, cities with efficient public transportation also have low traffic congestion. If city C invests in bike lanes, then city C promotes cycling. If city D has a metro system, then city D reduces carbon emissions. Either city C does not promote cycling or city E does not invest in public transportation. If city A has low traffic congestion, then city E invests in bike lanes.",
+            "question": "Can we conclude if city D reduces carbon emissions, then city B has low traffic congestion?",
+            "answer": "Yes"
+        },
+        {
+            "id": 8,
+            "context": "Suppose city A and city B are known for their efficient public transportation systems. Normally, cities with efficient public transportation also have low traffic congestion. If city C invests in bike lanes, then city C promotes cycling. If city D has a metro system, then city D reduces carbon emissions. Either city C does not promote cycling or city E does not invest in public transportation. If city A has low traffic congestion, then city E invests in bike lanes.",
+            "question": "Can we conclude if city D reduces carbon emissions, then city B does not have low traffic congestion?",
+            "answer": "No"
+        },
+        {
+            "id": 9,
+            "context": "Imagine team A and team B are recognized for their strong defense strategies in sports. Normally, teams with strong defense also excel in counterattacks. If team C has a fast offense, then team C scores goals efficiently. If team D wins matches consistently, then team D has good team chemistry. Either team C does not score goals efficiently or team E does not have a strong defense. If team A excels in counterattacks, then team E has strong defense.",
+            "question": "Can we conclude if team D has good team chemistry, then team B excels in counterattacks?",
+            "answer": "Yes"
+        },
+        {
+            "id": 10,
+            "context": "Imagine team A and team B are recognized for their strong defense strategies in sports. Normally, teams with strong defense also excel in counterattacks. If team C has a fast offense, then team C scores goals efficiently. If team D wins matches consistently, then team D has good team chemistry. Either team C does not score goals efficiently or team E does not have a strong defense. If team A excels in counterattacks, then team E has strong defense.",
+            "question": "Can we conclude if team D has good team chemistry, then team B does not excel in counterattacks?",
+            "answer": "No"
+        },
+        {
+            "id": 11,
+            "context": "Assume cats and dogs are animals of type M and they both have tails. Usually, animals of type M with tails have fur. If a creature X has wings, then X can fly. If a location is near the equator, then it has a hot climate. Either the creature with wings cannot fly or the location near the equator does not have a hot climate. If cat has fur, then the location is near the equator.",
+            "question": "Can we conclude if the creature with wings can fly then the dog has fur?",
+            "answer": "Yes"
+        },
+        {
+            "id": 12,
+            "context": "Assume cats and dogs are animals of type M and they both have tails. Usually, animals of type M with tails have fur. If a creature X has wings, then X can fly. If a location is near the equator, then it has a hot climate. Either the creature with wings cannot fly or the location near the equator does not have a hot climate. If cat has fur, then the location is near the equator.",
+            "question": "Can we conclude if the creature with wings can fly then the dog does not have fur?",
+            "answer": "No"
+        },
+        {
+            "id": 13,
+            "context": "Assume students and teachers are individuals of type P and they both have knowledge. Normally, individuals of type P with knowledge have expertise. If a person Y has a degree, then Y is qualified. If a company has a good reputation, then it attracts customers. Either the person with a degree is not qualified or the company with a good reputation does not attract customers. If student has expertise, then the company has a good reputation.",
+            "question": "Can we conclude if the person with a degree is qualified then the teacher has expertise?",
+            "answer": "Yes"
+        },
+        {
+            "id": 14,
+            "context": "Assume students and teachers are individuals of type P and they both have knowledge. Normally, individuals of type P with knowledge have expertise. If a person Y has a degree, then Y is qualified. If a company has a good reputation, then it attracts customers. Either the person with a degree is not qualified or the company with a good reputation does not attract customers. If student has expertise, then the company has a good reputation.",
+            "question": "Can we conclude if the person with a degree is qualified then the teacher does not have expertise?",
+            "answer": "No"
+        },
+        {
+            "id": 15,
+            "context": "Assume apples and oranges are fruits of type R and they both are round. Typically, fruits of type R that are round are juicy. If a drink is cold, then it is refreshing. If a person Z exercises regularly, then Z is healthy. Either the drink that is cold is not refreshing or the person who exercises regularly is not healthy. If apple is juicy, then the drink is cold.",
+            "question": "Can we conclude if the drink is refreshing then the orange is round?",
+            "answer": "Yes"
+        },
+        {
+            "id": 16,
+            "context": "Assume apples and oranges are fruits of type R and they both are round. Typically, fruits of type R that are round are juicy. If a drink is cold, then it is refreshing. If a person Z exercises regularly, then Z is healthy. Either the drink that is cold is not refreshing or the person who exercises regularly is not healthy. If apple is juicy, then the drink is cold.",
+            "question": "Can we conclude if the drink is refreshing then the orange is not round?",
+            "answer": "No"
+        },
+        {
+            "id": 17,
+            "context": "Assume books and pens are items of category Q and they both are used for writing. Usually, items of category Q used for writing are stationery. If a movie is a comedy, then it makes people laugh. If a city has good public transport, then it is convenient. Either the comedy movie does not make people laugh or the city with good public transport is not convenient. If book is stationery, then the city has good public transport.",
+            "question": "Can we conclude if the comedy movie makes people laugh then the pen is used for writing?",
+            "answer": "Yes"
+        },
+        {
+            "id": 18,
+            "context": "Assume books and pens are items of category Q and they both are used for writing. Usually, items of category Q used for writing are stationery. If a movie is a comedy, then it makes people laugh. If a city has good public transport, then it is convenient. Either the comedy movie does not make people laugh or the city with good public transport is not convenient. If book is stationery, then the city has good public transport.",
+            "question": "Can we conclude if the comedy movie makes people laugh then the pen is not used for writing?",
+            "answer": "No"
+        },
+        {
+            "id": 19,
+            "context": "Assume laptops and smartphones are devices of type S and they both have screens. Normally, devices of type S with screens have touch functionality. If a store offers discounts, then it attracts customers. If a person buys organic food, then they prefer healthy options. Either the store that attracts customers does not offer discounts or the person buying organic food does not prefer healthy options. If laptop has touch functionality, then the store offers discounts.",
+            "question": "Can we conclude if the store attracts customers then the smartphone has touch functionality?",
+            "answer": "Yes"
+        },
+        {
+            "id": 20,
+            "context": "Assume laptops and smartphones are devices of type S and they both have screens. Normally, devices of type S with screens have touch functionality. If a store offers discounts, then it attracts customers. If a person buys organic food, then they prefer healthy options. Either the store that attracts customers does not offer discounts or the person buying organic food does not prefer healthy options. If laptop has touch functionality, then the store offers discounts.",
+            "question": "Can we conclude if the store attracts customers then the smartphone does not have touch functionality?",
+            "answer": "No"
+        }
+    ]
+}

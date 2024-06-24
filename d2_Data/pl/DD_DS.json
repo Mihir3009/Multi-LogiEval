@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "DD_DS",
+    "depth": "d2",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If Sam followed the recipe carefully, the cake will turn out delicious. If he used high quality ingredients, the cake will have a perfect texture. However, either the cake won't turn out delicious or it won't have a perfect texture, or maybe the cake won't turn out delicious and won't have a perfect texture.",
+            "question": "If Sam followed the recipe carefully, did he use high quality ingredients?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "If it is the first snowfall of the season, schools will close for the day. If the roads are icy, many people will slip and fall. However, either schools won't close or many people won't slip and fall, or maybe schools won't close and many people won't slip and fall.",
+            "question": "If it is the first snowfall of the season, are the roads icy?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "If I took detailed notes, I will understand the material. If the professor explained clearly, all students will comprehend the lesson. However, either I won't understand the material or all students won't comprehend the lesson, or maybe I won't understand the material and all students won't comprehend the lesson.",
+            "question": "If I took detailed notes, did the professor explain clearly?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "If Tom studied geography, he will ace the test. If the test covers easy material, everyone will score highly. However, either Tom won't ace the test or everyone won't score highly, or maybe Tom won't ace the test and everyone won't score highly.",
+            "question": "If Tom studied geography, did the test cover easy material?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "If Jane woke up late for school, she will be tardy. If there is lots of traffic, many students will be late. However, either Jane won't be tardy or many students won't be late, or maybe Jane won't be tardy and many students won't be late.",
+            "question": "If Jane woke up late for school, was there lots of traffic?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "If the rocket launch is scheduled for today, thousands will gather to watch. If the weather forecast looks good, the launch will proceed as planned. However, either thousands won't gather or the launch won't proceed as planned, or maybe thousands won't gather and the launch won't proceed as planned.",
+            "question": "If the rocket launch is scheduled for today, does the weather forecast look good?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "If Amy practiced piano daily, she will excel at her recital. If Amy is very talented, she will play beautifully. However, either Amy won't excel at her recital or she won't play beautifully, or maybe Amy won't excel at her recital and won't play beautifully.",
+            "question": "If Amy practiced piano daily, is Amy very talented?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "If Alex studied many hours for the exam, he will get an A on it. If the exam covered easy material, many students will get A's. However, either Alex won't get an A or many students won't get A's, or maybe Alex won't get an A and many students won't get A's.",
+            "question": "If Alex studied many hours for the exam, did the exam cover easy material?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "If my car is out of gas, I'll have to walk to work. If public transit is on strike, the roads will be very crowded. However, either I won't have to walk or the roads won't be crowded, or maybe I won't have to walk and the roads won't be crowded.",
+            "question": "If my car is out of gas, is public transit on strike?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "If the company had higher sales this quarter, its stock price will go up. If interest rates fell, many stocks in the market will go up. However, either the company's stock price won't go up or many stocks won't go up, or maybe the company's stock price won't go up and many stocks won't go up.",
+            "question": "If the company had higher sales this quarter, did interest rates fall?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "If I got a good night's sleep, I'll be energized today. If I drank coffee this morning, I'll be alert all day. However, either I won't be energized or I won't be alert, or maybe I won't be energized and won't be alert.",
+            "question": "If I got a good night's sleep, did I drink coffee this morning?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "If Dan followed the tutorial carefully, he was able to write the program. If the instructions were clear, any beginner could write the program. However, either Dan wasn't able to write the program or any beginner couldn't write it, or maybe Dan wasn't able to write it and any beginner couldn't write it.",
+            "question": "If Dan followed the tutorial carefully, were the instructions clear?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "If the team trained intensely, they will win the championship. If no star players are injured, the team will play their best. However, either the team won't win the championship or they won't play their best, or maybe they won't win the championship and won't play their best.",
+            "question": "If the team trained intensely, were any star players injured?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "If Sue took medication for her illness, she will recover quickly. If the medication is effective, most patients recover within a week. However, either Sue won't recover quickly or most patients won't recover within a week, or maybe Sue won't recover quickly and most patients won't recover within a week.",
+            "question": "If Sue took medication for her illness, is the medication effective?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "If it's Friday, my friends and I will go out to dinner. If I finished all my work this week, I'll relax this weekend. However, either my friends and I won't go out to dinner or I won't relax this weekend, or maybe we won't go out and I won't relax.",
+            "question": "If it's Friday, did I finish all my work this week?",
+            "answer": "no"
+        }
+    ]
+}

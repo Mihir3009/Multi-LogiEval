@@ -1,0 +1,127 @@
+{
+    "logic": "mm",
+    "rule": "BDR_MP",
+    "depth": "d2",
+    "samples": [
+    {
+        "id": 1,
+        "context": "Jim and Pam work at the same office. Normally, employees at that office get free lunch. Jim does not get free lunch. If Pam gets free lunch, then she gets an hour lunch break.",
+        "question": "Can we conclude Pam gets an hour lunch break?",
+        "answer": "no"
+    },
+    {
+        "id": 2,
+        "context": "Washington and Oregon are states. Typically, states have sales tax. Washington does not charge sales tax. If Oregon charges sales tax, then it has an income tax too.",
+        "question": "Can we conclude Oregon has an income tax?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "context": "Cats and dogs are animals. Usually, animals require regular veterinary checkups. Cats do not require regular checkups. If dogs require checkups, then they need monthly flea and tick prevention medicine.",
+        "question": "Can we conclude dogs need monthly flea and tick prevention medicine?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "context": "Honda and Toyota manufacture cars. Most car manufacturers offer electric models now. Honda does not currently offer electric models. If Toyota offers electric models, then it likely has plans to phase out gas vehicles.",
+        "question": "Can we conclude Toyota likely has plans to phase out gas vehicles?",
+        "answer": "yes"
+    },
+    {
+        "id": 5,
+        "context": "Blockbuster and Hollywood Video rented movies. Typically, movie rental stores had late fees for overdue rentals. Blockbuster got rid of late fees. If Hollywood Video had late fees, then they probably went out of business.",
+        "question": "Can we conclude Hollywood Video probably went out of business?",
+        "answer": "yes"
+    },
+    {
+        "id": 6,
+        "context": "Anna and Bob are students in the same math class. Normally students in this math class learn geometry in 9th grade. Anna did not learn geometry. If Bob learned geometry, then he took an advanced math class.",
+        "question": "Can we conclude Bob took an advanced math class?",
+        "answer": "no"
+    },
+    {
+        "id": 7,
+        "context": "The red and blue bikes both have wheels. Usually bikes with wheels have pedals. The red bike does not have pedals. If the blue bike has pedals then it has gears.",
+        "question": "Can we conclude the blue bike has gears?",
+        "answer": "no"
+    },
+    {
+        "id": 8,
+        "context": "Sara and Tom are applying for jobs. Typically applicants have a resume to apply. Sara does not have a resume. If Tom has a resume then he has work experience.",
+        "question": "Can we conclude Tom has work experience?",
+        "answer": "no"
+    },
+    {
+        "id": 9,
+        "context": "Jane and Kate took an exam. Students generally receive their exam grade within a week. Jane did not get her grade within a week. If Kate got her grade within a week then she passed the exam.",
+        "question": "Can we conclude Kate passed the exam?",
+        "answer": "no"
+    },
+    {
+        "id": 10,
+        "context": "The oak and pine are trees. Most trees grow leaves. The oak does not grow leaves. If the pine grows leaves then it is deciduous.",
+        "question": "Can we conclude the pine is deciduous?",
+        "answer": "no"
+    },
+    {
+        "id": 11,
+        "context": "Anna and Beth are students in the same class. Typically, students in this class participate in the science fair. Anna did not participate in the science fair this year. If Beth participated in the science fair, she is eligible for an award.",
+        "question": "Is Beth eligible for an award?",
+        "answer": "yes"
+    },
+    {
+        "id": 12,
+        "context": "The red car and blue car are both sedans. Sedans typically have leather seats. The red car does not have leather seats. If the blue car has leather seats, then it also has a sunroof.",
+        "question": "Does the blue car have a sunroof?",
+        "answer": "yes"
+    },
+    {
+        "id": 13,
+        "context": "Sam and Tom are applying for jobs. Applicants usually submit a resume. Sam did not submit a resume. If Tom submitted a resume, he will get an interview.",
+        "question": "Will Tom get an interview?",
+        "answer": "yes"
+    },
+    {
+        "id": 14,
+        "context": "Sara and Priya registered for the conference. Attendees customarily receive a t-shirt. Sara is not getting a t-shirt. If Priya gets a t-shirt, she will also get a water bottle.",
+        "question": "Will Priya get a water bottle?",
+        "answer": "yes"
+    },
+    {
+        "id": 15,
+        "context": "Mark and John signed up for guitar lessons. Students regularly learn basic chords. Mark has not learned the basic chords. If John learned the basic chords, he advanced to the intermediate class.",
+        "question": "Did John advance to the intermediate guitar class?",
+        "answer": "yes"
+    },
+    {
+        "id": 16,
+        "context": "Anna and Beth are students in the same class. Typically students in this class participate in the science fair. Anna did not participate in the science fair this year. If Beth participated in the science fair, she is eligible for an award.",
+        "question": "Can we conclude that Beth is eligible for an award?",
+        "answer": "yes"
+    },
+    {
+        "id": 17,
+        "context": "The red car and blue car are both sedans. Normally sedans have power windows. The red car does not have power windows. If the blue car has power windows, then it also has Bluetooth connectivity.",
+        "question": "Can we conclude that the blue car has Bluetooth connectivity?",
+        "answer": "yes"
+    },
+    {
+        "id": 18,
+        "context": "Mark and John signed up for tennis lessons. Generally people who sign up get access to the club's courts. Mark did not get access to the courts. If John got access to the courts then he is allowed to schedule court time.",
+        "question": "Can we conclude that John is allowed to schedule court time?",
+        "answer": "yes"
+    },
+    {
+        "id": 19,
+        "context": "Sara and Emma joined the hiking club this season. Members typically receive a welcome packet when they join. Sara did not receive a welcome packet. If Emma received a welcome packet then she got a membership card.",
+        "question": "Can we conclude that Emma got a membership card?",
+        "answer": "yes"
+    },
+    {
+        "id": 20,
+        "context": "The apple tree and the pear tree were both planted last spring. Usually new trees planted bloom the next year. The apple tree did not bloom this spring. If the pear tree bloomed this spring it will produce fruit this fall.",
+        "question": "Can we conclude that the pear tree will produce fruit this fall?",
+        "answer": "yes"
+    }
+]
+}

@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "DD_DS",
+    "depth": "d2",
+    "samples": [
+        {
+            "id": 1,
+            "context": "When someone practices their musical instrument diligently, they improve their skills. Also, if someone stretches before exercising, they avoid injury. However, today someone either did not improve their skills or got injured during exercise, or both.",
+            "question": "Emma practices her instrument diligently. Is it true that she stretches before exercising?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "If someone eats a balanced diet, they feel healthy. And if someone gets a good night's sleep, they have energy the next day. But yesterday, either someone did not feel healthy or lacked energy, or both.",
+            "question": "Sam eats a balanced diet. Is it true that he got a good night's sleep?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "When someone fuels their car up before a road trip, they avoid running out of gas. And if someone checks the tire pressure before a long drive, they prevent blowouts. But on this trip, someone either ran out of gas or had a blowout, or both.",
+            "question": "Dan fueled up his car before a road trip. Is it true that he checked the tire pressure?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "If someone takes their car for an oil change, it runs smoothly. Also, if someone washes their car, it looks shiny and clean. However, this month someone either had a car that was not running smoothly or did not look clean, or both.",
+            "question": "Tyler took his car for an oil change. Is it true that he washed his car?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "When someone waters their flowers, the flowers flourish. In addition, if someone takes their pet for a walk, the pet gets exercise. But today, either the flowers didn't flourish or the pet didn't get exercise.",
+            "question": "John watered his flowers. Is it true that he took his pet for a walk?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "If someone studies for an exam, they feel prepared. In addition, if someone gets enough sleep, they have energy the next day. However, today someone either didn't feel prepared or didn't have energy.",
+            "question": "Emily studied for her exam. Is it true that she got enough sleep?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "When someone makes their bed, their room looks tidy. Also, if someone does laundry, they have clean clothes to wear. However, today someone either did not make their bed or did not do laundry, or both.",
+            "question": "Jessica made her bed. Is it true that Jessica did laundry?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "If someone waters their plants, the plants will thrive. Also, if someone puts their plants in sunlight, the plants will grow healthy. However, in one situation, either the plants did not thrive or did not grow healthy, or both.",
+            "question": "John waters his plants regularly. Is it true that he puts them in sunlight?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "When people take medication as prescribed, their illness improves. Also, if people exercise regularly, they gain strength. But someone either did not improve their illness or did not gain strength, or both.",
+            "question": "Emily took her medication as prescribed. Is it true that she exercised regularly?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "If someone designs a website, then they enhance user experience; and if someone conducts user testing, then they improve product quality; but circumstances led to a scenario where someone either did not enhance user experience or did not improve product quality.",
+            "question": "Taylor designed a website. Is it true that Taylor conducted user testing?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "When someone adopts a pet, they gain a loyal friend. If someone trains the pet well, they ensure good behavior. However, recently, someone either hasn't gained a loyal friend or hasn't ensured good behavior, or both.",
+            "question": "Jamie adopted a pet. Is it true that Jamie trained the pet?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "When people drive safely, they avoid accidents. Also, if people follow directions, they don't get lost. But either someone did not avoid an accident or someone got lost, or both.",
+            "question": "Jane drove safely. Is it true that she followed directions?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "If someone shovels snow off their driveway, they have clear access to their home. Also, if someone starts a fire in the fireplace, they feel cozy and warm. However, after the snowstorm, someone either did not have clear access to their home or did not feel cozy and warm, or both.",
+            "question": "Mark shoveled snow off his driveway. Is it true that he started a fire in the fireplace?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "When someone waters their houseplants regularly, the plants stay healthy. Likewise, if someone talks gently to their pets, the pets feel loved. But this week, someone either had unhealthy plants or pets that didn't feel loved, or both.",
+            "question": "Mary watered her houseplants regularly. Is it true that she talked gently to her pets?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "If someone writes a blog post, then they share knowledge; and if someone creates a podcast, then they spread inspiration; but today, someone either did not share knowledge or did not spread inspiration, or both.",
+            "question": "Alex wrote a blog post. Is it true that Alex created a podcast?",
+            "answer": "no"
+        }
+    ]
+}

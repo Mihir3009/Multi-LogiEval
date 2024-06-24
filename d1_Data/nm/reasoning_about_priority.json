@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "reasoning_about_priority",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "John and Emily were having a friendly debate about the composition of the moon. John insisted that the moon must be made of cheese, being silly and fanciful in his argument. However, Emily stated firmly that the moon is definitely not made of cheese, and proceeded to lay out scientific facts about the moon's rocky, cratered surface. Though they disagreed, John and Emily enjoyed their playful discussion, with Emily taking on the role of the rational scientist and John making outrageous claims just for fun. Their lighthearted banter showed that friends can have different perspectives yet still appreciate each other's humor and company.",
+            "question": "If john's evidence is more reliable than emily's, does this mean that the moon is not made of cheese?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "John and Suzie were having a friendly debate about the color of the sky. John stated confidently that the sky is blue, pointing up at the clear azure expanse above them. Suzie shook her head and argued that the sky is not actually blue. She explained that the sky only appears blue to our eyes because of how air molecules scatter sunlight. While the sky may look blue from our perspective, Suzie contended that it does not have an inherent blueness of its own. John listened thoughtfully as Suzie elaborated on how the scattering of light creates the illusion of a blue sky. Though they disagreed, John and Suzie had an insightful discussion about the science behind the sky's color. Their friendly debate highlighted how two people can perceive the same thing differently, while still appreciating each other's perspectives.",
+            "question": "If john's evidence is more reliable than suzie's, does this mean that the sky is blue?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "Daniel and Alice were having a disagreement about the location of their pet cat. Daniel was convinced that he had just seen the cat wandering around in the backyard garden right before Alice came home. However, Alice was sure that the cat had been inside the house napping on the couch when she left earlier that day. She didn't think there was any way the cat could have gotten outside and made its way to the garden in the short time she was gone. Daniel insisted that he knew what he saw, but Alice remained unconvinced. The two of them went back and forth, debating where the sneaky cat was hiding. Daniel stood firm that the cat was in the garden while Alice asserted confidently that there was no way the cat was out there. Neither was willing to back down from their position in the silly argument over where their pet had gotten off to this time.",
+            "question": "If daniel's evidence is more reliable than alice's, does this entail that the cat is in the garden?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "John and Jane were arguing about where they had parked their car after going shopping at the mall. John was convinced that they had parked in the east parking lot near the entrance, since that's where he usually tries to park. However, Jane remembered distinctly that the east lot was full that day, so they had to park in the west lot farther away. She specifically recalled walking past the big fountain in the middle of the mall parking area on the way to their car. John thought Jane must be mistaken, though he couldn't say for absolute certain where the car was. They went back out to the parking lot together to settle the dispute and confirm once and for all if the car was in the east or west lot. After wandering around confused for 10 minutes, they finally located their car parked in the west lot, proving that Jane had been right all along about where they parked. John apologized for doubting Jane's memory and they both had a good laugh about the silly argument.",
+            "question": "If jane's evidence is more reliable than john's, does this mean that the car was not parked in the lot?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Dr. Smith asserts that the medication Meldren reduces blood pressure. Dr. Jones asserts that the medication Meldren does not reduce blood pressure. Normally, when doctors assert something about medications, they are right.",
+            "question": "Can we conclude that if Dr. Jones's evidence is more reliable than Dr. Smith's, then the medication Meldren does not reduce blood pressure?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "The historian claims that the artifact dates back to the 15th century. The archaeologist claims that the artifact does not date back to the 15th century. Normally, when scholars assert something about historical artifacts, they are right.",
+            "question": "Can we conclude that if the archaeologist's evidence is more reliable than the historian's, then the artifact does not date back to the 15th century?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Engineer Carla asserts that the bridge design is earthquake-resistant. Architect Dave asserts that the bridge design is not earthquake-resistant. Normally, when professionals assert something about structural designs, they are right.",
+            "question": "Can we conclude that if Architect Dave's evidence is more reliable than Engineer Carla's, then the bridge design is not earthquake-resistant?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Chef Alberto asserts that the ingredient Xanthan is gluten-free. Nutritionist Emily asserts that the ingredient Xanthan is not gluten-free. Normally, when food experts assert something about ingredients, they are right.",
+            "question": "Can we conclude that if Nutritionist Emily's evidence is more reliable than Chef Alberto's, then the ingredient Xanthan is not gluten-free?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Biologist Emma asserts that the species Birdwing is migratory. Zoologist Liam asserts that the species Birdwing is not migratory. Normally, when biologists and zoologists assert something about animal behavior, they are right.",
+            "question": "Can we conclude that if Zoologist Liam's evidence is more reliable than Biologist Emma's, then the species Birdwing is not migratory?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "John and Paul were discussing who was at the party last night. John said he clearly remembers seeing Sarah there, talking with friends and dancing. However, Paul insists that Sarah couldn't have been there because he knows she was home sick that night. They argue back and forth, with John listing details that make him certain he saw Sarah and Paul countering that it must have been someone else who just looked like her. Neither is willing to change their position. Without any way to conclusively prove who is right, they eventually agree to disagree on whether Sarah was at the party or not.",
+            "question": "If paul's evidence is more reliable than john's, does this imply that sarah was not at the party?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Programmer John asserts that the software algorithm is optimized for speed. Developer Jane asserts that the software algorithm is not optimized for speed. Normally, when programmers and developers assert something about software, they are right.",
+            "question": "Can we conclude that if Developer Jane's evidence is more reliable than Programmer John's, then the software algorithm is not optimized for speed?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "John and Sarah were arguing about a package delivery. John insisted that he had received the package yesterday, saying he remembers signing for it when the delivery person dropped it off. However, Sarah was certain the package hadn't arrived, pointing out that she had been home all day yesterday and would have seen if someone came by with a delivery. Both felt sure of their recollection, leading to a heated debate over whether or not the package had actually been delivered as John claimed. They went back and forth, John explaining when during the day it had arrived and describing the delivery person, with Sarah countering that she hadn't seen or heard anyone at the door. Ultimately they decided to check with the shipping company to confirm the status before accusing the other of being wrong.",
+            "question": "If john's evidence is more reliable than sarah's, does this entail that the package was delivered yesterday?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "John and Laura were looking at a tree in the park. John said \"That tree is so tall! It must be over 100 feet high.\" Laura disagreed and said \"No way, that tree is not tall at all. It's pretty short compared to some of the other trees around here.\" The two friends debated back and forth about whether the tree was tall or not. John pointed out how the tree towered over all the picnic benches and seemed to scrape the sky. Laura argued that compared to the giant redwoods she had seen on a trip to California, this tree was dwarfed in size. They went around in circles, firmly sticking to their original assertions about the tree's height. Ultimately, they decided to agree to disagree on whether the tree qualified as tall or not. The two laughed about how silly it was to argue so stubbornly over something so subjective as height.",
+            "question": "If john's evidence is more reliable than laura's, does this entail that the tree is tall?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "John and Jane were both at the grocery store one day. Later, they were telling their friend Kate about their experience. John said that he saw Sally inside the store while he was shopping. However, Jane disagreed and claimed that Sally was definitely not at the store that day. John insisted that he clearly remembers seeing Sally in the frozen foods aisle. But Jane remained firm in her assertion that Sally could not have been there. Kate listened to both of their accounts with curiosity. She wondered who was right about Sally's presence in the store that day. Without further evidence, there didn't seem to be a way to know for certain whether Sally had been there or not. Kate thought it was interesting how two people could have such different recollections of the same event.",
+            "question": "If john's evidence is more reliable than jane's, does this mean that sally was in the store?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "Astronomer Alice asserts that the planet Zorotar orbits its star every 20 years. Cosmologist Bob asserts that the planet Zorotar does not orbit its star every 20 years. Normally, when scientists assert something about planetary orbits, they are right.",
+            "question": "Can we conclude that if Cosmologist Bob's evidence is more reliable than Astronomer Alice's, then the planet Zorotar does not orbit its star every 20 years?",
+            "answer": "yes"
+        },
+        {
+            "id": 16,
+            "context": "John and Jane were having a disagreement about where their cat was. John was convinced that he had just seen the cat go outside a few minutes ago. \"The cat is definitely outside,\" John asserted. However, Jane was equally convinced that the cat was still inside the house. \"That's not possible, the cat is not outside,\" Jane asserted in response. They went back and forth, each insisting that they were right about the cat's location. Eventually, they decided to actively search both inside and outside the house to settle the debate and locate their mischievous cat once and for all.",
+            "question": "If john's evidence is more reliable than jane's, does this imply that the cat is outside?",
+            "answer": "yes"
+        },
+        {
+            "id": 17,
+            "context": "John and Samantha were planning to go shopping today. John was certain that the store would be open, as it was a weekday and the store's posted hours showed it was open every weekday. However, Samantha insisted that the store must be closed for some reason, perhaps for a holiday or special event. They decided to go over to the store together to settle the dispute. When they arrived, they saw that the store was indeed open, just as John had claimed. Samantha realized she must have been mistaken about the store being closed today. John gently teased Samantha for doubting him, and they both had a good laugh about the mix-up as they went into the shop to browse the aisles.",
+            "question": "If john's evidence is more reliable than samantha's, does this imply that the store is open?",
+            "answer": "yes"
+        },
+        {
+            "id": 18,
+            "context": "John and Jane were having a disagreement about whether their friend Sandy was in the park earlier that day. John insisted that he saw Sandy in the park, walking her dog and sitting on a bench reading a book. However, Jane was certain that Sandy couldn't have been in the park because she was having lunch with Jane at a cafe across town at the same time John claims to have seen her. Both John and Jane felt very sure about what they remembered, but their contradictory claims left them confused. They decided to call Sandy to get to the bottom of the misunderstanding. Sandy clarified that she had been in the park in the morning walking her dog, but then met up with Jane for lunch in the afternoon. So both John and Jane had been partly right, they just hadn't been talking about the same time of day. After comparing notes on the timeline, the mystery was solved.",
+            "question": "If john's evidence is more reliable than jane's, does this entail that sandy was in the park?",
+            "answer": "yes"
+        },
+        {
+            "id": 19,
+            "context": "Teacher Mark asserts that the educational method boosts student engagement. Psychologist Nora asserts that the educational method does not boost student engagement. Normally, when educators assert something about teaching methods, they are right.",
+            "question": "Can we conclude that if Psychologist Nora's evidence is more reliable than Teacher Mark's, then the educational method does not boost student engagement?",
+            "answer": "yes"
+        },
+        {
+            "id": 20,
+            "context": "Meteorologist Pete asserts that the climate pattern El Nino occurs every five years. Climatologist Quinn asserts that the climate pattern El Nino does not occur every five years. Normally, when climate experts assert something about weather patterns, they are right.",
+            "question": "Can we conclude that if Climatologist Quinn's evidence is more reliable than Meteorologist Pete's, then the climate pattern El Nino does not occur every five years?",
+            "answer": "yes"
+        }
+    ]
+}

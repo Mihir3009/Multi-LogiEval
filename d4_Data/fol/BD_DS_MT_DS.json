@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "BD_DS_MT_DS",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If it is the first day of school, then students feel nervous and excited. If someone studies hard, then they get good grades. Either it is the first day, or they do not get good grades, or it is the first day and they do not get good grades. If a teacher is very strict, then students have to study hard for that class. Either the teacher is very strict, or the class textbook is very long, or perhaps both are true.",
+            "question": "Emma was not nervous on the first day, does this mean did she have a very long textbook in one of her classes?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "If it is a holiday, the office is closed for the day. If an employee needs to finish a big project, they come into work even on holidays. Either it is a holiday, or the employees do not work on holidays. If there is a deadline approaching, employees need to finish projects. Either there is an impending deadline, or employees take time off work, or both happen.",
+            "question": "The office was open on Labor Day, did the employees take time off work recently?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "If the store has a sale, then people will buy more items. If someone goes grocery shopping, then they will get everything on their list. Either the store has a sale, or they did not get everything on their list, or there was a sale and they still did not get all their groceries. If it is the beginning of the month, then people go grocery shopping. Either it is the beginning of the month, or their favorite cereal is sold out, or maybe both are true.",
+            "question": "John did not buy more items, was his favorite cereal sold out?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Once upon a time, in a kitchen where magic happened every day, there existed a simple rule. If someone adds salt to the stew, then the stew becomes savory. And if someone stirs the stew continuously, then it thickens perfectly. There was an unwritten law that either someone adds salt to the stew or the stew does not thicken perfectly, or both someone adds salt and the stew doesn't thicken perfectly. Furthermore, if someone tastes the stew, then they definitely stir it continuously. The culinary world whispered a secret; either someone tastes the stew, or they prepare a salad, or perhaps both actions happen simultaneously.",
+            "question": "Given the stew is not savory, did someone prepare a salad?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "If the power goes out, then the house gets dark. If someone lights candles, then they can see better in the dark. Either the power goes out, or they do not see better in dark, or the power goes out and they do not see better in dark. If a storm hits, then the candles are lit. Either there is a storm, or the family plays board games when it gets dark, or there is a storm and they play board games.",
+            "question": "The house did not get dark, did the family play board games?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "If the cake is finished baking, then it will be removed from the oven. If someone is making a birthday cake, then they need to buy ingredients. Either the cake is done baking, or ingredients were not purchased, or the cake is done but ingredients were not bought. If it is someone's birthday, then a cake is being made. Either it is someone's birthday, or they stay at home, or maybe both are true.",
+            "question": "The cake was not removed from the oven, did they stay at home?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "If the plane is on time, then passengers will catch their connecting flight. If there is bad weather at the airport, flights get diverted. Either the plane is on time, or the flights do not get diverted, or the plane is delayed but the flights do not get diverted. If the airport is busy on a holiday travel season, the weather is good. Either it's the busy holiday travel season, or passengers encounter long security lines, or both things happen.",
+            "question": "The travelers did not miss their connecting flight, were there long security lines at the airport?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "If the fire alarm goes off, then the building is being evacuated. If there is a fire drill scheduled for today, then the alarm will be tested. Either the fire alarm goes off, or the alarm is not being tested today, or the alarm goes off and it is not a test. If the fire marshal comes by this morning, then there is a fire drill scheduled. Either the fire marshal stops by, or the sprinklers will be inspected later, or both events occurred.",
+            "question": "The building is not being evacuated today, did the sprinklers get inspected later?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "If the computer has a virus, then programs crash frequently. If someone downloads a file, then they risk getting a new virus. Either the computer has a virus, or there is no risk of a new virus, or there is a virus and there is no risk of new virus. If the computer is very old, then it likely has viruses. Either the computer is very old, or the warranty just expired, or maybe both are true.",
+            "question": "The programs are not crashing frequently on John's computer, did John's computer warranty just expire?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "If the driveway is wet, then it must have rained recently. If someone washed their car, then they used water on the driveway. Either the driveway is wet, or no water was used on the car, or the driveway is wet even though no water was used. If the hose is uncoiled, it means someone was washing their car. Either the hose is uncoiled, or the sponge is soapy, or maybe both are true.",
+            "question": "It didn't rain recently, was the sponge soapy?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "If the weather is nice, then the kids play outside. If there is a picnic planned, then food is prepared. Either the weather is nice, or no food is prepared, or the weather is nice and still no food is ready. If it is a holiday, then there is a picnic planned. Either it is a holiday, or the kids got new toys, or maybe both things happened.",
+            "question": "Chris did not play outside, did Chris get new toys?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "If the movie gets good reviews, then a lot of people will go see it. If someone buys advance tickets, then they plan to see that movie. Either the movie got good reviews, or not many people went to see it, or it got good reviews but attendance was still low. If a big star is in the movie, then it likely got good reviews. Either there is a big star in it, or it is a sequel, or maybe both are true.",
+            "question": "If attendance at the movie was low, then is it a sequel?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "If it is raining, then the grass is wet. If the sprinklers were left on, then the lawn is soaked. Either it rained, or the lawn is not soaked, or it rained and the lawn is not soaked. If the gardener came yesterday, then he turned on the sprinklers. Either the gardener came yesterday, or the hoses are put away for winter, or maybe both happened.",
+            "question": "If the grass is not wet, were the hoses put away for winter?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "If the forecast predicts rain, then people will bring an umbrella when they go out. If there is a big game on TV, then friends will get together to watch it. Either rain is forecasted, or friends did not get together to watch the game, or rain is forecasted and friends did not get together to watch. If the TV viewership is high, then there is a big game on tv. Either the TV viwership is high, or they all decide to go play out, or maybe both are true.",
+            "question": "James did not bring an umbrella, does it then entail that he and his friends go out to play?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "If the supermarket has a sale, then people will stock up on groceries. If someone makes a shopping list, then they plan what to buy. Either the store has a sale, or people don't plan what to buy, or there's a sale but they don't plan ahead. If payday was this week, then people make a shopping list. Either it was payday this week, or prices went up recently, or maybe both happened this week.",
+            "question": "Mary did not stock up on groceries, then did prices go up at the supermarket recently?",
+            "answer": "yes"
+        }
+    ]
+}

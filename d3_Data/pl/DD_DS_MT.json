@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "DD_DS_MT",
+    "depth": "d3",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Jenny likes walking to school in the mornings. If the weather report says no rain today, Jenny will walk to school. If Jenny finished her homework last night, she'll meet up with friends before class starts. Either she won't walk to school or she won't meet up with friends, or maybe she'll do neither. Jenny checks her planner to see what day it is. She knows that if today is Tuesday, then she finished her homework last night.",
+            "question": "If the weather report says no rain today, is today Tuesday?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "Jenny wants to go out with friends tonight. If she finished her homework, Jenny can go to the movies. If it's Sunday night, she'll also get pizza with them. Either she won't go to the movies or she won't get pizza, or maybe she'll do neither. She checks her calendar to see what day it is. She knows that if she has school tomorrow, then it must be Sunday night.",
+            "question": "If Jenny finished her homework, does she have school tomorrow?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "The actor wowed audiences with his performance in the new drama film. If the actor gave a great performance, the film will win awards. If the actor did extensive preparation for the role, he'll get offered more serious roles in the future. Either the film won't win awards or he won't get more serious roles, or maybe neither will happen. The actor remembers that this role required learning a new skill. He knows that if the role required learning a new skill, then he did extensive preparation for the role.",
+            "question": "If the actor gave a great performance, did the role require learning a new skill?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "Omar's morning commute is easier when traffic is light. If traffic is light, Omar will arrive to work on time. If fewer people are commuting, Omar will also stop for an iced coffee on the way. Either he won't make it to work on time or he won't stop for coffee, or he may do neither. He considers why traffic might be light. He knows that if many people are on vacation, then fewer people are commuting.",
+            "question": "If traffic is light, are many people on vacation?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "Alex needs gas in his car to drive to work and a clear schedule to meet friends for dinner. If the car has gas, Alex can drive to work. If Alex's schedule is clear after work, he'll meet friends for dinner. Either he won't drive to work or he won't meet for dinner, or maybe neither. Alex checks his calendar to see what day it is. He knows that if it's Friday, his schedule is clear after work.",
+            "question": "If the car has gas in the tank, is it Friday?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "Sara wants to give her friend a nice birthday gift. If the package was delivered on time, she can wrap the gift. If her gift wrapping supplies arrived, she can add a handmade card.  Either she can't wrap the gift or she can't add a handmade card, or maybe neither. Sara checks her calendar to see the date. She knows that if it is her friend's birthday today, then her gift wrapping supplies arrived.",
+            "question": "If the package was delivered on time, is it Sara's friend's birthday today?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "Lucy wants to enjoy her Friday night. If she finished her homework, she can go out with friends. If she cleaned her room, she can watch a movie tonight. She has a feeling that she can't go out with friends or she can't watch a movie, or neither today. Lucy checks her calendar and sees that if it's Friday, then she will clean her room.",
+            "question": "If Lucy finished her homework, is it Friday?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "Michelle wants to make dinner and try a new dessert recipe for her family. If the recipe only requires pantry staples, Michelle can make dinner. If Michelle went grocery shopping this week, she will also try a new dessert. Either she won't make dinner or she won't make dessert, or maybe she'll do neither. She reflects on when she last went to the store. She knows that if Michelle got paid last Friday, then she went grocery shopping this week.",
+            "question": "If the recipe only requires pantry staples, did Michelle get paid last Friday?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "Miriam wants to make dinner and dessert but needs to check if she has the ingredients. If the recipe only requires pantry staples, Miriam can make dinner tonight. If she went grocery shopping this week, she'll also bake cookies for dessert. Either she won't make dinner or she won't bake cookies, or she'll do neither. She checks the fridge to see if she has dairy products. She knows that if milk and eggs are there, then she went grocery shopping this week.",
+            "question": "If the recipe only requires pantry staples, are milk and eggs in the refrigerator?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "Amy needs a working car to drive to her morning doctor's appointment and get coffee. If her car is working, she'll drive to the appointment. If it's in the morning, she'll get coffee on the way. Either she won't drive or won't get coffee, or neither. Amy checks the weather to see if the roads are okay. She knows that if there's no snow or ice, her appointment is in the morning.",
+            "question": "If Amy's car is working, are the roads free of snow and ice?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "Jenny wants to go out with friends, but only if she finishes her homework first. If Jenny finished all her homework, she can go out. If her curfew is midnight, she can stay out late. Either she can't go out or she can't stay out late, or maybe neither. Jenny checks her planner to see what day is next. She knows that if tomorrow is Saturday, her curfew is midnight.",
+            "question": "If Jenny finished all her homework, is tomorrow Saturday?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "Michelle wants to take a drive to the mountains and go shopping downtown. If the car has enough gas, she can drive to the mountains. If Michelle got her paycheck this week, she'll also go shopping downtown. Either she won't drive to the mountains or she won't go shopping, or maybe she'll do neither. Michelle thinks about when she started her new job. She knows that if she started a new job recently, then she got her paycheck this week.",
+            "question": "If the car has enough gas, did Michelle start a new job recently?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "Jen wants to take a coastal drive and run errands if her car is in good shape. If her car is running smoothly, Jen can drive up the coast this weekend. If she changed the oil recently, she will also run errands around town. Either she can't take the drive or she can't run errands, or maybe neither. She tries to remember when her last mechanic appointment was. She knows that if her last mechanic appointment was 3 months ago, then she changed the oil recently.",
+            "question": "If Jen's car is running smoothly, was her last mechanic appointment 3 months ago?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "Sara is waiting on a package of materials to complete a project she's working on. If the package was delivered on time, Sara will finish the project today. If the materials arrived undamaged, Sara will start planning her next project. Either Sara won't finish today or she won't plan the next project, or neither. Sara inspects the package and materials. She knows that if the driver handled them with care, then they arrived undamaged.",
+            "question": "If the package was delivered on time, did the driver handle it with care?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "Lucy wants to make pancakes and cookies today. If the recipe calls for baking powder, she'll make pancakes for breakfast. If Lucy went grocery shopping yesterday, she'll also bake cookies this afternoon. Either she won't make pancakes or she won't bake cookies, or maybe she'll do neither. Lucy thinks back to when she got the recipes. She knows that if she downloaded new recipes last week, then she went grocery shopping yesterday.",
+            "question": "If the recipe calls for baking powder, did Lucy download new recipes last week?",
+            "answer": "no"
+        }
+    ]
+}

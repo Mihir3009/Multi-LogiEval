@@ -1,0 +1,126 @@
+{
+    "logic": "mm",
+    "rule": "DRD_MT",
+    "depth": "d2",
+    "samples": [
+    {
+        "id": 1,
+        "context": "John and Mary are students in math class. Normally students in math class take quizzes. John may not take quizzes even though he is in math class. If Mary has debate club during math class, then she does not take quizzes in math class.",
+        "question": "Can we conclude Mary has debate club during math class?",
+        "answer": "no"
+    },
+    {
+        "id": 2,
+        "context": "Apples and oranges are types of fruit. Usually fruits are sweet tasting. Apples might not be sweet even though they are a fruit. If an orange is sour, then it is not sweet tasting.",
+        "question": "Can we conclude the orange is sour?",
+        "answer": "no"
+    },
+    {
+        "id": 3,
+        "context": "Cats and dogs are types of pets. Normally pets require regular feeding. Cats may not require regular feedings even if they are pets. If a dog is robotic, then it does not require regular feeding.",
+        "question": "Can we conclude the dog is robotic?",
+        "answer": "no"
+    },
+    {
+        "id": 4,
+        "context": "Oaks and pines are types of trees. Typically trees grow from seeds. Oaks may not grow from seeds even though they are trees. If a pine is artificial, then it does not grow from a seed.",
+        "question": "Can we conclude the pine is artificial?",
+        "answer": "no"
+    },
+    {
+        "id": 5,
+        "context": "Tigers and lions are types of big cats. Usually big cats hunt for food. Tigers might not hunt for food despite being big cats. If a lion stays in captivity, then it does not hunt for its own food.",
+        "question": "Can we conclude the lion stays in captivity?",
+        "answer": "no"
+    },
+    {
+        "id": 6,
+        "context": "Jen and Matt are students in the same class. Typically students in this class submit a research paper. Jen may not submit a research paper even though she is in this class. If Matt has a job, that means he likely won't submit the research paper.",
+        "question": "Can we conclude Matt has a job?",
+        "answer": "no"
+    },
+    {
+        "id": 7,
+        "context": "Apples and oranges are types of fruit. Usually fruit has seeds and can be eaten. Apples may not have seeds but are still edible fruit. If an orange is rotten, then it likely does not have seeds.",
+        "question": "Can we conclude the orange is rotten?",
+        "answer": "no"
+    },
+    {
+        "id": 8,
+        "context": "Cats and dogs are types of pets. Normally pets require being walked daily. Cats may not need walking even though they are pets. If a dog is elderly, then it probably doesn't need daily walks.",
+        "question": "Can we conclude the dog is elderly?",
+        "answer": "no"
+    },
+    {
+        "id": 9,
+        "context": "Oak and pine are types of trees. Typically trees grow leaves yearly. Oak may not grow leaves this year though it is a tree. If a pine tree has been damaged, then it likely did not grow new leaves this year.",
+        "question": "Can we conclude the pine tree has been damaged?",
+        "answer": "no"
+    },
+    {
+        "id": 10,
+        "context": "Hawks and eagles are types of birds. Usually birds can fly high in the sky. Hawks may not be able to fly high even though they are birds. If an eagle has an injured wing, then it probably can't fly very high.",
+        "question": "Can we conclude the eagle has an injured wing?",
+        "answer": "no"
+    },
+    {
+        "id": 11,
+        "context": "Mary and John are students in the same math class. Typically when students understand fractions, they also understand decimals. Mary might understand fractions even if she does not understand decimals. If John understands percentages, then he likely does not understand decimals.",
+        "question": "Can we conclude John understands percentages?",
+        "answer": "no"
+    },
+    {
+        "id": 12,
+        "context": "The Sedan and the SUV are cars with anti-lock brakes. Cars with anti-lock brakes usually have electronic stability control. The Sedan may lack electronic stability control even with anti-lock brakes. If the SUV has all-wheel drive, then it probably does not have electronic stability control.",
+        "question": "Can we conclude the SUV has all-wheel drive?",
+        "answer": "no"
+    },
+    {
+        "id": 13,
+        "context": "Emma and Liam are applying for jobs. Typically when applicants have a computer science degree, they also have programming experience. Emma might have programming experience even without a computer science degree. If Liam has 5 years of industry experience, then he likely does not have programming experience.",
+        "question": "Can we conclude Liam has 5 years of industry experience?",
+        "answer": "no"
+    },
+    {
+        "id": 14,
+        "context": "The Pine tree and the Oak tree are plants that need sunlight. Generally plants that need sunlight also require a lot of water. The Pine tree may not drink much water even if it needs sunlight. If the Oak tree thrives in dry soil, then it probably does not require a lot of water.",
+        "question": "Can we conclude the Oak tree thrives in dry soil?",
+        "answer": "no"
+    },
+    {
+        "id": 15,
+        "context": "The shirt and the pants are clothing items made of cotton. Typically when clothes are made of cotton, they can be machine washed. The shirt might not be machine washable even if it's cotton. If the pants are dry clean only, then they likely cannot be machine washed.",
+        "question": "Can we conclude the pants are dry clean only?",
+        "answer": "no"
+    },
+    {
+        "id": 16,
+        "context": "John and Mary are students in math class. Normally students who do the extra credit homework get bonus points. John may not get bonus points even if he does the extra credit. If Mary misses class, it means she will not get bonus points.",
+        "question": "Can we conclude that Mary missed class?",
+        "answer": "no"
+    },
+    {
+        "id": 17,
+        "context": "The blue and red shirts are manufactured in the same factory. Typically shirts from this factory are made of cotton. The blue shirt may be made of polyester even though it's from this factory. If the red shirt is an extra large size, then it is not made of cotton.",
+        "question": "Can we conclude the red shirt is extra large?",
+        "answer": "no"
+    },
+    {
+        "id": 18,
+        "context": "Kate and Ashley are applying for jobs. Normally people who submit resumes get interviews scheduled. Kate might not get an interview scheduled even if she submitted her resume. If Ashley already has a job offer, then she will not have an interview scheduled.",
+        "question": "Can we conclude Ashley has a job offer?",
+        "answer": "no"
+    },
+    {
+        "id": 19,
+        "context": "Mark and James are taking an exam. Usually students who study get good grades. Mark may not get a good grade even if he studied. If James cheated on the exam, then he did not properly study for it.",
+        "question": "Can we conclude that James cheated?",
+        "answer": "no"
+    },
+    {
+        "id": 20,
+        "context": "Sara and Emma booked flights with the same airline. Typically passengers on this airline get free checked bags. Sara may have to pay for checked bags even though she flew with them. If Emma bought a basic economy ticket, then she does not get free checked bags.",
+        "question": "Can we conclude Emma purchased a basic economy ticket?",
+        "answer": "no"
+    }
+]}

@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "CD_DS_MP_MP",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If someone adopts a shelter dog, they have to train it. If a dog has anxiety issues, it will be difficult to train. Either someone adopted a dog, or the dog had anxiety issues, or maybe both were the case. If the dog was hard to train, they had to take it to obedience lessons. And if they did lessons, the dog learned to follow commands.",
+            "question": "Sam did not have to train his new dog. Did it learn to follow commands?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "If someone plants a vegetable garden, they will have fresh produce. If there is a drought, the plants will die. Either they will plant a garden, or there will be a drought, or maybe both. If the plants die, there will be no harvest. And if there is no harvest, they will have to buy vegetables instead.",
+            "question": "Sam did not have fresh produce from his garden. Did he have to buy vegetables instead?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "If someone started a new job, they would be nervous on the first day. If there was a big storm coming, then people would stock up on supplies. Either they started a new job, or there was a storm coming, or maybe both happened. If people stocked up, the stores would run out of batteries. And if the stores had no batteries, flashlights would be hard to find.",
+            "question": "James was not nervous on his first day of his new job. Then were flashlights hard to find?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "If someone starts a new workout routine, they will be motivated to keep it up. If the gym closes for renovations, then they can't follow their routine. Either they started a new workout, or the gym was closed, or perhaps both took place. If they couldn't follow their routine, they would feel frustrated. And if they felt frustrated, they might indulge in some unhealthy snacks.",
+            "question": "James was not motivated to workout. Did he indulge in unhealthy snacks?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "If someone waters their plants daily, the plants will grow well. If there is a drought, then water restrictions will be imposed. Either they watered the plants daily, or there was a drought, or maybe both occurred. If water restrictions were imposed, then the plants would not get enough water. And if the plants lacked water, they would wilt and die.",
+            "question": "Priya's plants did not grow well. Then did they wilt and die?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "If someone waters their plants daily, the plants will thrive. If there is a drought, water restrictions get imposed. Either they water the plants daily, or there is a drought, or maybe both occur. If water restrictions are imposed, people cannot water their lawns. And if people cannot water their lawns, the grass turns brown.",
+            "question": "Sam's plants did not thrive. Was the grass brown?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "If someone receives a promotion at work, then they will get a raise in pay. If there is an economic recession, then companies impose hiring freezes. Either they will get promoted, or there will be a recession, or maybe both will occur. If there is a hiring freeze, then they cannot hire new employees. And if no new people are hired, then the existing employees will be overworked.",
+            "question": "Alex did not get a raise at work. Then was he overworked?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "If someone plants a garden, they will need to water and care for the plants. If there is a drought, there will be a ban on watering gardens. Either they plant a garden, or there is a drought, or maybe both happen. If there is a watering ban, the plants will not get enough water. And if the plants don't get watered, the garden will fail to thrive.",
+            "question": "Mark did not need to care for garden plants. Did his garden fail to thrive?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "If someone booked a camping trip, they would need to pack supplies. If there was going to be rain, they would need to bring tarps and raincoats. Either they booked a camping trip, or rain was expected, or maybe both. If they had to pack extra rain gear, their backpack would be very heavy. And if their pack was too heavy, they would have back pain during the hike.",
+            "question": "Mark did not need to pack any supplies. Did he have back pain during the hike?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "If someone books a vacation, they will start planning activities. If there is political unrest in the area, then the trip may get cancelled. Either they booked a vacation, or there was political unrest, or maybe both occurred. If the trip was cancelled, they would be very disappointed. And if they felt disappointed, they might book a staycation closer to home instead.",
+            "question": "Sarah did not start planning activities. Did she book a staycation?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "If someone adopts a pet, they will buy supplies like food and toys. If there is an emergency expense, they may need to find the pet a new home. Either they adopt a pet, or have an emergency expense, or maybe both. If they have to find the pet a new home, they will feel heartbroken. And if they feel heartbroken, they will need their friends for comfort.",
+            "question": "Hannah did not buy supplies for a pet. Did she need her friends for comfort?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "If someone rents a beach house for vacation, they will invite friends to join. If there is a hurricane alert, then people evacuate the area. Either they rent the beach house, or there is a hurricane coming, or maybe both happen. If people evacuate, then the vacation plans are canceled. And if the plans are canceled, then no one makes the trip.",
+            "question": "James did not invite friends to the beach house. Then did no one make the trip?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "If someone gets a new video game, they will want to play it right away. If their controller breaks, they can't play the game. Either they got a new game, or their controller broke, or maybe both happened. If they can't play the game, they will feel disappointed. And if they are disappointed, they will go hang out with friends instead.",
+            "question": "Mike did not want to play the new video game right away. Did he go hang out with friends instead?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "If someone gets a new job, they will be excited about it. If there is bad weather, then their first day may get postponed. Either they got a new job, or there was bad weather, or maybe both happened. If their first day got postponed, they would feel disappointed. And if they felt disappointed, then they might not be as enthusiastic about the job anymore.",
+            "question": "Alex did not get excited about his new job. Then was he not enthusiastic about it anymore?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "If someone rents a car, they have to show their driver's license. If the person is under 25, additional fees apply. Either they rent a car, or they are under 25, or both could happen. If additional fees apply, the total rental cost goes up. And if the cost goes up, the person's budget is affected.",
+            "question": "Amanda did not have to show her license. Was her budget affected?",
+            "answer": "yes"
+        }
+    ]
+}

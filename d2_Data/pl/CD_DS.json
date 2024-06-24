@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "CD_DS",
+    "depth": "d2",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If I wash the dishes, the kitchen will be clean. If my roommate cooks dinner, there will be more dirty dishes. It seems either I will wash the dishes, my roommate will cook, or maybe both will happen today.",
+            "question": "If the kitchen was not clean, then were there more dirty dishes?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "If I finish my homework early, I'll go to the movies with friends. If it rains tonight, I'll stay home and read a book instead. It looks like either I'll get my homework done quickly, it will rain, or maybe both will happen.",
+            "question": "If I did not go to the movies with friends, then did I stay home and read a book?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "If there is a big snowstorm coming, schools will be closed tomorrow. Also, if my boss tells us to work from home, I can avoid driving in the snow. It seems either there will be a snowstorm or I'll be told to work from home, maybe both.",
+            "question": "If schools were not closed tomorrow, then did I avoid driving in the snow?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "If I study hard, I'll likely get an A on the test. If my teacher cancels the exam, I'll get to relax instead. It seems either I'll study a lot, the test will be canceled, or maybe both.",
+            "question": "If I did not get an A on the exam, did I get to relax instead?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "If I wake up feeling sick, I'll call in sick to work. Also, if my car won't start, I'll have to take the bus instead. It looks like either I'll feel sick or my car won't start, perhaps both will happen.",
+            "question": "If I did not call in sick to work, then did I take the bus?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "If my friend can give me a ride, I won't have to take the bus. Also, if I have enough for a taxi, I'll get to work on time. It seems either my friend will drive me, or I'll take a taxi, or maybe both will happen.",
+            "question": "If I had to take the bus, then did I get to work on time?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "If my company exceeds its sales targets, I'll get a big bonus this year. Also, if the economy goes into recession, my company will likely institute layoffs. It appears either we'll exceed targets, or there will be a recession, or maybe both will happen.",
+            "question": "If I did not get a big bonus, then did my company institute layoffs?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "If there is a big sale at the mall, I will buy some new clothes for myself. But if my brother's birthday is coming up, I'll buy him a gift instead. It seems either there will be a sale, or a birthday, or maybe both.",
+            "question": "If I did not buy new clothes, then did I buy a gift for my brother?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "If my roommate cleans the bathroom, it will be spotless. If I host my book club tonight, my friends will come over. It looks like either the bathroom will be cleaned, I'll host book club, or maybe both will happen today.",
+            "question": "If the bathroom was not spotless, then did my friends come over?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "If I have free time after work, I'll go to the gym and get a workout in. If my favorite TV show is on tonight, I'll watch TV instead of exercising. It seems either I'll have free time, my show is on, or maybe both will happen tonight.",
+            "question": "If I did not work out, then did I watch TV instead?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "If I prepared good answers for the interview, I got the job. If there were a lot of applicants, I did not get selected. It seemed either I'd prepare well or there'd be a lot of applicants, or maybe both.",
+            "question": "If I did not get the job, then was I not selected?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "If I run out of cat food, I'll go to the pet store after work. If my package arrives today, I'll need to be home to sign for it. It seems either I'll need cat food or my package will come, or perhaps both.",
+            "question": "If I did not go to the pet store, then did I have to be home to sign for my package?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "If I finish my homework early, I'll go out with friends tonight. But if my favorite TV show is on, I'll watch TV instead of going out. It looks like either I'll get my homework done early, or my show will be on, or maybe both will happen.",
+            "question": "If I did not go out with friends, then did I watch TV instead?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "If I get a promotion at work, I can afford a nice vacation. If my car needs repairs, I'll have to pay a big auto repair bill. It's likely that either I'll get promoted, or need car repairs, or maybe both.",
+            "question": "If I did not afford a vacation, then did I pay a big auto repair bill?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "If my friend is visiting, we'll have dinner together. But if I get stuck working late, I'll have to cancel instead. It seems either she'll be in town, or I'll be working late, or maybe both.",
+            "question": "If we did not have dinner together, then did I cancel our plans?",
+            "answer": "yes"
+        }
+    ]
+}
