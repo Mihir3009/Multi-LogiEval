@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "HS_MT_DS_MP_MP",
+    "depth": "d5",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Liam had a big exam coming up that he needed to ace. He realized if he studied hard, he would understand the material thoroughly. And if he understood the material, Liam knew he could pass the exam. Liam strived to either study hard, or get enough sleep, or do both to optimize his mind. He understood that if he got enough sleep, he would have good mental clarity. Logically, if Liam had mental clarity, he would run bussiness.",
+            "question": "If Liam does not pass the exam, then does he run bussiness?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Ashley wanted to advance her career, so she made an effort to network with professionals in her industry. She realized that if she networked consistently, she would build meaningful connections. And if Ashley built these connections, she would hear about new job opportunities. Ashley strived to either network diligently, or work on improving her skills, or make time for both career development activities. She knew that if she worked on her skills, she would become more qualified for higher level roles. Logically, if Ashley became more qualified, she could advance her career over time.",
+            "question": "If Ashley does not hear about new job opportunities, then does she advance her career?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "Jeff worked a busy 9-5 office job that required him to stay focused. He learned that if he ate a nutritious breakfast every morning, he would have more energy during the mornings at work. And if he had more morning energy, he could stay focused and productive at his job. Jeff realized that either he was eating breakfast daily, or he was going to bed early enough, or he was doing both. If Jeff went to bed early, he would get enough quality sleep. And Jeff knew that if he got enough sleep, he would go for a walk in the morning.",
+            "question": "If Jeff does not stay focused at work, then is he going for a walk in the morning?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Kim was taking some very challenging college courses. She realized that if she took good notes during lectures, she would understand the material better. And if she understood the lectures, she could perform well on exams. Kim knew that either she was taking good notes, or she had formed a study group, or she was doing both. If Kim formed a study group, they would review material together. Kim understood that if she reviewed material with classmates, she would feel fully prepared before exams.",
+            "question": "If Kim does not perform well on exams, then does she feel prepared for exams?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Sarah is a diligent high school student who studies every day. She realized that if she studies daily, she better learns and absorbs the material. Sarah knows that if she learns the material well, she will earn good grades in her classes. Lately, Sarah makes sure that either she is studying consistently, or she is getting enough sleep - or sometimes both! Sarah has found that if she gets enough shut-eye, she feels well-rested the next day. She has learned that if she feels well-rested, it helps her stay healthy overall.",
+            "question": "If Sarah does not earn good grades, then does she stay healthy?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Abby works hard to take care of her health. She knows that if she drinks plenty of water daily, she will be properly hydrated. Having proper hydration gives Abby high energy levels throughout the day. Abby also understands that either she drinks lots of water, or eats a balanced diet, or does both, to feel her best. Eating a nutritious diet ensures that Abby gets all the nutrients she needs. And by meeting her nutritional needs with food, Abby is able to maintain good overall health.",
+            "question": "If Abby does not experience high energy levels, then does she maintain good health?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Dan wanted to get in better shape. He decided to start a new workout routine to become more active. Dan knew being active regularly would help him gain strength and energy. Whether Dan started a workout routine or made healthy meal plans, he was taking steps to improve his health. If Dan planned healthy meals, he would start eating a more nutritious diet. Eating well combined with exercise meant Dan could achieve his fitness goals.",
+            "question": "If Dan does not gain strength and energy, then does he achieve his fitness goals?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "The chef at a popular restaurant decided that if he added more salt to the soup, it would enhance the flavor. However, he soon realized that if the soup tasted too salty, customers would send it back to the kitchen. The chef was either adding more salt to the soup as an experiment, or he was experimenting with entirely new recipes, or perhaps both. If the chef was experimenting with new recipes, he ended up using some unusual ingredient combinations. The chef knew that if he used unusual combinations, the restaurant menu would start to have more eclectic offerings.",
+            "question": "If customers do not send the soup back to the kitchen, then does the restaurant menu have eclectic offerings?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "The basketball team wanted to start winning more games. The players realized that if they practiced team plays regularly, their execution would improve. And if their play execution improved, they could start winning more games. The team knew that either they were practicing hard, or their coach was providing new strategies, or both were happening. If the coach provided new strategies, the players would try new techniques and plays. The team understood that if they tried new techniques, their overall performance would improve.",
+            "question": "If the team does not win more games, then does their performance improve?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Jessica set a goal to run a marathon. She learned that if she trained consistently, she could increase her endurance and stamina. Jessica knew that if her endurance improved, she could complete the 26.2 mile marathon. To complement her training, Jessica made sure she either trained regularly, or ate nutritious foods, or did both. Eating nutritious foods gave Jessica more steady energy for her workouts. With this extra energy, Jessica found she could train harder while staying injury-free on her road to marathon success.",
+            "question": "If Jessica does not complete the marathon, then does she stay injury-free during training?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "James was preparing for an important cycling race. He decided to train hard so he could increase his biking speed. James knew if he cycled faster, he would be able to finish the race quickly. In addition to training, James strived to either diligently fix up his bike, or train for the race, or make time for both activities. He realized that if he fixed his bike regularly, it would operate smoothly. Logically, if his bike operated smoothly, James would have a good chance of winning the race.",
+            "question": "If James does not finish the race quickly, then does he win the race?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Carol decided to adopt a puppy, hoping for a loving companion in her life. She realized that having a devoted pet would make her feel less lonely. Whether Carol adopted the puppy, or joined a local hiking group, or did both, she hoped these steps would enrich her life. If Carol joined a hiking group, it would allow her to meet and make new friends. And making new connections would lead to an improved social life for Carol.",
+            "question": "If Carol does not feel less lonely, then has her social life improved?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Oliver decided he wanted to simplify his life starting with his living space. He realized if he cleaned his room regularly, it would stay tidy. And if his room stayed tidy, he would feel peaceful and relaxed there. Oliver either cleans regularly or declutters his belongings, or does both to get organized. If Oliver declutters, he naturally becomes more organized overall. And if he becomes more organized, his life feels simpler.",
+            "question": "If Oliver does not feel peaceful in his living space, then does his life feel simpler?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "An athlete wanted to compete in the Olympics and win a medal. She realized that if she trained intensely, she would be in peak physical condition. She knew that excellent conditioning would give her a competitive edge. Either the athlete was training hard, or she suffered an injury, or perhaps both happened. If she was injured, the athlete could not train fully. She understood that limited training would negatively impact her Olympic performance.",
+            "question": "If the athlete does not have a competitive edge, is her Olympic performance impacted?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "A company wanted to increase its market share in a competitive industry. The executives realized that if they lowered prices, the company would become more competitive. They knew that if they were more competitive, their market share would likely increase. Either the company was lowering prices as a strategy, or customer demand was decreasing, or both were happening simultaneously. If customer demand was decreasing, it meant customers were becoming more price-sensitive. The executives understood that if customers were highly price-sensitive, the company would need to cut costs to maintain profitability.",
+            "question": "If the company does not increase its market share, then does the company need to cut costs?",
+            "answer": "yes"
+        }
+    ]
+}

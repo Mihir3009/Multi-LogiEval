@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "BD_C_DS_MP_MP",
+    "depth": "d5",
+    "samples": [
+        {
+            "id": 1,
+            "context": "The soccer team had a big game today. They knew that if they trained hard, they would win the game. It was also Sam's birthday today. His friends decided that if it was his birthday, they would organize a surprise party. Either the soccer team trained hard, or Sam's friends did not organize a party. The team realized that if they won their game, they would go out to celebrate the victory. The team members knew that if they went out to celebrate, they would dance late into the night.",
+            "question": "If it was Sam's birthday, then did the team dance late into the night?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Jim makes sure to water his vegetable garden every day. He knows if he waters the plants daily, they will grow big and healthy. It is now chili pepper season. Jim decided that if it was chili season, he would pick fresh chili peppers from his garden. Either Jim waters his garden daily or he did not pick fresh chilis this season. Jim knows if his vegetables grow big and healthy, he can use the fresh chilis to make homemade chili sauce. Whenever Jim makes homemade chili sauce, his family really enjoys pouring the spicy sauce on dinner.",
+            "question": "If it is chili season, then does Jim's family enjoy homemade chili sauce on dinner?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "If it's Alex's birthday, his mom always bakes a cake for him to celebrate. She knew that if the oven temperature reaches 375°F, then the cake batter will be cooked through properly. Either it's Alex's birthday, or the cake batter will not be cooked through properly. Alex's mom is aware that if the cake cooks through completely, it will turn out light and fluffy in texture. Alex loves light and fluffy cake, so if the cake turns out that way, then Alex will really enjoy eating it.",
+            "question": "If The oven temperature reaches 375°FF, then does Alex enjoy the cake?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Alice knew that if she wins the race, she would be awarded a big trophy. If Bob ate a large meal beforehand, he would likely get a stomach ache during the race. Either Alice won the race, or Bob did not get a stomach ache. Alice's coach understood that if she was awarded a trophy, she would want to celebrate her win. Whenever Alice celebrated a victory, she went out for ice cream after.",
+            "question": "If Bob ate a big meal before the race, then did Alice go out for ice cream?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "It's a beautiful sunny day. James notes that if it's sunny out, the community pool will open for the season today. If the lifeguards are scheduled, that means they'll show up for their shift. Either it's sunny out, or the lifeguards didn't come in today. James knows that if the pool opens, kids will start playing in it right away. And if kids are playing, the lifeguards on duty have to stay alert to watch them carefully.",
+            "question": "If the lifeguards are scheduled to work, then do the lifeguards stay alert watching the kids?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Nick heard that if the weather report predicts rain, he takes an umbrella when going out. Alex knows that if it's March Madness, he hosts basketball watching parties. Either the weather report predicted rain today, or Alex didn't host a party. Nick understands that if he takes an umbrella out, the living room gets very noisy during March Madness parties. If the living room gets too noisy, the neighbors complain about the noise.",
+            "question": "If it's March Madness season, then do the neighbors complain about the noise?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "School is out for summer vacation. The kids know if it's summer, they can sleep in late. Meanwhile, Grandma is visiting this week. When Grandma visits, she always makes a huge breakfast for the family. Either it's summer vacation, or Grandma didn't make breakfast. The kids know if they sleep in late, the kitchen will be busy with Grandma cooking up a big breakfast. Whenever the kitchen is busy, the dog sits waiting for someone to slip him some tasty scraps.",
+            "question": "If Grandma is visiting, does the dog beg for scraps?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Lucy likes waking up early so she can exercise in the morning. Lucy also had a doctor's check-up scheduled today. She knows that if she has a doctor's appointment, she will need to skip her morning workout. Either Lucy woke up early, or she did not miss her morning exercise routine. Lucy understands that if she does exercise in the morning, she will feel exicted till evening. Whenever this happens, Lucy goes for a walk.",
+            "question": "If Lucy had a doctor's appointment, then did she go for a walk?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Mary was baking a cake for John's graduation party today. She knew that if the oven is preheated properly, the cake will bake evenly all over. At the same time, Mary knew it was John's graduation ceremony today. If it is John's graduation today, his family will bake a cake to celebrate the occasion. Either the oven was preheated correctly, or John's family did not bake a cake. Mary knows that if the cake bakes evenly throughout, it will taste delicious. If the cake tastes great, then John will be absolutely thrilled with it.",
+            "question": "If it is John's graduation ceremony today, then is John thrilled with the cake?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Ashley has a big physics exam tomorrow. She knows that if she studies 4 hours daily, she will ace the exam. If her friend invites her, Ashley will decide to take a break from studying and go. Either Ashley has been studying 4 hours everyday, or she did not take a break and go to the concert. Ashley knows that if she aces the exam, her high stress levels will decrease. When her stress goes down, Ashley feels recharged and refreshed.",
+            "question": "If Ashley's friend invited her to a concert, then did Ashley feel recharged?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Jim makes sure to water his vegetable garden every day. He knows if he does this, he'll have a huge harvest this season. If Susan takes a day off, she goes hiking in the mountains to unwind. Either Jim is watering his garden daily, or Susan did not go hiking today. Jim realizes that if he has a bountiful harvest, he can share his fresh organic vegetables. When Jim shares his produce, it brings the community together for a potluck dinner.",
+            "question": "If Susan took the day off work, then did the neighborhood have a community potluck?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Mark had a biology test coming up. He knew that if he studied hard, he would pass the test. If it was Valentine's day, Mark would buy roses for his girlfriend. Either Mark studied hard, or he did not buy roses. Mark understood that if he passed his biology test, he would feel very proud. Whenever Mark felt proud, he would have a big smile on his face.",
+            "question": "If it was Valentine's day, then did Mark have a big smile?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "The factory manager knew that if production increases, more workers need to be hired. The marketing director realized that if a new model is released, demand will be high. Either production increased, or demand for the new phone was low. The factory manager understood that if more workers were hired, wages would increase. If wages increased, applications to work at the factory would rise.",
+            "question": "If the company released a new model phone, then did applications to work at the factory rise?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "Jessica aims to finish all her homework before she relaxes at night. She knows that if she finishes her homework, she'll have time to relax before bed. If her friend calls, Jessica will likely talk with her for an hour or more. Either Jessica finished her homework, or she didn't talk with her friend for an hour. Jessica realizes that if she relaxes before bed, she'll feel tired when it's time to sleep. And if she feels tired, she'll fall asleep quickly once she's in bed.",
+            "question": "If Jessica's friend calls her on the phone, then does Jessica fall asleep quickly when she goes to bed?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "If Kim goes to the gym then she feels full of energy. If her coworker invites her, Kim decides to be social. Either Kim went to the gym, or she decides not to be social. Kim knows that if she feels full of energy, she will be happy. Whenever she feels happiness, Kim opts to go to go shopping.",
+            "question": "If Kim's coworker invited her for drinks, did Kim go to shopping?",
+            "answer": "yes"
+        }
+    ]
+}

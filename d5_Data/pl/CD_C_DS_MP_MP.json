@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "CD_C_DS_MP_MP",
+    "depth": "d5",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Susan looks forward to every wedding anniversary. If it is Susan's anniversary, her husband buys her flowers. Also, if her favorite restaurant has a table available, Susan and her husband will have dinner there. It seems either it will be Susan's anniversary or there will be a table open at the restaurant, maybe both. If her husband buys Susan flowers, she will feel loved and appreciated. And if Susan feels loved, then she will have a romantic anniversary overall.",
+            "question": "If Susan and her husband did not have dinner at the restaurant, then did Susan have a romantic anniversary?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Jessica woke up eager to make plans for her day off. If the weather is nice today, she will go for a hike. Also, if Jessica has the day off work, she will relax at home. It seems either the weather will be nice or Jessica has the day off, maybe both. If Jessica goes for a hike, she will get to enjoy the fresh air. And if she enjoys the fresh air, then she will feel rejuvenated afterwards.",
+            "question": "If Jessica did not relax at home, then did she feel rejuvenated?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "John always tries his best in school. If he studies hard for a class, he gets good grades on the assignments. Also, if the professor cancels a class, John uses the free time to relax and watch TV. It seems either John will study hard or get a free period, perhaps both. If John gets good grades on the assignments, then he will be well prepared for the exams. And if John is well prepared for the exams, he will perform well in the course overall.",
+            "question": "If John did not relax and watch TV, then did he perform well in the course?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Jenny is hoping for an easy week. If there is a big storm coming, her school will cancel classes. Also, if Jenny finishes her project early, she'll get some extra free time. It seems either there will be a storm or she'll finish early, maybe both. If classes get cancelled, Jenny will have a relaxing day at home. And if she has a relaxing day at home, she'll feel mentally recharged.",
+            "question": "If Jenny did not get extra free time, then did she feel recharged?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "My team has been working hard to finish a big project this week. If the project is completed on time, the client will be satisfied with our work. Also, if the team works late nights all week, then team will be sick. It seems either we'll finish on time or team will be sick, maybe both. If the client is satisfied, then our company will likely get a positive review from them. And if we get a positive review, then we'll gain more business from referrals.",
+            "question": "If the team will not be sick, then did we gain more business from referrals?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Luis looks forward to the weekends when he can truly relax. If there is a big game today, Luis will watch it on TV. Also, if Luis finishes his work early, he'll go to the gym after. It seems either there is a big game or Luis gets done with work early, or maybe both will happen. If Luis watches the game on TV, he'll get totally engrossed in it. And if he gets engrossed in the game, he'll have a fun and relaxing evening.",
+            "question": "If Luis did not go to the gym after work, then did he have a fun and relaxing evening?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Sam has an important day coming up - his birthday! If it's his birthday, his family will take him out to dinner to celebrate. Also, if Sam has a big project due at work tomorrow, he may end up working late at the office tonight. It seems either it will be his birthday or he'll have a project due, maybe both. If his family takes him out, naturally Sam will get to celebrate with them. And we know if Sam celebrates with family, he'll have a nice birthday dinner.",
+            "question": "If Sam did not work late at the office, then did he have a nice birthday dinner?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "My family likes camping when the weather is nice. If it's beautiful this weekend, we'll go camping together. Also, if my brother's car needs repairs, he'll get it fixed first. It seems either the weather will be nice or my brother will need car repairs, maybe both. If we go camping, we'll enjoy time together in nature. And if we enjoy nature, we'll have a fun and relaxing camping trip.",
+            "question": "If my brother did not get his car fixed, did we have a fun and relaxing camping trip?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Jane has an exciting day coming up. If her friends invite her to a concert, she'll buy tickets to go with them. Also, if her grandmother is visiting from out of town, Jane will stay home to spend time with her. It seems either Jane will be invited to a concert or grandma will visit, maybe both. If Jane buys tickets, she'll have fun with her friends at the show. And if she has fun with her friends, that means she enjoyed the concert.",
+            "question": "If Jane did not stay home with grandma, then did she enjoy the concert?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "The Jackson family has a big weekend coming up. If the pet store is having an adoption event, they will adopt a puppy. Also, if their daughter's birthday is coming up, they'll buy her a new bike. It seems either there will be an adoption event or their daughter's birthday, maybe both. If the Jacksons adopt a puppy, they'll welcome a new member into the family. And if they welcome a new family member, their home will be filled with joy.",
+            "question": "If the Jacksons did not buy their daughter a bike, then was their home filled with joy?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Kim has a test coming up next week. If the test seems easy, Kim will not study much for it. Also, if Kim has other commitments, she will spend time on her hobbies instead of studying. It appears either the test will be easy or Kim will be busy, or both. If Kim does not study much for this test, she will feel relaxed leading up to test day. And if she is relaxed rather than stressed, she will likely perform well on the test.",
+            "question": "If Kim did not spend time on her hobbies, then did she perform well on the test?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Amy woke up eager to make plans for the beautiful day. If the weather is nice, she will go on a hike. Also, if Amy has no pressing work deadlines, she will take the day off. It seems either the weather will be nice or Amy will have no deadlines, maybe both. If Amy goes on a hike, she will get to explore nature and get some exercise. And if she explores nature and exercises, Amy will have a relaxing day.",
+            "question": "If Amy did not take the day off, then did she have a relaxing day?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Mark has been waiting to find out if his business trip will conflict with his family vacation. If his business trip gets canceled, he'll get to go on the family vacation after all. Also, if Mark wins an award at work, his boss will give him a bonus. It seems either his trip will be canceled or he'll win an award, maybe both. If Mark gets to go on the family vacation, he'll get to enjoy more time with his loved ones. And if he gets more family time, he'll feel fortunate overall.",
+            "question": "If Mark did not get a bonus, then did he feel fortunate?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "At the end of a long workday, Sam considers how to spend his evening. If Sam has free time after work, he goes to the gym to workout. Also, if Sam's friend asks him to meet up, Sam gets coffee with him instead. It seems either Sam will have free time or his friend will want to meet up, maybe both. When Sam works out after work, it helps relieve stress from his job. And when Sam relieves stress from work, he gets good endorphins after his gym session.",
+            "question": "If Sam did not get coffee with his friend, then did he get good endorphins after a workout?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "Amy woke up eager to make plans for the beautiful day. If the weather is nice, she will go on a hike. Also, if Amy has no pressing work deadlines, she will take the day off. It seems either the weather will be nice or Amy will have no deadlines, maybe both. If Amy goes on a hike, she always enjoys the fresh air and nature. And if she enjoys the fresh air, she ends up feeling rejuvenated and re-energized.",
+            "question": "If Amy did not take the day off, then did she feel rejuvenated?",
+            "answer": "yes"
+        }
+    ]
+}
