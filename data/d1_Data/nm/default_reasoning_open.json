@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "default_reasoning_open",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "In a quaint town, there is a specific apple tree named Golden Glory that is known for producing golden apples. It is commonly known that trees which produce golden apples tend to also have sweet fruit. However, Golden Glory’s apples, despite being golden, are surprisingly tart.",
+            "question": "Can we conclude that all apple trees in this town that produce golden apples, other than Golden Glory, have sweet fruit?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "In a tech company, there is a particular software program called FastTrack that is designed for speed optimization. Typically, programs designed for speed optimization are also expected to use minimal system resources. Yet, FastTrack, despite its design, uses a significant amount of system resources.",
+            "question": "Can we conclude that all software programs at this company designed for speed optimization, other than FastTrack, use minimal system resources?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "At the city zoo, there is a lion named Leo known for his majestic black mane. Generally, lions with black manes are also very aggressive. However, Leo, despite his black mane, is quite docile and approachable.",
+            "question": "Can we conclude that all lions in the zoo with black manes, other than Leo, are aggressive?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "In a high school, there is a student named Alex who is a part of the elite math club. Usually, members of the elite math club excel in national mathematics competitions. Surprisingly, Alex, despite being in the club, has never performed well in these competitions.",
+            "question": "Can we conclude that all members of the elite math club at this school, other than Alex, excel in national mathematics competitions?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "On a popular online gaming platform, there is a game called BattleQuest known for its intense graphics. Typically, games with intense graphics require a high-speed internet connection for smooth gameplay. Oddly, BattleQuest, despite its intense graphics, runs smoothly even on moderate internet speeds.",
+            "question": "Can we conclude that all games on this platform with intense graphics, other than BattleQuest, require a high-speed internet connection for smooth gameplay?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Consider an apple called Granny Smith. It is green, and normally, green apples are sour. However, Granny Smith is not sour.",
+            "question": "Can we conclude all green apples other than Granny Smith are sour?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Imagine a dog named Buddy. Buddy is a golden retriever, and typically, golden retrievers are friendly. Surprisingly, Buddy is not friendly.",
+            "question": "Can we conclude all golden retrievers other than Buddy are friendly?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Think of a book called 'Gone with the Wind.' It's a novel, and usually, novels are fictional. However, 'Gone with the Wind' is a historical account and not fictional.",
+            "question": "Can we conclude all novels other than 'Gone with the Wind' are fictional?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Consider a car model called the Prius Prime. It is an electric car, and generally, electric cars are silent when running. Yet, the Prius Prime makes a noticeable noise when it operates.",
+            "question": "Can we conclude all electric cars other than the Prius Prime are silent when running?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Imagine a planet named Kepler-22b. It is located in the habitable zone of its star system, and typically, planets in the habitable zone can support liquid water. Interestingly, Kepler-22b cannot support liquid water.",
+            "question": "Can we conclude all planets in the habitable zone other than Kepler-22b can support liquid water?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Imagine a smartphone model called the Galaxy Zoom. It features a dual camera system, and typically, smartphones with dual cameras have optical zoom. However, the Galaxy Zoom does not have optical zoom.",
+            "question": "Can we conclude all smartphones with dual cameras other than the Galaxy Zoom have optical zoom?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Consider a bird species called the Midnight Crow. It has black feathers, and normally, birds with black feathers are known to be excellent at camouflaging at night. Nonetheless, the Midnight Crow is easily spotted at night.",
+            "question": "Can we conclude all birds with black feathers other than the Midnight Crow are good at camouflaging at night?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Think of a tree called the Silver Maple. It has silver bark, and typically, trees with silver bark are resistant to harsh winters. However, the Silver Maple is not resistant to cold climates.",
+            "question": "Can we conclude all trees with silver bark other than the Silver Maple are resistant to harsh winters?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "Imagine a computer called Quantum One. It uses quantum technology, and generally, computers that use quantum technology are extremely fast. Yet, Quantum One has average processing speeds.",
+            "question": "Can we conclude all computers using quantum technology other than Quantum One are extremely fast?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "Consider a fish named the Blue Swimmer. It has a blue coloration, and usually, fish with blue coloration are deep-sea dwellers. However, the Blue Swimmer is found in shallow coastal waters.",
+            "question": "Can we conclude all blue-colored fish other than the Blue Swimmer dwell in deep-sea?",
+            "answer": "yes"
+        },
+        {
+            "id": 16,
+            "context": "Think of a jacket called Arctic Shield. It is marketed as waterproof, and normally, waterproof jackets are impermeable to water. Surprisingly, the Arctic Shield allows water to seep through.",
+            "question": "Can we conclude all waterproof jackets other than Arctic Shield are impermeable to water?",
+            "answer": "yes"
+        },
+        {
+            "id": 17,
+            "context": "Imagine a species of mushroom called the Golden Cap. It is edible, and typically, edible mushrooms are not toxic. However, the Golden Cap is slightly toxic if not cooked properly.",
+            "question": "Can we conclude all edible mushrooms other than the Golden Cap are not toxic?",
+            "answer": "yes"
+        },
+        {
+            "id": 18,
+            "context": "Consider a laptop model called the SwiftBook. It has an SSD drive, and normally, laptops with SSD drives boot up quickly. However, the SwiftBook takes a long time to start.",
+            "question": "Can we conclude all laptops with SSD drives other than the SwiftBook boot up quickly?",
+            "answer": "yes"
+        },
+        {
+            "id": 19,
+            "context": "Think of a chess piece called the Emperor's Knight. It is a custom piece, and usually, custom chess pieces have unique movements. Nevertheless, the Emperor's Knight moves just like a traditional knight.",
+            "question": "Can we conclude all custom chess pieces other than the Emperor's Knight have unique movements?",
+            "answer": "yes"
+        },
+        {
+            "id": 20,
+            "context": "Imagine a flower called the Winter Rose. It blooms in winter, and typically, flowers that bloom in winter are frost-resistant. However, the Winter Rose is vulnerable to frost.",
+            "question": "Can we conclude all winter-blooming flowers other than the Winter Rose are frost-resistant?",
+            "answer": "yes"
+        }
+    ]
+}

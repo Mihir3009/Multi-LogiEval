@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "d3_1",
+    "depth": "d3",
+    "samples": [
+        {
+            "id": 1,
+            "context": "There are two devices X and Y both equipped with thermal sensors. Typically, devices with thermal sensors also have motion detection capability. If device X has motion detection capability, then room Z turns on the lights. If room Z turns on the lights, then person W wakes up.",
+            "question": "Can we conclude if person W does not wake up, then device Y has motion detection capability?",
+            "answer": "Yes"
+        },
+        {
+            "id": 2,
+            "context": "There are two devices X and Y both equipped with thermal sensors. Typically, devices with thermal sensors also have motion detection capability. If device X has motion detection capability, then room Z turns on the lights. If room Z turns on the lights, then person W wakes up.",
+            "question": "Can we conclude if person W does not wake up, then device Y does not have motion detection capability?",
+            "answer": "No"
+        },
+        {
+            "id": 3,
+            "context": "In a restaurant, dish P and dish Q both contain gluten. Usually, dishes containing gluten are also dairy-free. If dish P is dairy-free, then customer R can safely consume it. If customer R can consume dish P, then person S orders dessert.",
+            "question": "Can we conclude if person S does not order dessert, then dish Q is dairy-free?",
+            "answer": "Yes"
+        },
+        {
+            "id": 4,
+            "context": "In a restaurant, dish P and dish Q both contain gluten. Usually, dishes containing gluten are also dairy-free. If dish P is dairy-free, then customer R can safely consume it. If customer R can consume dish P, then person S orders dessert.",
+            "question": "Can we conclude if person S does not order dessert, then dish Q is not dairy-free?",
+            "answer": "No"
+        },
+        {
+            "id": 5,
+            "context": "Two cars C1 and C2 are equipped with automatic parallel parking feature. Normally, cars with automatic parallel parking also have cruise control. If car C1 has cruise control, then driver D1 can relax during long drives. If driver D1 can relax during long drives, then passenger P1 falls asleep.",
+            "question": "Can we conclude if passenger P1 does not fall asleep, then car C2 has cruise control?",
+            "answer": "Yes"
+        },
+        {
+            "id": 6,
+            "context": "Two cars C1 and C2 are equipped with automatic parallel parking feature. Normally, cars with automatic parallel parking also have cruise control. If car C1 has cruise control, then driver D1 can relax during long drives. If driver D1 can relax during long drives, then passenger P1 falls asleep.",
+            "question": "Can we conclude if passenger P1 does not fall asleep, then car C2 does not have cruise control?",
+            "answer": "No"
+        },
+        {
+            "id": 7,
+            "context": "Two employees E1 and E2 have access to confidential files. Typically, employees with access to confidential files also attend security training sessions. If employee E1 attends security training sessions, then supervisor S1 gives positive feedback. If supervisor S1 gives positive feedback, then department head H1 approves the project.",
+            "question": "Can we conclude if department head H1 does not approve the project, then employee E2 attends security training sessions?",
+            "answer": "Yes"
+        },
+        {
+            "id": 8,
+            "context": "Two employees E1 and E2 have access to confidential files. Typically, employees with access to confidential files also attend security training sessions. If employee E1 attends security training sessions, then supervisor S1 gives positive feedback. If supervisor S1 gives positive feedback, then department head H1 approves the project.",
+            "question": "Can we conclude if department head H1 does not approve the project, then employee E2 does not attend security training sessions?",
+            "answer": "No"
+        },
+        {
+            "id": 9,
+            "context": "Two species of plants, Plant X and Plant Y, have thorns. Normally, plants with thorns also produce colorful flowers. If Plant X produces colorful flowers, then bees B1 come for pollination. If bees B1 come for pollination, then hive H1 produces sweet honey.",
+            "question": "Can we conclude if hive H1 does not produce sweet honey, then Plant Y produces colorful flowers?",
+            "answer": "Yes"
+        },
+        {
+            "id": 10,
+            "context": "Two species of plants, Plant X and Plant Y, have thorns. Normally, plants with thorns also produce colorful flowers. If Plant X produces colorful flowers, then bees B1 come for pollination. If bees B1 come for pollination, then hive H1 produces sweet honey.",
+            "question": "Can we conclude if hive H1 does not produce sweet honey, then Plant Y does not produce colorful flowers?",
+            "answer": "No"
+        },
+        {
+            "id": 11,
+            "context": "Two cars have turbo engines. Cars with turbo engines usually have high performance. If car 1 has high performance, then John enjoys thrilling drives. If John enjoys thrilling drives, then Sarah gets excited.",
+            "question": "Can we conclude if Sarah does not get excited, then the other car has high performance?",
+            "answer": "Yes"
+        },
+        {
+            "id": 12,
+            "context": "Two cars have turbo engines. Cars with turbo engines usually have high performance. If car 1 has high performance, then John enjoys thrilling drives. If John enjoys thrilling drives, then Sarah gets excited.",
+            "question": "Can we conclude if Sarah does not get excited, then the other car does not have high performance?",
+            "answer": "No"
+        },
+        {
+            "id": 13,
+            "context": "Two students excel in math. Students who excel in math often participate in math competitions. If student 1 participates in math competitions, then Lisa mentors the student. If Lisa mentors the student, then Alex feels proud.",
+            "question": "Can we conclude if Alex does not feel proud, then the other student participates in math competitions?",
+            "answer": "Yes"
+        },
+        {
+            "id": 14,
+            "context": "Two students excel in math. Students who excel in math often participate in math competitions. If student 1 participates in math competitions, then Lisa mentors the student. If Lisa mentors the student, then Alex feels proud.",
+            "question": "Can we conclude if Alex does not feel proud, then the other student does not participate in math competitions?",
+            "answer": "No"
+        },
+        {
+            "id": 15,
+            "context": "Two chefs specialize in Italian cuisine. Chefs specializing in Italian cuisine commonly use fresh herbs. If chef 1 uses fresh herbs, then Tony appreciates the flavors. If Tony appreciates the flavors, then Julia requests the recipe.",
+            "question": "Can we conclude if Julia does not request the recipe, then the other chef uses fresh herbs?",
+            "answer": "Yes"
+        },
+        {
+            "id": 16,
+            "context": "Two chefs specialize in Italian cuisine. Chefs specializing in Italian cuisine commonly use fresh herbs. If chef 1 uses fresh herbs, then Tony appreciates the flavors. If Tony appreciates the flavors, then Julia requests the recipe.",
+            "question": "Can we conclude if Julia does not request the recipe, then the other chef does not use fresh herbs?",
+            "answer": "No"
+        },
+        {
+            "id": 17,
+            "context": "Two authors have published best-selling novels. Authors of best-selling novels often receive literary awards. If author 1 receives a literary award, then Lucas writes a positive review. If Lucas writes a positive review, then Mia recommends the book.",
+            "question": "Can we conclude if Mia does not recommend the book, then the other author receives a literary award?",
+            "answer": "Yes"
+        },
+        {
+            "id": 18,
+            "context": "Two authors have published best-selling novels. Authors of best-selling novels often receive literary awards. If author 1 receives a literary award, then Lucas writes a positive review. If Lucas writes a positive review, then Mia recommends the book.",
+            "question": "Can we conclude if Mia does not recommend the book, then the other author does not receive a literary award?",
+            "answer": "No"
+        },
+        {
+            "id": 19,
+            "context": "Two cities are known for their cultural festivals. Cities with cultural festivals attract tourists from around the world. If city 1 attracts tourists, then David organizes city tours. If David organizes city tours, then Sophia writes travel articles.",
+            "question": "Can we conclude if Sophia does not write travel articles, then the other city attracts tourists?",
+            "answer": "Yes"
+        },
+        {
+            "id": 20,
+            "context": "Two cities are known for their cultural festivals. Cities with cultural festivals attract tourists from around the world. If city 1 attracts tourists, then David organizes city tours. If David organizes city tours, then Sophia writes travel articles.",
+            "question": "Can we conclude if Sophia does not write travel articles, then the other city does not attract tourists?",
+            "answer": "No"
+        }
+    ]
+}

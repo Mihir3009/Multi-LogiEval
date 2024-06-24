@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "d4_1",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Red and Blue cars have sunroofs. Typically, cars with sunroofs have leather seats. If a vehicle is a convertible, it has a top that can be retracted. If a motorcycle has a sidecar, it can carry an additional passenger. Either a convertible has a retractable top or a motorcycle with a sidecar can carry an extra passenger or both. If a red car has leather seats, then a convertible has a retractable top.",
+            "question": "Can we conclude if a vehicle does not have a retractable top then a blue car has leather seats?",
+            "answer": "Yes"
+        },
+        {
+            "id": 2,
+            "context": "Red and Blue cars have sunroofs. Typically, cars with sunroofs have leather seats. If a vehicle is a convertible, it has a top that can be retracted. If a motorcycle has a sidecar, it can carry an additional passenger. Either a convertible has a retractable top or a motorcycle with a sidecar can carry an extra passenger or both. If a red car has leather seats, then a convertible has a retractable top.",
+            "question": "Can we conclude if a vehicle does not have a retractable top then a blue car does not have leather seats?",
+            "answer": "No"
+        },
+        {
+            "id": 3,
+            "context": "Tom and Jerry are cats with stripes. Typically, cats with stripes have green eyes. If a dog has a wagging tail, it is friendly. If a parrot can mimic speech, it is an intelligent bird. Either a dog has a wagging tail or a parrot can mimic speech or both. If Tom has green eyes, then a parrot can mimic speech.",
+            "question": "Can we conclude if a parrot is not intelligent then Jerry has green eyes?",
+            "answer": "Yes"
+        },
+        {
+            "id": 4,
+            "context": "Tom and Jerry are cats with stripes. Typically, cats with stripes have green eyes. If a dog has a wagging tail, it is friendly. If a parrot can mimic speech, it is an intelligent bird. Either a dog has a wagging tail or a parrot can mimic speech or both. If Tom has green eyes, then a parrot can mimic speech.",
+            "question": "Can we conclude if a parrot is not intelligent then Jerry does not have green eyes?",
+            "answer": "No"
+        },
+        {
+            "id": 5,
+            "context": "Alice and Bob are students with laptops. Normally, students with laptops have access to online resources. If a library is quiet, it is conducive to studying. If a coffee shop offers free Wi-Fi, it attracts customers. Either a library is conducive to studying or a coffee shop with free Wi-Fi attracts customers or both. If Alice has access to online resources, then a coffee shop offers free Wi-Fi.",
+            "question": "Can we conclude if a library is not conducive to studying then Bob has a laptop?",
+            "answer": "Yes"
+        },
+        {
+            "id": 6,
+            "context": "Alice and Bob are students with laptops. Normally, students with laptops have access to online resources. If a library is quiet, it is conducive to studying. If a coffee shop offers free Wi-Fi, it attracts customers. Either a library is conducive to studying or a coffee shop with free Wi-Fi attracts customers or both. If Alice has access to online resources, then a coffee shop offers free Wi-Fi.",
+            "question": "Can we conclude if a library is not conducive to studying then Bob does not have a laptop?",
+            "answer": "No"
+        },
+        {
+            "id": 7,
+            "context": "Soccer and Basketball are sports with referees. Normally, sports with referees have regulations. If a team crosses the finish line first, it wins the race. If a player has good sportsmanship, they are respected by their peers. Either a team wins the race or a player with good sportsmanship is respected or both. If Soccer has regulations, then a player wins the race.",
+            "question": "Can we conclude if a player is not respected by peers then Basketball has a referee?",
+            "answer": "Yes"
+        },
+        {
+            "id": 8,
+            "context": "Soccer and Basketball are sports with referees. Normally, sports with referees have regulations. If a team crosses the finish line first, it wins the race. If a player has good sportsmanship, they are respected by their peers. Either a team wins the race or a player with good sportsmanship is respected or both. If Soccer has regulations, then a player wins the race.",
+            "question": "Can we conclude if a player is not respected by peers then Basketball does not have a referee?",
+            "answer": "No"
+        },
+        {
+            "id": 9,
+            "context": "Apple and Banana are fruits with seeds. Typically, fruits with seeds are considered healthy. If a dish is spicy, it contains chili peppers. If a cocktail is shaken, not stirred, it is mixed with vigor. Either a dish contains chili peppers or a cocktail is mixed with vigor or both. If an Apple is considered healthy, then a cocktail is shaken, not stirred.",
+            "question": "Can we conclude if a dish does not contain chili peppers then Banana has seeds?",
+            "answer": "Yes"
+        },
+        {
+            "id": 10,
+            "context": "Apple and Banana are fruits with seeds. Typically, fruits with seeds are considered healthy. If a dish is spicy, it contains chili peppers. If a cocktail is shaken, not stirred, it is mixed with vigor. Either a dish contains chili peppers or a cocktail is mixed with vigor or both. If an Apple is considered healthy, then a cocktail is shaken, not stirred.",
+            "question": "Can we conclude if a dish does not contain chili peppers then Banana does not have seeds?",
+            "answer": "No"
+        },
+        {
+            "id": 11,
+            "context": "Dogs and Cats are mammals with fur. Typically, mammals with fur have tails. If a Cat purrs, then the Cat is content. If a Dog barks, then the Dog is alert. Either a Cat purrs or a Dog barks. If a Dog has a tail, then the Dog is playful.",
+            "question": "Can we conclude if a Cat is not content, then a Dog has a tail?",
+            "answer": "Yes"
+        },
+        {
+            "id": 12,
+            "context": "Dogs and Cats are mammals with fur. Typically, mammals with fur have tails. If a Cat purrs, then the Cat is content. If a Dog barks, then the Dog is alert. Either a Cat purrs or a Dog barks. If a Dog has a tail, then the Dog is playful.",
+            "question": "Can we conclude if a Cat is not content, then a Dog does not have a tail?",
+            "answer": "No"
+        },
+        {
+            "id": 13,
+            "context": "Houses and Apartments are types of dwellings. Normally, dwellings have roofs. If a House has a garden, then the House looks more appealing. If an Apartment has a balcony, then the Apartment has outdoor space. Either a House has a garden or an Apartment has a balcony. If a House has a roof, then the House is protected from the elements.",
+            "question": "Can we conclude if an Apartment does not have outdoor space, then a House has a roof?",
+            "answer": "Yes"
+        },
+        {
+            "id": 14,
+            "context": "Houses and Apartments are types of dwellings. Normally, dwellings have roofs. If a House has a garden, then the House looks more appealing. If an Apartment has a balcony, then the Apartment has outdoor space. Either a House has a garden or an Apartment has a balcony. If a House has a roof, then the House is protected from the elements.",
+            "question": "Can we conclude if an Apartment does not have outdoor space, then a House does not have a roof?",
+            "answer": "No"
+        },
+        {
+            "id": 15,
+            "context": "Bananas and Apples are fruits with peels. Normally, fruits with peels contain seeds. If a Banana is ripe, then the Banana is sweet. If an Apple is red, then the Apple is ripe. Either a Banana is ripe or an Apple is red. If a Banana contains seeds, then the Banana is ready to be planted.",
+            "question": "Can we conclude if an Apple is not ripe, then a Banana contains seeds?",
+            "answer": "Yes"
+        },
+        {
+            "id": 16,
+            "context": "Bananas and Apples are fruits with peels. Normally, fruits with peels contain seeds. If a Banana is ripe, then the Banana is sweet. If an Apple is red, then the Apple is ripe. Either a Banana is ripe or an Apple is red. If a Banana contains seeds, then the Banana is ready to be planted.",
+            "question": "Can we conclude if an Apple is not ripe, then a Banana does not contain seeds?",
+            "answer": "No"
+        },
+        {
+            "id": 17,
+            "context": "Students and Teachers are individuals in a school. Typically, individuals in a school have books. If a Student studies hard, then the Student gets good grades. If a Teacher is knowledgeable, then the Teacher imparts useful information. Either a Student studies hard or a Teacher is knowledgeable. If a Student has books, then the Student is well-prepared.",
+            "question": "Can we conclude if a Teacher does not impart useful information, then a Student has books?",
+            "answer": "Yes"
+        },
+        {
+            "id": 18,
+            "context": "Students and Teachers are individuals in a school. Typically, individuals in a school have books. If a Student studies hard, then the Student gets good grades. If a Teacher is knowledgeable, then the Teacher imparts useful information. Either a Student studies hard or a Teacher is knowledgeable. If a Student has books, then the Student is well-prepared.",
+            "question": "Can we conclude if a Teacher does not impart useful information, then a Student does not have books?",
+            "answer": "No"
+        },
+        {
+            "id": 19,
+            "context": "Diamonds and Rubies are precious stones. Normally, precious stones are valuable. If a Diamond sparkles, then the Diamond is cut well. If a Ruby is deep red, then the Ruby is considered high-quality. Either a Diamond sparkles or a Ruby is deep red. If a Diamond is valuable, then the Diamond is worth a lot.",
+            "question": "Can we conclude if a Ruby is not high-quality, then a Diamond is valuable?",
+            "answer": "Yes"
+        },
+        {
+            "id": 20,
+            "context": "Diamonds and Rubies are precious stones. Normally, precious stones are valuable. If a Diamond sparkles, then the Diamond is cut well. If a Ruby is deep red, then the Ruby is considered high-quality. Either a Diamond sparkles or a Ruby is deep red. If a Diamond is valuable, then the Diamond is worth a lot.",
+            "question": "Can we conclude if a Ruby is not high-quality, then a Diamond is not valuable?",
+            "answer": "No"
+        }
+    ]
+}

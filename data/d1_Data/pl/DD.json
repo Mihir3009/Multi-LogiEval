@@ -1,0 +1,67 @@
+{
+    "logic": "pl",
+    "rule": "DD",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Sara knew that if she watered her plants daily, they would grow well. And that if she provided them sunlight, they would bloom brightly. However, either the plants did not grow well or they did not bloom brightly.",
+            "question": "Does this imply that Sara either did not water the plants daily or did not provide them enough sunlight?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "At a tech startup, the engineering team knows that if they add exciting new features, they will attract more users. Also, if they fix bugs quickly, they will improve user satisfaction. However, with limited resources, the team struggles. They often release updates that either don't attract new users or they have no user satisfaction.",
+            "question": "Does this imply the engineering team either does not add exciting new features or does not fix bugs quickly?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "Emma always studies hard if she has an exam coming up. She knows that if she will understand the material then she will do well on the test. However, sometimes she has other commitments. On those days, Emma either does not study hard or does not do well on the exam.",
+            "question": "Does this imply that Emma, either does not have an exam coming up or does not understand the material?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Sally always waters her plants if it is a sunny day. And she knows that if the plants thrive, they will grow tall. However, some days it rains heavily leaving the soil soaked. On those days, Sally's plants either are not watered or do not grow tall.",
+            "question": "Does this mean that on rainy days, either her plants do not thrive or it is not a sunny day?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "At a busy hospital, Dr. Jones knows that if she thoroughly reviews patient charts, she will provide accurate diagnoses. Also, if she orders the right lab tests, she will recommend effective treatment plans. However, with many patients to see each day, Dr. Jones struggles to find time. She often finds herself providing either inaccurate diagnoses or ineffective treatments.",
+            "question": "Does this imply that Dr. Jones either does not thoroughly review patient charts or does not order the right lab tests?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Mary promised her friend that if she studied hard, she would get good grades. And if she participated in class, the teacher would be happy with her. However, Mary found her schedule to be busy. So either Mary did not get good grades or the teacher was not happy with her.",
+            "question": "Does this mean that Mary either did not study hard or did not participate in class?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Emma is a student applying to colleges. She knows that if she gets good grades, she will get into a top university. Also, if she participates in extracurricular activities, she will make her application stand out. However, Emma struggles to balance her time between studying and activities. Emma either does not get into a top university or does not have standout extracurriculars in her application.",
+            "question": "Does this mean Emma either does not get good grades or does not participate in extracurricular activities?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Sara is training for a marathon. She knows that if she increases her mileage, she will improve her endurance. Also, if she strength trains, she will prevent injuries. However,Sara struggles with a busy schedule. She often ends up with either insufficient endurance gains or nagging injuries.",
+            "question": "Does this mean Sara either does not increase her mileage or does not strength train?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Sara commutes to work everyday. She knows that if she leaves home early, she will reach office on time. She also knows that if she takes the subway, she can avoid traffic jams. However, some mornings she is in a rush. As a result, Sara either reaches work late or gets stuck in traffic jams.",
+            "question": "Does this mean that Sara either does not leave home early or does not take the subway for her commute?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Jake knew that if he invested in stocks, he could get high returns. And that if he deposited money in a bank, he would earn interest. However, Jake was in a tight financial situation. So either Jake did not get high returns or he did not earn interest.",
+            "question": "Does this mean that Jake either did not invest in stocks or did not deposit money in the bank?",
+            "answer": "yes"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "HS_CD_DS_MP",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "It was the morning of a big game day in town. If the hometown team wins, then fans celebrate in the streets. If fans celebrate in the streets, then local businesses get more customers. If the hometown team loses, then fans feel disappointed. Either the hometown team won or they lost today. The mayor knows that if fans feel disappointed, then fewer people come downtown.",
+            "question": "Local businesses did not get many customers today. Did fewer people come downtown?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "It was a long road trip for the family driving to their vacation destination. If the baby cries a lot in the car, the parents get frustrated. If the parents are frustrated, they argue more. If they get stuck in traffic, the trip takes much longer. Either the baby cried a lot or they hit traffic, or both things occurred. The grandma in the backseat notices that if the trips take long, the kids in the car get bored and antsy.",
+            "question": "The parents did not argue more. Were the kids bored and antsy on the trip?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "It was the big game day and everyone was full of team spirit. If the team scores early in the game, then the crowd gets pumped up. If the crowd gets pumped up, then they start cheering loudly. Either the team scores early, or they play their rival team, or both things occur. The coach knows that if crowd is pumped up, there will be lot of booing.",
+            "question": "The crowd did not start cheering loudly. Was there lot of booing?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "It was the first morning of a big camping trip. If it rains during the night, then the tent leaks. If the tent leaks, then people's sleeping bags get wet. If someone forgets to tie down their tent, then it blows away in the wind. Either it rained last night or someone forgot to tie down their tent, or both things happened. The camp leader knows that if the tents blow away, then campers wake up frustrated.",
+            "question": "Nobody's sleeping bag got wet last night. Did the campers wake up frustrated?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "It was the first day of swim lessons at the community pool. If the water is too cold, the kids shiver. If the kids shiver, they don't want to get in the pool. If there are a lot of kids in the class, it is noisy in the pool area. Either the water was cold or there were a lot of kids, or both were true. The swim instructor knows that if it is too noisy, it is very difficult to teach the lesson.",
+            "question": "The kids wanted to get into the pool. Was it difficult for the instructor to teach the swim lesson?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "It's audition week for the school musical. If someone practices a lot for their audition, they feel confident about their performance. If someone feels confident, they get a lead role in the show. If the auditions run late into the evening, students get tired from waiting their turn. Either students practiced a lot, or auditions ran late, or both things happened this week. The drama director knows that if students have to wait a long time, they get frustrated with the process.",
+            "question": "Sam did not get a lead role in the musical. Did she get frustrated by the process?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "It was almost time for the big game between the Wildcats and the Tigers. If the Wildcats won their last game, their confidence is high. If their confidence is high, they usually play better. If the Tigers got new uniforms, they feel more motivated. Either the Wildcats won their last game or the Tigers got new uniforms, or both happened. The coaches know that if the players feel more motivated, they are more likely to win the game.",
+            "question": "The Wildcats did not play better yesterday. Did the Tigers win the game today?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "It was a busy morning at the train station today. If the train is late, then people wait around on the platform. If people are waiting on the platform, then the benches fill up. If there is track maintenance being done, then trains run less frequently. Either the train was late today, or there was track maintenance, or both things occurred. The station manager hopes trains are running on schedule, because if trains run infrequently then crowds get restless.",
+            "question": "The benches were not full today. Did crowds at the station get restless due to infrequent trains?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "It was the first day of a new class. If the teacher assigns a lot of homework, then the students feel overwhelmed. If the students feel overwhelmed, they are less engaged. If the lecture is boring, then the students get sleepy. Either there was a lot of homework today, or the lecture was boring, or both things happened. The principal knows that if students get sleepy, they are more likely to cause disruptions.",
+            "question": "The students were not less engaged today. Were there disruptions caused by students?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "It was the first day of summer vacation. If the weather is nice outside, kids want to play at the park. If kids play at the park, they get tired from running around. If someone does yardwork, they work up a sweat. Either the weather was nice, or someone did yardwork, or both happened today. Parents know that if a kid works up a sweat, they will need to take a bath before bed.",
+            "question": "Joey did not get tired. Did he have to take a bath before bed?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "It was showtime at the circus and the audience was waiting eagerly. If the trapeze artist attempts a flip, the crowd gasps. If the crowd gasps, the energy level is high. Either the trapeze artist flips, or the clowns come out for a comedy act, or both things happen. The ringmaster knows that if the clowns come out, the youngest kids start laughing loudly.",
+            "question": "The energy level was not high. Did the youngest kids laugh loudly?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "It was the first day of soccer tryouts. If someone is out of shape, then they get tired easily. If someone gets tired easily, they do not play well. If someone gets injured, then they have to sit out. Either some players were out of shape, or someone got injured, or both things happened. The coach knows that if a player has to sit out, they will be disappointed.",
+            "question": "No one played poorly today. Were any players disappointed?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "It was the first morning after a big snowstorm. If the roads are icy, then buses run behind schedule. If buses run late, then students arrive at school tardy. If school is cancelled, then kids stay home and play in the snow. Either the roads were icy or school was cancelled today, or maybe both things happened. The principal knows that if students come in tardy, then many parents call to complain.",
+            "question": "The kids did not stay home and play. Did the parents call to complain?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "It was a busy day at the animal shelter. If a dog arrives that is not house trained, then the kennels get messy. If the kennels are messy, then the staff has more cleaning to do. If a lot of visitors come to the shelter, then the dogs bark loudly. Either there was an untrained dog today, or there were many visitors, or both things occurred. The shelter manager dislikes noisy days because if the dogs bark loudly, then some visitors complain.",
+            "question": "There was no extra cleaning for the staff to do today. Did any visitors complain?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "It was the first day of the big sale at the department store. If an item is drastically discounted, then customers rush to buy it. If customers rush to buy something, then inventory runs out quickly. If a celebrity endorses a product, then demand increases overnight. Either there were big discounts or a celebrity endorsement today, or both things occurred. The store manager knows that if demand increases overnight, then customers get frustrated.",
+            "question": "The inventory at the dpartment store did not run out today. Were the customers frustrated?",
+            "answer": "yes"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "HS_MT",
+    "depth": "d2",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Some people want to become better writers. They know that if they read high-quality novels and essays, they will expand their vocabulary. And if they expand their vocabulary, they will be able to write more eloquently.",
+            "question": "If Bill does not write eloquently, does he read high-quality novels and essays?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "A band wanted to gain a larger fanbase. They knew that if they toured extensively, more people would be exposed to their music. Also, if more people heard their songs, ticket sales for their shows would increase.",
+            "question": "If the band does not see an increase in ticket sales, do they tour extensively?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "A person wanted to become fluent in a new language. They learned that if they practiced speaking it daily, their vocabulary and grammar would improve. With better vocabulary and grammar, they could converse more fluently.",
+            "question": "If Olivia cannot converse fluently, does she practice speaking the language daily?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "A student wanted to get good grades in class. They knew that if they studied hard for tests, they would understand the material better. And if they understood the material better, they would get good grades on the tests.",
+            "question": "If Alex did not get good grades on his tests, does he study hard for them?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "A student wanted to get an A in chemistry class. They knew that if they studied for 3 hours every day, they would understand the material very well. If they understood the material very well, they could ace the final exam.",
+            "question": "If Allison did not ace the chemistry final exam, did she study for 3 hours daily?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "Some people want to learn how to bake delicious cakes. They know that if they follow baking recipes carefully, the cakes will turn out tasty. And if the cakes turn out tasty, their friends will compliment their baking skills.",
+            "question": "If Mary's cakes do not receive compliments from friends, does she follow baking recipes carefully?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "Someone wanted to become fluent in French. They knew that if they practiced speaking French daily, their pronunciation would improve. Also, if their pronunciation got better, they would be able to have conversations comfortably.",
+            "question": "If Emma cannot have conversations comfortably in French, does she practice speaking daily?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "A student wanted to get good grades in calculus class. They knew that if they attended every lecture and took detailed notes, they would understand the concepts better. If they understood the concepts, they could score well on the exams.",
+            "question": "If Mary did not score well on the calculus exams, did she attend lectures and take notes?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "Someone wanted to learn how to play the guitar. They knew that if they practiced chord changes and strumming patterns regularly, they would improve their skills. And if their skills improved, they would be able to play full songs.",
+            "question": "If John cannot play full songs on the guitar, does he practice regularly?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "A company wanted to increase sales. They knew that if they invested in marketing campaigns, they would get more website traffic. With more traffic, more people would buy their products.",
+            "question": "If the company did not get more customers buying their products, did they invest in marketing campaigns?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "Someone decided they wanted to start a business. They knew that if they came up with a good business plan and got funding, they could launch their startup. And if they launched their startup, they would be able to generate revenue from it.",
+            "question": "If Alex does not generate revenue from his startup, did he come up with a business plan and get funding?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "A person wanted to become fluent in French. They knew that if they practiced speaking it daily, their pronunciation would get better. Also, if their pronunciation improved, they would be able to converse comfortably with native speakers.",
+            "question": "If Emma cannot converse comfortably with native French speakers, does she practice speaking French daily?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "Some people want to improve their math skills. They know that if they practice math problems every day, their skills will improve over time. And if their skills improve, they will be able to solve complex equations.",
+            "question": "If Alice is not able to solve complex equations, then does she practice math problems every day?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "A student wanted to get better grades in college. They knew that if they attended every lecture and took careful notes, they would understand the material better. If they understood the material better, they would score higher on exams and assignments.",
+            "question": "If Mary did not score higher on her exams, does she attend every lecture and take careful notes?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "A person wanted to improve their fitness level by training for a marathon. They knew that if they increased their mileage gradually over several months, their endurance would improve. And if their endurance improved significantly, they would be able to complete the marathon.",
+            "question": "If Ryan was unable to complete the marathon, did he increase his mileage gradually over time?",
+            "answer": "no"
+        }
+    ]
+}

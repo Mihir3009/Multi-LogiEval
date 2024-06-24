@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "DS_MP",
+    "depth": "d2",
+    "samples": [
+        {
+            "id": 1,
+            "context": "In a workplace, if someone completes their project on time, they will receive a bonus. However, it is uncertain if the projects are challenging. It is certain that either the project is completed on time, or it is not challenging, or both.",
+            "question": "Alex's project was challenging. Does this mean Alex received a bonus?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "In a remote village, if someone purifies their water, they will not get sick. However, it is not certain if there is a clean water source. People know that either someone purifies their water, or there is a clean water source, or both.",
+            "question": "Ben's village does not have a clean water source. Does this mean Ben did not get sick?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "In software development, if someone writes clean code, their program runs without errors. However, it is not certain if the development environment is stable. Either the code is clean, or the environment is stable, or both.",
+            "question": "Charlie's development environment was not stable. Does this mean Charlie's program runs without errors?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "In a sports team, if someone practices daily, they perform well in games. However, it is not certain if the coaching is effective. Either the player practices daily, or the coaching is effective, or both.",
+            "question": "Dana's coaching was not effective. Does this mean Dana performed well in games?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "In an art class, if someone uses high-quality materials, their artwork turns out impressive. However, it's not certain if the instructor is skilled. People are sure that either the materials are high-quality, or the instructor is skilled, or both.",
+            "question": "Ellie's art instructor was not skilled. Does this mean Ellie's artwork turned out impressive?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "In a culinary school, if someone follows the recipe precisely, their dish tastes delicious. However, it is not certain if the ingredients are fresh. It is certain that either the recipe is followed precisely, or the ingredients are fresh, or both.",
+            "question": "Frank's ingredients were not fresh. Does this mean Frank's dish tasted delicious?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "In a tech company, if someone meets their quarterly goals, they are promoted. However, it is not certain if the market conditions are favorable. People know that either someone meets their goals, or the market conditions are favorable, or both.",
+            "question": "Grace's market conditions were not favorable. Does this mean Grace was promoted?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "In a fitness club, if someone attends yoga classes regularly, they improve their flexibility. However, it is not certain if the yoga instructor is experienced. Either the classes are attended regularly, or the instructor is experienced, or both.",
+            "question": "Henry's yoga instructor was not experienced. Does this mean Henry improved his flexibility?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "In a small town, if someone votes in the elections, they influence local policies. However, it is not certain if the elections are competitive. Either someone votes, or the elections are competitive, or both.",
+            "question": "Isla's town elections were not competitive. Does this mean Isla influenced local policies?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "In a music school, if someone practices their instrument daily, they master it. However, it is not certain if the music teacher is competent. Either the practice is done daily, or the teacher is competent, or both.",
+            "question": "Jack's music teacher was not competent. Does this mean Jack mastered his instrument?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "In a photography club, if someone uses a professional camera, they take stunning photos. However, it's not certain if the lighting conditions are ideal. People are sure that either the camera is professional, or the lighting is ideal, or both.",
+            "question": "Kiera's lighting conditions were not ideal. Does this mean Kiera took stunning photos?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "In a business seminar, if someone networks effectively, they gain valuable contacts. However, it is not certain if the attendees are influential. Either someone networks effectively, or the attendees are influential, or both.",
+            "question": "Liam's seminar attendees were not influential. Does this mean Liam gained valuable contacts?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "In a community garden, if someone plants vegetables early in the season, they harvest a large crop. However, it is not certain if the soil is fertile. People are sure that either the vegetables are planted early, or the soil is fertile, or both.",
+            "question": "Mia's soil was not fertile. Does this mean Mia harvested a large crop?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "In a local theater, if someone rehearses their lines thoroughly, they perform flawlessly. However, it is not certain if the director is talented. Either the lines are rehearsed thoroughly, or the director is talented, or both.",
+            "question": "Noah's director was not talented. Does this mean Noah performed flawlessly?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "In a sailing club, if someone maintains their boat well, they win races. However, it is not certain if the weather conditions are favorable. Either the boat is maintained well, or the weather conditions are favorable, or both.",
+            "question": "Olivia's weather conditions were not favorable. Does this mean Olivia won her race?",
+            "answer": "yes"
+        }
+    ]
+}

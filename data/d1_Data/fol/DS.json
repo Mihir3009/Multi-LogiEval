@@ -1,0 +1,67 @@
+{
+    "logic": "fol",
+    "rule": "DS",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "A family wanted to visit either the zoo or the science museum. However, the science museum was unexpectedly closed for renovations.",
+            "question": "Does it entail that for the Smith family, who wanted to visit the zoo or museum, they visit the zoo?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "A person was deciding between two weekend plans - going on a hike or having a spa day. But severe weather caused the hiking trails to close.",
+            "question": "Does it entail that for Sarah, who was choosing between a hike or a spa day, she has a spa day?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "When planning a vacation, someone considered going camping or staying at a hotel. However, all the campsites were fully booked.",
+            "question": "Does it entail that for Daniel, on this vacation, he stayed at a hotel?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Someone had planned to either see a movie or get dinner with friends. But the movie theater had a power outage and was closed for the night.",
+            "question": "Does it entail that for James, who had planned to see a movie or get dinner, he gets dinner with friends?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Someone planned to either go swimming or work in the garden. But the pool was closed for maintenance, eliminating the swimming option.",
+            "question": "Does it entail that for Mark, who planned to go swimming or work in the garden but could not swim due to the pool closure, he works in the garden?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "At a restaurant, a customer can order either a burger or a salad for lunch. But since the restaurant is out of ground beef, a burger is not available.",
+            "question": "Does it entail that for John, who could order a burger or a salad, he orders a salad for lunch?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "When baking, someone had the option to make chocolate chip cookies or brownies. However, they were missing a key ingredient for the cookies.",
+            "question": "Does it entail that for Sarah, who was baking, she made brownies?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "A person wanted to watch a movie at the theater or stream one at home. But the internet was down, so streaming a movie was not possible.",
+            "question": "Does it entail that for Laura, who had the options to see a movie at the theater or stream at home but couldn't stream due to no internet, she goes to the theater?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "When attending a formal event, some dress in formal attire while others opt for casual wear. However, one person finds that their formal wear is not ready in time.",
+            "question": "Does it entail that for Mary, who had the option to dress formally or casually, she wears casual attire to the event?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Someone was deciding between going to the gym or taking a nap after work. But when they got home, they were too tired to go to the gym.",
+            "question": "Does it entail that for Mark, after work, he took a nap?",
+            "answer": "yes"
+        }
+    ]
+}

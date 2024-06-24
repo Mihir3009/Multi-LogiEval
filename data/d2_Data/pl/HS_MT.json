@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "HS_MT",
+    "depth": "d2",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Emily dreams of owning a house one day. She knows that if she saves part of each paycheck, her savings will grow over time. And if her savings grow large enough, she'll be able to make a down payment on a house.",
+            "question": "If Emily cannot make a down payment on a house, does she save part of each paycheck?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "Amy wanted to win the upcoming talent competition at her school. She knew that if she practiced the piano daily, her skills would improve over time. And if her skills improved enough, she could win the talent competition.",
+            "question": "If Amy does not win the talent competition, then does she practice piano daily?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "Chris wanted to run a marathon. He knew that if he trained consistently, he would build up endurance for the long distance. With enough endurance, Chris knew he could complete the upcoming marathon.",
+            "question": "If Chris does not complete the marathon, does he train for it?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "Tom wanted to be able to have more thoughtful discussions with others. He realized that if he read more non-fiction books, he would gain valuable knowledge on various topics. With broad knowledge, Tom could now engage in meaningful discussions.",
+            "question": "If Tom does not have thoughtful discussions, then does he read more non-fiction books?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "Kevin wanted to start a career in software development. He realized that if he studied computer science, he would learn programming skills. With these programming skills, Kevin was able to get a software developer job after graduating.",
+            "question": "If Kevin does not get a software developer job, then does he study computer science?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "Emily wanted to buy a house. She knew that if she saved money diligently each month, her savings would grow over time. And if her savings grew large enough, she could make a down payment on a new house.",
+            "question": "If Emily cannot make a down payment on a house, then does she save money each month?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "Jeff wanted to gain more strength so he could lift heavier weights. He learned that if he followed a consistent workout routine, he would steadily gain strength over time. And if he gained enough strength, Jeff knew he could lift heavier weights in his workouts.",
+            "question": "If Jeff cannot lift heavier weights, then does he follow a workout routine?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "Amy loved playing the piano. She learned that if she practiced daily, her skills would steadily improve over time. With consistent practice, Amy's skills became good enough that she was able to win the school talent competition.",
+            "question": "If Amy does not win the talent competition, does she practice piano daily?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "Sara wanted to run a marathon this year. She learned that if she trained consistently, her endurance would improve. With better endurance, Sara knew she could finish the lengthy marathon race.",
+            "question": "If Sara does not finish the race, then does she train for the marathon?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "Jessica owns a small business. She learns that advertising on social media introduces her business to new potential customers. With more customers, Jessica's revenue and profits increase substantially.",
+            "question": "If Jessica's revenue does not increase, does she advertise on social media?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "Matt wanted to start his own web development business. He realized that if he learned web development, he could build interactive websites for clients. Matt knew that if he could build websites for others, he could start his own successful business.",
+            "question": "If Matt does not start his own business, then does he learn web development?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "Kim wanted to travel to France on vacation. She knew that if she studied French every day, she could become fluent in the language. And if Kim became fluent, she could comfortably travel to France and speak with the locals.",
+            "question": "If Kim does not travel to France, then does she study French daily?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "Sarah got a new puppy. She learned that if she trained it consistently, it would become a well-behaved dog. With a well-behaved dog, Sarah knew she could take it to more places without issues.",
+            "question": "If Sarah cannot take her dog to more places, does she train it consistently?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "Dan dreamed of attending law school. He learned that if he took practice LSAT exams, his scores would improve over time. With higher LSAT scores, Dan was accepted into his top choice law school.",
+            "question": "If Dan does not get into law school, then does he take practice LSAT exams?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "Mike enjoyed cooking gourmet meals. He learned that if he read cooking blogs, he would learn new and creative recipes. With these new recipes, Mike found he could cook restaurant-quality meals at home.",
+            "question": "If Mike cannot cook restaurant-quality meals, then does he read cooking blogs?",
+            "answer": "no"
+        }
+    ]
+}

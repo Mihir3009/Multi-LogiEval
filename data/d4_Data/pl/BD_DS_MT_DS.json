@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "BD_DS_MT_DS",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Lucy checked the weather forecast this morning. She knew that if rain is predicted, then she takes an umbrella when going out. Lucy was planning to go shopping downtown today. If Lucy goes shopping downtown, she drives to the shops. Either rain is predicted, or Lucy did not drive to the shops. She also knows that if it is springtime, the forecast often predicts rain. Lucy's friend mentioned that either it is springtime now, or Lucy is buying new rain boots, or both are true.",
+            "question": "If Lucy did not take an umbrella, then is she buying new rain boots?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "It was a scorching summer day. Sam knew that if it is very hot outside, then he turns on the AC to cool down. There was also a nice temperature forecast today. If the forecast shows sunny weather, then Sam's will go to the beach. Sam is positive that either it is very hot out, or he will not go to the beach, or both are true. He also knows that if the skies are clear, the forecast will be sunny. Either the skies are clear or it's raining.",
+            "question": "If Sam did not turn on the AC, then is it raining?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "Mary checked her calendar since it was a holiday weekend coming up. She knew if it is a holiday, the bank is closed. Mary also needed to deposit her latest paycheck. If she is able to deposit a check, then she would not have to pay late fees. Either it is a holiday or Mary faces late fees. Mary also knows if she started a new job, she deposits her paycheck. Her friend mentioned that either Mary started a new job or she's going on vacation soon, or both.",
+            "question": "If the bank was open, is Mary going on vacation?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "It was July 4th weekend and people were getting ready to travel. Maggie knew that if it is a holiday weekend, then traffic is much busier than usual. Many people also travel for the holiday, so if lots of people are traveling, there are many more cars on the road. Maggie had a hunch that either it is a holiday weekend, or there are not that many extra cars out, or it is a holiday weekend even without much extra traffic. She also knew that if the weather is nice, then more people travel. Maggie heard that either the weather is expected to be nice, or airlines will be underbooked, or maybe both will happen.",
+            "question": "If traffic is not busy, are airlines underbooked?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Eric was driving to work on Monday morning. He knew that if it is a Monday morning, then traffic is usually heavy as people commute to work. Many people drive to work on Mondays, so if a lot of people are driving, the roads get congested. Eric figured that either it is Monday morning, or the roads are not that backed up, or both could be true. He also knew that if it is rush hour, then a lot of people must be driving to work. Eric's coworker texted him that either it is rush hour right now, or the highway has long delays, or perhaps both are happening.",
+            "question": "If traffic is not heavy, is the highway experiencing delays?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Emma checked the pet store hours. She knew if they're open, she buys treats for her dog. Emma was also taking her dog on a long hike. If they go on a long hike, the dog gets well-exercised. Either the store is open or the dog isn't exercised, or the store is open and the dog isn't exercised. Emma also knows if she finished work early, they're going on a hike. Her friend wondered if either Emma finished work early or she's meeting a friend for dinner, or both.",
+            "question": "If Emma did not buy treats, is she meeting a friend for dinner?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "It was finally the first day of summer vacation in the Jones household. The kids knew that if it is the first day of summer break, then they can stay up late. They also don't have to wake up early for school during vacation. If they don't have to wake up early, then the kids sleep in very late on vacation days. The kids are certain that either it is the first day of summer break, or they did not sleep in late today, or both things are true. Their parents know that if the kids are excited for vacation, then they will stay up late. The babysitter thinks that either the kids are excited, or they will watch movies all night, or maybe they will do both.",
+            "question": "If the kids did not stay up late, then did they watch movies all night?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Abby woke up to sunshine streaming in her window. She knew that if it is the first sunny day after a long winter, then she goes hiking to enjoy the outdoors. The trails are also clear and dry on the first nice day. If the trails are clear, then the hike will be very enjoyable. Abby felt certain that either it is sunny after a long winter, or the hike will not be enjoyable, or both are true. She also knows that if she has felt cooped up all winter, then she really wants to get outside and hike on the first nice day. Her best friend thinks either Abby has felt cooped up for a while, or she is inviting friends to join her hike, or maybe she will do both things.",
+            "question": "If Abby did not go hiking, then did she invite friends to join her?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "This morning, Emily's alarm clock started ringing. She knew that if the alarm went off, then she woke up on time. Emily also had an important meeting at work today. If Emily had an important meeting, then she got ready quickly in the morning. Either the alarm went off, or Emily did not get ready quickly, or the alarm rang and Emily did not get ready quickly. She also knew that if it was a work day, then she had an important meeting. Emily's husband could tell that either it was a work day, or Emily slept poorly last night, or maybe both were true.",
+            "question": "If Emily did not wake up on time, then did she sleep poorly?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "The principal walked the halls noting many empty classrooms. He knew if it is flu season, attendance suffers as students stay home sick. A bad flu strain leads to many absences. Either it's flu season or attendance is normal. He also knows that if the hospital has an influx of cases, a virulent strain is spreading. The school nurse mentioned that she heard either the hospital is busier, or the school might close early for disinfection, or both.",
+            "question": "If attendance is normal, did the school close early for cleaning?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Jake was looking forward to his son's soccer game today. He knew that if the forecast predicts rain, then the soccer game will likely be canceled. If it rains a lot, the field also tends to get too muddy to play on. Jake is certain that either the forecast predicts rain, or the field is still usable for the game. He also knows that if a big storm is approaching, then the field gets too muddy to play. Jake heard on the news that either a big storm is approaching, or fans will be disappointed if the game is canceled, or both could happen.",
+            "question": "If the soccer game is not canceled, then will fans be disappointed?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "It was mid-winter and there was speculation about this year's flu. Dr. Adams knew that if it is flu season, then many people get sick. He also knew that if a contagious strain is going around, it tends to spread through schools. The doctor feels certain that either it is flu season, or the illness did not spread through schools, or it is flu season yet schools did not contribute to spreading it. He has learned that if cold weather came early this year, a contagious strain likely started circulating. Dr. Adams has been told that either the cold weather came early, or people aren't washing hands enough, or both factors occurred.",
+            "question": "If many people are not sick, did the cold weather come early this year?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "James searched for a room during the big game. He knew that if the city is hosting a major sports event, hotel prices skyrocket. Lots of visiting fans means rooms book up fast. Either there's a major event or rooms are available, or both. He also knows the local team making the finals means an influx of people coming to town. His friend texted that he saw either the home team was in the championships or roads are closed for a parade, maybe even both.",
+            "question": "If hotel rates are normal, were roads closed for a parade?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "It was an exciting season for the local baseball team. Carlos knew that if the team is having a winning season, then fans fill the stadium for games. The team also tends to sell a lot more tickets when they play well. If ticket sales are high, that means many fans want to attend games. Carlos heard a rumor that either the team is winning this season, or fans are not desperate to go to games, or the team is winning but fans still aren't scrambling for tickets. He also knows that if a team has a star player, ticket sales spike. His friend told him that either the team has a star player this year, or tickets are really hard to get, or maybe both are true.",
+            "question": "If fans do not fill the stadium, are tickets hard to get?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "Sam looked up the library hours. He knew if the library is open, he studies there. Sam also had an exam the next day. If he has an exam, that means he needs to prepare. Either the library is open or Sam doesn't need to prepare, or the library is open and he doesn't need to prepare. Sam also knows that if it's finals week, he has an exam tomorrow. His roommate said either it's finals week, or Sam is pulling an all-nighter, or both are happening.",
+            "question": "If Sam did not study at the library, did he pull an all-nighter?",
+            "answer": "yes"
+        }
+    ]
+}

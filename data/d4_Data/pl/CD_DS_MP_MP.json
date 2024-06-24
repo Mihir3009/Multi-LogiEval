@@ -1,0 +1,97 @@
+{
+    "logic": "pl",
+    "rule": "CD_DS_MP_MP",
+    "depth": "d4",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Jessica had just moved to a new city where she did not know anyone. If Jessica moved to a new city, she would not know anyone there. However, there was a local book club Jessica could join. If she joined the book club, Jessica would make new friends. Either Jessica moved to a new city, or she joined a book club, or maybe both happened. If Jessica made new friends, she would start to feel happy. And if Jessica felt happy, she would enjoy living in the new city.",
+            "question": "If Jessica did not feel like she knew anyone, then did she enjoy the new city?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Tom registered to run a marathon in a few months. If Tom signed up for the marathon, then he would start a training regimen. However, Tom's friend invited him on a ski trip coming up soon. If Tom went on the ski trip, then he would decide not to train for that week. Tom knew either he signed up for the marathon or his friend invited him on a trip, or maybe both happened. If Tom skipped training for a week, then he would not be ready for the marathon. And if Tom was not ready, then he would not finish the marathon.",
+            "question": "If Tom did not start a training regimen, then did he not finish the marathon?",
+            "answer": "yes"
+        },
+        {
+            "id": 3,
+            "context": "Laura wanted to repaint her bedroom this weekend. If Laura was going to paint, then she would need to buy paint supplies. As it happened, the hardware store was having a big sale on painting tools and accessories. If there was a sale, then Laura ended up buying more supplies than she had originally planned. Laura knew either she had decided to paint or the store was having a sale, or maybe both were true. If Laura bought more supplies, then she would spend more than her initial budget. And if Laura went over budget, she would have to wait to paint the guest room like she had also planned.",
+            "question": "If Laura did not have to buy paint supplies, then did she have to wait to paint the guest room?",
+            "answer": "yes"
+        },
+        {
+            "id": 4,
+            "context": "Lucy wanted to get healthier, so she signed up for an early morning exercise class. If Lucy signed up for the class, she would have to wake up early to attend. Lucy had also bought a new fitness tracker recently. If Lucy got a fitness tracker, she would become more active overall. Lucy either signed up for the class, or bought a tracker, or maybe both were true. If Lucy became more active, she would feel more energetic. And if she felt energetic, she would be in a better mood each day.",
+            "question": "If Lucy did not have to wake up early for the exercise class, then was she in a better mood each day?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "Lucy was thinking of repainting her house soon. If Lucy decided to repaint, she would have to buy paint supplies. Also, Lucy's friend knew she liked art and gifted her some art supplies. If Lucy got art supplies, she would start painting as a new hobby. Either Lucy decided to repaint her house, or she got gifted art supplies, or maybe both occurred. If Lucy started painting for fun, she would feel relaxed and creative. And if Lucy felt that way, she would repaint her house beautifully.",
+            "question": "If Lucy did not have to buy paint supplies, then did she repaint her house beautifully?",
+            "answer": "yes"
+        },
+        {
+            "id": 6,
+            "context": "Sam went to the animal shelter and adopted a dog. If Sam adopted a dog, he would need to buy food and supplies for it. However, Sam's car recently broke down. If his car broke, Sam would have to spend money getting it fixed. Sam knew either he adopted a dog, or his car broke, or maybe both happened. If Sam had to spend money fixing his car, then he could not afford the dog supplies. And if Sam could not afford supplies, he would have to return the dog to the shelter.",
+            "question": "If Sam did not have to buy dog food and supplies, then did he return the dog to the shelter?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Jim's car broke down and wouldn't start. If his car broke down, then he would have to call a mechanic. However, Jim's wife offered to lend him her car for the week. If Jim could borrow his wife's car, then he would still be able to get to work while his car was in the shop. Jim knew either his car broke down or his wife lent him her car, or maybe both happened. If Jim didn't need repairs right away, then he would save some money. And if Jim saved money, then he could buy concert tickets he wanted.",
+            "question": "If Jim did not call a mechanic, then did he buy concert tickets?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Aaron's friends invited him to go hiking over the weekend. If Aaron was invited hiking, he would buy new boots for the trip. However, Aaron unfortunately sprained his ankle recently. If Aaron sprained his ankle, he would need to rest it. Aaron knew either he was invited hiking, or he sprained his ankle, or maybe both happened. If Aaron had to rest his ankle, he would not be able to go hiking with his friends. And if Aaron didn't go hiking, he stayed home resting instead.",
+            "question": "If Aaron did not buy new hiking boots, then did he stay home to rest instead of going hiking?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Nina rented a nice beach house for the summer where she could go swimming in the ocean every day. If Nina rented a beach house, she would go for swims daily. However, there was going to be a heatwave one week. If there was a heatwave, the beaches would be closed. Either Nina rented the beach house, or there was going to be a heatwave, or both happened. If the beaches were closed, Nina would feel bored. And if Nina felt bored, she would start writing a novel.",
+            "question": "If Nina did not swim in the ocean daily, then did she start writing a novel?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "Mark landed a great summer internship in a new city. If Mark got an internship, he would need to rent an apartment near the office. However, Mark's parents also planned a big family vacation that summer. If his parents planned a vacation, Mark would go with them. Mark knew either he got an internship, or there was a family vacation, or maybe both. If Mark went on the family trip, he would end up working remotely during the vacation. And if Mark worked remotely on vacation, then he worked on vacation rather than from his new apartment.",
+            "question": "If Mark did not rent an apartment near his office, then did he work while on vacation?",
+            "answer": "yes"
+        },
+        {
+            "id": 11,
+            "context": "Lucy registered to run a marathon this year. If Lucy signed up for the marathon, she would start a regular running regimen. However, Lucy injured her knee recently. If Lucy injured her knee, she would have to stop running. Lucy knew that either she signed up for the marathon or injured her knee, or maybe both happened. If she had to stop running, Lucy would feel disappointed. And if Lucy felt disappointed, she would withdraw from the marathon.",
+            "question": "If Lucy did not start a running regimen, then did she withdraw from the marathon?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "Jim wanted to take up tennis this summer. If Jim signed up for tennis lessons, he would have to buy a new racket. Also, the tennis club was having an end of season sale. If there was a sale, the lessons would be discounted. Jim knew either he would sign up for lessons, or there would be a sale, or maybe both. If the lessons were discounted, Jim would save some money. And if Jim saved money, he could afford more tennis lessons.",
+            "question": "If Jim did not have to buy a new racket, then could he afford more lessons?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Layla wanted to book a Caribbean cruise vacation. If she booked a cruise, Layla would need new cruise-appropriate clothing. Also, Layla's cousin closed down her designer clothing boutique. If the boutique closed, Layla could get discounted designer clothes. Layla either booked a cruise or got discounted clothes, or both happened. If Layla saved money on clothes, she could splurge on excursions during her cruise.",
+            "question": "If Layla did not need new cruise clothing, could she splurge on excursions?",
+            "answer": "yes"
+        },
+        {
+            "id": 14,
+            "context": "Ashley's boyfriend surprised her by adopting an adorable puppy. If he got Ashley a puppy, it would require a lot of care and attention. However, Ashley was currently very busy with work. If Ashley was busy with work, she would not have much time to care for a puppy properly. Ashley knew that either her boyfriend got a puppy or she was busy with work, or maybe both were true. If Ashley did not have enough time for the puppy, she felt overwhelmed. And if Ashley felt overwhelmed, she considered finding a new home for the puppy.",
+            "question": "If the puppy did not require a lot of attention, then did Ashley consider re-homing it?",
+            "answer": "yes"
+        },
+        {
+            "id": 15,
+            "context": "Lucy wanted to start a new intense workout routine. If Lucy started a new routine, she would be sore after her hard workouts. Also, Lucy's office provided free massage therapy. If Lucy got massages at work, her soreness would go away quicker. Lucy either started a new workout, or got free massages at work, or both happened. If her soreness went away faster, Lucy stayed motivated to keep working out. And if Lucy stayed motivated, she became fitter and healthier.",
+            "question": "If Lucy did not become sore after workouts, did she become fitter and healthier?",
+            "answer": "yes"
+        }
+    ]
+}

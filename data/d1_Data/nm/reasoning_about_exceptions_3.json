@@ -1,0 +1,127 @@
+{
+    "logic": "nm",
+    "rule": "reasoning_about_exceptions_3",
+    "depth": "d1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "John was walking through the parking lot at his local supermarket. As he glanced around at the rows of vehicles, he noticed that most of the cars were red in color. From experience, John knew that red cars typically had four wheels. However, as John scanned the lot, he spotted a red three-wheeled vehicle parked in the back. \"That's interesting,\" John thought. \"Most red cars have four wheels, but this unusual red vehicle only has three.\" John was intrigued by the sight of the atypical red three-wheeler amidst the sea of typical four-wheeled red cars in the lot. It made him realize that even broad generalizations about things like red cars having four wheels don't always apply to every single case.",
+            "question": "does this entail that cars have four wheels?",
+            "answer": "yes"
+        },
+        {
+            "id": 2,
+            "context": "Charlie is a dog and he has a furry tail. Usually, dogs with furry tails are friendly. However, there is at least one dog with a furry tail who is not friendly.",
+            "question": "Can we conclude that Charlie is friendly?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "The Tesla Model S is an electric vehicle and it has autopilot capabilities. Normally, electric vehicles with autopilot capabilities are energy efficient. Yet, there is at least one electric vehicle with autopilot that is not energy efficient.",
+            "question": "Can we conclude that the Tesla Model S is energy efficient?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "Lions are fierce carnivores that rely on hunting to survive. With their powerful jaws and sharp claws, lions are excellent hunters that can take down large prey. Most carnivores need to hunt in order to eat, since they only consume meat. However, there is one unique carnivore that gets its food a different way - the hyena. Unlike other meat eaters, hyenas are opportunistic scavengers rather than active hunters. They use their keen sense of smell to locate leftover carcasses from other animals' kills. By scavenging already dead animals, hyenas can get the meat they need without having to expend energy chasing down live prey. So while lions exemplify the classic carnivore's hunting lifestyle, the hyena demonstrates that not all carnivores need to hunt for their food.",
+            "question": "does this mean that lions hunt for food?",
+            "answer": "yes"
+        },
+        {
+            "id": 5,
+            "context": "The book 'Secrets of the Alchemist' is a novel and it has a mystery genre. Typically, novels with a mystery genre have a surprise ending. Still, there is at least one novel with a mystery genre that does not have a surprise ending.",
+            "question": "Can we conclude that 'Secrets of the Alchemist' has a surprise ending?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "Dolphins are well-known mammals that breathe air through their blowholes while swimming in the ocean. Most mammals do respire through their lungs and require oxygen from the air to survive. However, there is an exception to this common trait. The Cuvier's beaked whale is a unique mammal that can hold its breath for over 2 hours while diving to great depths to hunt for food. This whale has adapted to stay submerged for remarkably long periods without taking a breath at the surface. While most mammals could not survive without regular access to air, the Cuvier's beaked whale challenges that assumption and demonstrates that at least some marine mammals have evolved incredible capabilities to hunt and thrive in the deep ocean, despite not breathing air for hours at a time. Even among fellow mammals, nature contains amazing diversity in respiratory systems and capacities.",
+            "question": "does this mean that dolphins breathe air?",
+            "answer": "yes"
+        },
+        {
+            "id": 7,
+            "context": "Bears are omnivorous, meaning they eat both plants and animals. Most bears have a diverse diet, feasting on berries, roots, fish, and other prey. However, the polar bear is a unique omnivore that relies almost exclusively on meat. Living in the icy Arctic, there are hardly any edible plants available. Polar bears have adapted to survive on seals, whales, fish, and other animal protein they can find. While most omnivores need plant matter, the polar bear's meat-heavy diet allows it to thrive in its frigid habitat. This shows that not all omnivores need to eat plants, as some like the polar bear can get by on just animal food sources.",
+            "question": "does this entail that bears eat plants and animals?",
+            "answer": "yes"
+        },
+        {
+            "id": 8,
+            "context": "Cows are known for their distinctive black and white patchwork coats. As herd animals, cows often live together in large groups called herds. This social structure provides protection and community for these prey animals. However, not all black and white animals are highly social. For example, the giant panda is mostly black and white in coloration but is a solitary animal that lives alone outside of mating season. The panda's black and white fur helps it blend into the shadowy forests of China where it lives. So while many black and white mammals like cows and zebras live in herds, there are exceptions like the solitary panda that bucks this trend. The panda's individual lifestyle shows that not all black and white animals necessarily live in big groups.",
+            "question": "does this imply that cows usually live in groups?",
+            "answer": "yes"
+        },
+        {
+            "id": 9,
+            "context": "Cats are a type of animal that is well-known for having fur. Fur helps keep animals like cats warm and provides protection. However, most animals do have fur, but there are some exceptions. For example, elephants, rhinos, and hippos are animals that do not have fur coats. Even though fur is common for many animals, it is not a universal trait. Just like cats have fur, there are also hairless animals like certain breeds of dogs and cats. So while fur is the norm for most animals like household pets, there are unusual cases of animals that do not follow this pattern.",
+            "question": "does this imply that cats have fur?",
+            "answer": "yes"
+        },
+        {
+            "id": 10,
+            "context": "The Himalayan Blue Poppy is a plant and it grows in high altitude areas. Generally, plants that grow in high altitude areas are robust against cold. However, there is at least one plant that grows in high altitudes that is not robust against cold.",
+            "question": "Can we conclude that the Himalayan Blue Poppy is robust against cold?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "John was shopping for a used car and came across a listing for a sedan that looked promising. The seller noted that the car had four wheels, so John assumed it would drive just fine. Most cars with four wheels are operational, after all. However, when John arrived to see the car, he quickly realized there was a problem. Despite having four fully intact wheels, the car would not start. The engine made strange noises when he turned the key, suggesting some internal issue was preventing the car from running properly. Though the car had the right number of wheels, at least one key part under the hood must have been broken or worn out. John learned an important lesson - just because a car has four wheels does not necessarily mean it will drive. The mechanical condition matters just as much.",
+            "question": "does this entail that this car with four wheels can be driven?",
+            "answer": "yes"
+        },
+        {
+            "id": 12,
+            "context": "John was walking through the lush green forest, admiring all of the beautiful trees and plants. He loved seeing how vibrantly green everything was after the recent rains. As he walked along, he noticed a strange bush that seemed exceptionally green and healthy. \"That's odd,\" he thought. \"With this drought, most plants need extra water to stay so vibrantly green.\" He walked over to examine the bush more closely. Upon inspection, he realized it was a resurrection plant, a species that can survive long periods of drought without water due to its ability to curl up and go dormant. John was fascinated to stumble upon one of these rare plants thriving in the forest. It made him appreciate the incredible diversity and adaptability of plant life even more.",
+            "question": "does this imply that trees require water?",
+            "answer": "yes"
+        },
+        {
+            "id": 13,
+            "context": "Jupiter is a planet and it has a strong magnetic field. Normally, planets with strong magnetic fields have extensive radiation belts. Nonetheless, there is at least one planet with a strong magnetic field that does not have extensive radiation belts.",
+            "question": "Can we conclude that Jupiter has extensive radiation belts?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "Maple trees are known for their large leaves. Usually, trees with large leaves have deep root systems to support their size. However, there exists at least one tree with large leaves that does not have a deep root system.",
+            "question": "Can we conclude that Maple trees have deep root systems?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "John grew up on a farm and was very familiar with the animals found there. The cows on his family's farm were mostly black and brown, but there was one white cow named Bessie. Bessie stood out from the others with her bright white coat. Johnassociated white animals with farms since that was his experience. However, one day John visited the zoo and saw a white tiger pacing in its enclosure. He was struck by the majestic white coat of the tiger and realized that not all white animals live on farms. While many white farm animals like Bessie the cow call the farm home, there are also incredible white wild animals like the tiger that live elsewhere. This was an eye-opening experience for John that challenged his assumption that all white animals can be found in farms.",
+            "question": "does this imply that cows are usually found in a farm?",
+            "answer": "yes"
+        },
+        {
+            "id": 16,
+            "context": "John was grocery shopping and wanted to buy some juicy fruit. He knew that apples are red and that red fruits are usually juicy. He picked up some red apples, expecting them to be refreshing and juicy. However, when John bit into one of the apples, he found that it was dry and mealy, not juicy at all. Disappointed, John realized that while most red fruits are juicy, at least one of these red apples was an exception. Although apples are typically juicy, he learned that sometimes even red fruits that should be juicy end up dry instead.",
+            "question": "does this imply that apples are juicy?",
+            "answer": "yes"
+        },
+        {
+            "id": 17,
+            "context": "John loved riding his bicycle around the neighborhood. He enjoyed feeling the wind blow through his hair as he pedaled down the street. John's bicycle had two wheels, like most bicycles do. He used it mainly for recreation and exercise rather than transportation. While bicycles are commonly used to get from place to place, John preferred simply going for relaxing rides around the block on his bike. One day, he decided to take his bicycle to the park. He rode lazily around the trails, taking in the scenery, rather than using his two-wheeler for any functional purpose. John appreciated that his bicycle gave him the option to ride for pleasure, unlike some other two-wheeled vehicles which are restricted to only serving as transportation.",
+            "question": "does this entail that bicycles are commonly used for transportation?",
+            "answer": "yes"
+        },
+        {
+            "id": 18,
+            "context": "John brought home a new puppy named Max last week. Max is a tiny fluffy golden retriever who loves to play and cuddle. Since puppies are small animals, they usually live in a cage when they are very young so they have a safe space while being house trained. However, John decided not to keep Max in a cage. Even though Max is a small puppy, John wants him to feel like part of the family right away. So Max has free reign of the house under supervision. John puppy-proofed the house by covering wires, storing harmful chemicals out of reach, and keeping shoes and valuables picked up. This allows Max to explore without getting into too much trouble. While most small animals live in cages at first, John knew Max would be happier being part of the household. So far having Max as a free-roaming family pet has worked out great.",
+            "question": "does this mean that puppies live in a cage?",
+            "answer": "yes"
+        },
+        {
+            "id": 19,
+            "context": "The iPhone 12 is a smartphone that supports 5G technology. Normally, smartphones with 5G technology offer fast internet speeds. Yet, there is at least one smartphone with 5G technology that does not offer fast internet speeds.",
+            "question": "Can we conclude that the iPhone 12 offers fast internet speeds?",
+            "answer": "no"
+        },
+        {
+            "id": 20,
+            "context": "Cats are furry animals that are known for having soft, luscious fur coats covering their bodies. Most furry animals like cats have whiskers, which are specialized hairs that help them detect objects around them. Whiskers act like sensors to gather information about the environment. However, there are some exceptions to this general rule. For example, fur seals have fur but don't possess any whiskers. Their flippers and sensory abilities in the water make whiskers unnecessary. So while most furry creatures have whiskers to complement their fur, not all do. There are always exceptions in nature. The fur seal demonstrates that just because an animal has fur doesn't mean it necessarily needs whiskers too.",
+            "question": "does this entail that cats have whiskers?",
+            "answer": "yes"
+        }
+    ]
+}

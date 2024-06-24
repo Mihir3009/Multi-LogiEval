@@ -1,0 +1,126 @@
+{
+    "logic": "mm",
+    "rule": "DRI_MT",
+    "depth": "d2",
+    "samples": [
+    {
+        "id": 1,
+        "context": "John and Kate are students in the same class. Usually students in that class play a sport. John does not play a sport. Kate sings in the school choir.",
+        "question": "Can we conclude Kate does not sing in the school choir?",
+        "answer": "no"
+    },
+    {
+        "id": 2,
+        "context": "The red car and blue car are both sedans. Sedans normally have leather seats. The red car does not have leather seats. The blue car has a sunroof.",
+        "question": "Can we conclude the blue car does not have a sunroof?",
+        "answer": "no"
+    },
+    {
+        "id": 3,
+        "context": "Sara and Emma work at the same company. Employees at that company typically take public transit to work. Sara drives her car to work. Emma brings her lunch everyday.",
+        "question": "Can we conclude Emma does not bring her lunch everyday?",
+        "answer": "no"
+    },
+    {
+        "id": 4,
+        "context": "Matt and Jacob are on the basketball team. Players on the basketball team usually attend morning practices. Matt does not attend morning practices. Jacob has a part-time job after school.",
+        "question": "Can we conclude Jacob does not have a part-time job after school?",
+        "answer": "no"
+    },
+    {
+        "id": 5,
+        "context": "The oak tree and pine tree are both in the park. Trees in the park generally lose their leaves in the fall. The oak tree does not lose its leaves in the fall. The pine tree provides shade.",
+        "question": "Can we conclude the pine tree does not provide shade?",
+        "answer": "no"
+    },
+    {
+        "id": 6,
+        "context": "John and Mary are classmates. Normally classmates sit together at lunch. John does not sit with Mary at lunch. Billy plays basketball with John.",
+        "question": "Can we conclude Billy plays basketball with Mary?",
+        "answer": "no"
+    },
+    {
+        "id": 7,
+        "context": "Cats and dogs are animals. Normally animals can swim. Cats cannot swim. Dogs have fur coats.",
+        "question": "Can we conclude dogs do not have fur coats?",
+        "answer": "no"
+    },
+    {
+        "id": 8,
+        "context": "Apples and oranges are fruits. Normally fruits are sweet. Apples are not sweet. Oranges contain vitamin C.",
+        "question": "Can we conclude oranges do not contain vitamin C?",
+        "answer": "no"
+    },
+    {
+        "id": 9,
+        "context": "Tigers and lions are felines. Normally felines hunt at night. Tigers do not hunt at night. Lions live in prides.",
+        "question": "Can we conclude lions do not live in prides?",
+        "answer": "no"
+    },
+    {
+        "id": 10,
+        "context": "Oaks and maples are trees. Normally trees lose leaves in winter.  Oaks do not lose leaves in winter. Maples have winged fruit.",
+        "question": "Can we conclude maples do not have winged fruit?",
+        "answer": "no"
+    },
+    {
+        "id": 11,
+        "context": "Anna and Bob are students in the same class. Students in that class normally take an exam at the end. Anna did not take the exam. Bob took extra credit work.",
+        "question": "Can we conclude Bob did not do the extra credit work?",
+        "answer": "no"
+    },
+    {
+        "id": 12,
+        "context": "The red car and blue car are both sedans. Sedans typically have power windows. The red car does not have power windows. The blue car has a sunroof.",
+        "question": "Can we conclude the blue car does not have a sunroof?",
+        "answer": "no"
+    },
+    {
+        "id": 13,
+        "context": "Emma and Jacob are athletes on the school soccer team. Players are usually required to attend practices. Emma did not attend practices. Jacob volunteered at the animal shelter over the summer.",
+        "question": "Can we conclude Jacob did not volunteer at the animal shelter?",
+        "answer": "no"
+    },
+    {
+        "id": 14,
+        "context": "Samsung and Apple both make smartphones. Smartphones these days normally have multiple cameras. The Samsung does not have multiple cameras. The Apple has a folding screen.",
+        "question": "Can we conclude the Apple does not have a folding screen?",
+        "answer": "no"
+    },
+    {
+        "id": 15,
+        "context": "The oak tree and pine tree are both evergreens. Evergreens typically stay green all year. The oak tree does not stay green all year. The pine tree has grown very tall this year.",
+        "question": "Can we conclude the pine tree did not grow very tall this year?",
+        "answer": "no"
+    },
+    {
+        "id": 16,
+        "context": "John and Mary are students in math class. Normally students in math class do homework every night. John did not do his homework last night. Mary studied extra problems that were not assigned.",
+        "question": "Can we conclude Mary did not study the extra problems?",
+        "answer": "no"
+    },
+    {
+        "id": 17,
+        "context": "The Red Sox and Yankees are baseball teams. Typically baseball teams have 9 players on the field. The Red Sox only had 8 players yesterday due to an injury. The Yankees scored 6 runs.",
+        "question": "Can we conclude the Yankees did not score 6 runs?",
+        "answer": "no"
+    },
+    {
+        "id": 18,
+        "context": "Samsung and Apple make smartphones. Usually smartphones have internet capability. The Samsung phone does not connect to internet. The Apple phone has wireless charging.",
+        "question": "Can we conclude the Apple phone does not have wireless charging?",
+        "answer": "no"
+    },
+    {
+        "id": 19,
+        "context": "Emma and Noah are taking an exam. Normally students taking an exam are not allowed to use notes. Emma did not use notes during exam. Noah received extra time to complete the exam.",
+        "question": "Can we conclude Noah did not receive extra time on the exam?",
+        "answer": "no"
+    },
+    {
+        "id": 20,
+        "context": "The Honda and Toyota are car models. Typically car models come with air conditioning. The Honda does not have air conditioning. The Toyota comes with leather seats.",
+        "question": "Can we conclude the Toyota does not come with leather seats?",
+        "answer": "no"
+    }
+]}

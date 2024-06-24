@@ -1,0 +1,97 @@
+{
+    "logic": "fol",
+    "rule": "DMT_CO_MT",
+    "depth": "d3",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If someone is cold, they should put on more layers. Also, if someone feels a chill, they should turn up the heat.",
+            "question": "Linda is either not adding layers or not adjusting the thermostat. Is Linda feeling cold?",
+            "answer": "no"
+        },
+        {
+            "id": 2,
+            "context": "If a person finds their account is hacked, they need to reset their password immediately. Additionally, one should notify their bank if they detect unauthorized access.",
+            "question": "Either Lucy did not change her password or inform her bank about the security breach. Did Lucy's account get hacked?",
+            "answer": "no"
+        },
+        {
+            "id": 3,
+            "context": "If someone is having computer problems, they should try restarting it. Additionally, if there are issues with a computer, its user should check for any software updates.",
+            "question": "Either Mary did not restart her computer or she did not install the latest updates. Was Mary having problems with her computer?",
+            "answer": "no"
+        },
+        {
+            "id": 4,
+            "context": "When a team loses an important game, the players feel disappointed. Additionally, losing a big match is demoralizing.",
+            "question": "The players are neither disappointed nor demoralized. Did the team lose a significant game?",
+            "answer": "no"
+        },
+        {
+            "id": 5,
+            "context": "Whenever someone goes on vacation, they should notify their contacts. Also, if someone is traveling, they ought to research the destination.",
+            "question": "Linda either did not inform her contacts or she did not research the place. Was Linda going on a vacation?",
+            "answer": "no"
+        },
+        {
+            "id": 6,
+            "context": "If a city experiences a drought, authorities should implement water restrictions. Furthermore, drought conditions require rationing water usage.",
+            "question": "Either the city did not enforce water limits, or it did not ration water usage. Is the city undergoing a drought?",
+            "answer": "no"
+        },
+        {
+            "id": 7,
+            "context": "If someone suspects identity theft, they should check their credit report. Also, if fraud is suspected, they should contact their bank.",
+            "question": "Either Ty did not verify his credit report or did not get in touch with his bank. Did Ty suspect that his identity was stolen?",
+            "answer": "no"
+        },
+        {
+            "id": 8,
+            "context": "If someone adopts a pet, they should get supplies ready. Additionally, adopting a pet means one should find a veterinarian.",
+            "question": "Jane either did not prepare supplies or did not find a vet. Did Jane recently adopt a pet?",
+            "answer": "no"
+        },
+        {
+            "id": 9,
+            "context": "If a student does not study enough, they will struggle on the exam. Additionally, if a student is unprepared, they will get a bad grade.",
+            "question": "Either Sam did not struggle on the test or he did not get a bad grade. Did Sam study enough for the exam?",
+            "answer": "no"
+        },
+        {
+            "id": 10,
+            "context": "If a city experiences heavy rainfall, there will be flooding. Furthermore, lots of precipitation leads to road closures.",
+            "question": "Either there was no flooding or the roads remained open. Did the city have heavy rainfall?",
+            "answer": "no"
+        },
+        {
+            "id": 11,
+            "context": "If someone suspects their partner is cheating, they should have an open conversation about it. Also, infidelity concerns warrant re-evaluating the relationship.",
+            "question": "Either Priya did not talk to her partner, or she did not reassess the relationship. Did Priya think her partner was being unfaithful?",
+            "answer": "no"
+        },
+        {
+            "id": 12,
+            "context": "If someone's car breaks down, they should call a mechanic. Also, if a car has issues running, its owner should get it inspected.",
+            "question": "Either Susan did not call a mechanic, or she did not get her car inspected. Did Susan's car break down on the highway?",
+            "answer": "no"
+        },
+        {
+            "id": 13,
+            "context": "If someone finds a wallet on the ground, they should try to return it. Also, if someone locates a lost wallet, they should keep it safe until the owner is found.",
+            "question": "Either Chris did not try to return the wallet or he did not keep it safe. Did Chris come across a lost wallet?",
+            "answer": "no"
+        },
+        {
+            "id": 14,
+            "context": "If someone finds an injured animal, they should contact wildlife authorities. Additionally, if someone encounters an injured wild animal, they should keep their distance.",
+            "question": "Either Mike did not contact wildlife authorities about the injured animal or he did not keep his distance. Did Mike come across an injured wild animal?",
+            "answer": "no"
+        },
+        {
+            "id": 15,
+            "context": "If someone gets injured, they should see a doctor. Also, getting hurt warrants resting the affected area.",
+            "question": "Either Jane did not see a doctor or she did not rest her injury. Did Jane get hurt?",
+            "answer": "no"
+        }
+    ]
+}
